@@ -1,0 +1,72 @@
+3.0
+- several fixes, login, content etc...
+
+2.9
+- 10Top fixed
+
+2.8
+- parser fix
+
+2.7
+- resolver fixed
+- info
+
+2.6
+- find host name 
+- rapid/raptu link patch
+- repo,kod
+
+2.5
+- minor fix (kod)
+
+2.4
+- minor fixes
+- top 10
+- info
+- login fixed
+
+2.3
+- login
+- minor fixes
+
+2.2
+- cda fixed
+- play trailer option
+
+2.1
+- web parser updated
+
+2.0
+- link parser updated
+
+1.9
+- resolver update
+
+1.8
+-
+
+1.7
+- rapidvideo resolver fixed
+
+1.6
+- custom rapidvideo resolver
+- mminor change
+
+1.5
+- fix for additional info
+
+1.4
+- additional info as an option
+
+1.3
+- polecane filmy/bajki
+- info about a video quality if available
+
+1.2
+- video link greevid.com fixed
+
+1.1
+- video link parser for multiple source
+
+1.0
+- initial version

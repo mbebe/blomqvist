@@ -1,0 +1,5 @@
+1.1
+- playlist
+
+1.0
+- initial version

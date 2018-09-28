@@ -1,0 +1,9 @@
+1.2
+- parser fixed
+
+1.1
+- info
+- repo
+
+1.0
+- initial version

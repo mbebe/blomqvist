@@ -1,0 +1,8 @@
+1.1
+- Search option
+- Lista trojka/rmffm
+- Play all
+
+1.0
+- initial version
+- TODO: Artists, video selection by votes/or user selection, playlist?

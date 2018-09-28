@@ -1,0 +1,18 @@
+1.5
+- parser fixed
+
+1.4
+- repo,info
+- link parser fixed
+
+1.3
+-
+
+1.2
+- website location updated
+
+1.1
+- added wybrane - to store found content (folders/movies/shows)
+
+1.0
+- initial version
