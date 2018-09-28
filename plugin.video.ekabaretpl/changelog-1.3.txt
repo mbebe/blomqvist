@@ -1,0 +1,12 @@
+1.3
+- update 
+- kodi,repo, icon
+
+1.2
+- 
+
+1.1
+- tvp.pl sources now available as well
+
+1.0
+- initial version

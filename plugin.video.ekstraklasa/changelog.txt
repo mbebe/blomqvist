@@ -1,0 +1,112 @@
+2.1.2
+- minor fixes by Mbebe
+
+2.1.1
+- some fixes
+
+2.1
+- decoding the plugin code
+- reconstruction of variable names and names functions
+- remove of malicious codes from the plugin
+- remove of script.module.ramic from the plugin
+- code fixes
+- remove of unnecessary modules and functions from the plugin
+- change urlresolver to resolveurl
+- meczreplay out
+
+2.0
+- proxy fixes
+- minor code fixes
+
+1.27
+- proxy fixed (including live?)
+
+1.26
+- meczyki.pl
+
+1.25
+- MechReplay: fixed pagination
+
+1.24
+fixed: Football Video,FootballOrgin,GoolsArena
+added MechReplay
+
+1.23
+- live stream resolution selection
+
+1.22
+- ekstraklasa.tv fixed
+- estadios.pl fixed
+
+1.21
+- fixed lechtv link parser
+- added ekstraklasa.tv
+
+1.20
+- minor fix
+
+1.19
+- minor fix (kod)
+- info
+
+1.18
+- path for a proxy gate (live)
+- 
+
+1.17
+- parser fixed
+
+1.16
+-
+
+1.15
+- mminor change
+
+1.14
+- service: laczynaspilka.pl
+
+1.13
+- Ekstraklasa: link parser fixed
+
+1.12
+- new code
+- PolsatSport
+
+1.11
+- GoalsArena
+
+1.10
+- footballorgin
+
+1.9
+- tabela ekstraklasy
+- lech tv fixed videos display
+ 
+1.8
+- LechTV
+- icons resized
+
+1.7_kodi17
+- compatibility with kodi 17
+
+1.6
+- ekstraklasa live stream: quality selection 
+- ekstraklasa video : play fixed with proxy
+
+1.5
+- videos from livefootballol
+
+1.4
+- extragoalresolver fix
+    
+1.3
+- estadios.pl: skroty meczow
+
+1.2
+- minor fix
+
+1.1
+- proxy gate pl ips
+
+1.0
+- initial version

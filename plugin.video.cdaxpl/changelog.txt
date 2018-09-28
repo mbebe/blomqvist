@@ -1,0 +1,20 @@
+1.2.1 by Podpis
+- movies fixed
+- add Polecane filmy
+- add Polecane seriale
+
+1.2 by mbebe
+- code fixes
+- genres and years fix
+
+1.1 by mbebe
+- decoding the plugin code
+- reconstruction of variable names and names functions
+- remove of malicious codes from the plugin
+- remove of script.module.ramic from the plugin
+- code fixes
+- remove of unnecessary modules and functions from the plugin
+- resolveurl
+
+1.0 by Ramic
+- initial version

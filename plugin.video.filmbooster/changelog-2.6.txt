@@ -1,0 +1,51 @@
+2.6
+- fixes: search, premiere
+
+2.5
+- fixes: Baza filmow/seriali/programow/osob
+
+2.4
+- Baza programow TV: fixed 
+
+2.3
+- Baza programow TV
+- Baza/ranking ludzi filmu
+- dzis w TV pagination x3
+- perfrormance improvements
+
+2.2
+- baza filmow/seriali support old template
+
+2.1
+- filmwebbooster: single source
+
+2.0
+- tvshows parser fixed
+
+1.9
+- color changed
+- minor chages
+- webparser
+
+1.6/7/8
+- Library integration (initial version)
+- webparser fixes
+- settigns
+- pickup order
+
+1.5
+- some fixes
+
+1.4
+- some fixes
+
+1.3
+- addon updated
+- seriale
+- search fixed
+
+1.2
+- addon updated
+
+1.0
+- initial version 

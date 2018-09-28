@@ -1,0 +1,51 @@
+1.15
+- search fixed (only movies available)
+
+1.14
+- minor fixes
+
+1.13
+- captcha solver fixed
+
+1.12
+- resolver
+- info,repo
+
+1.11
+- minor fixes,
+- all skins supported
+
+1.10
+- urlparse and resolver fixed
+-
+
+1.9
+- typo
+- info about a laguage version 
+
+1.8,
+1.7
+- web scraper fixed
+
+1.6
+- 
+
+1.5
+- mminor change
+
+1.4
+- filwebapi fixed
+
+1.3
+- filwebapi fixed
+
+1.2
+- search option fixed
+- kodi17 compatibility
+
+1.1
+- new categories for movies and tv shows
+- minor code improvement
+
+1.0
+- initial version

@@ -1,0 +1,12 @@
+1.3
+- link resolver pathed
+
+1.2
+- fixed link parser
+
+1.1
+- resolver
+- info
+
+1.0
+- initial version
