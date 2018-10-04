@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon id="plugin.video.boxfilmpl" version="1.4.1" name="boxfilm.pl" provider-name="Podpis">
+<requires>
+  <import addon="xbmc.python" version="2.1.0"/>
+  <import addon="script.module.resolveurl" version="5.0.00"/>
+  <import addon="script.common.plugin.cache" version="2.5.5"/>
+  <import addon="script.module.requests" version="2.18.4"/>
+</requires>
+<extension point="xbmc.python.pluginsource" library="main.py">
+  <provides>video</provides>
+</extension>
+<extension point="xbmc.addon.metadata">
+  <summary lang="pl">Zasoby serwisu boxfilm.pl</summary>
+  <description lang="pl">Wszystkie filmy dostępne w serwisie są dostępne zupełnie za darmo.</description>
+  <disclaimer lang="en">A private use only. For bugs, requests or general questions visit my repository https://github.com/podpis/kodi</disclaimer>
+  <language></language>
+  <platform>all</platform>
+  <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+  <forum>https://github.com/podpis/kodi/issues</forum>
+  <website>https://github.com/podpis/kodi</website>
+  <assets>
+    <icon>icon.png</icon>
+    <fanart>fanart.jpg</fanart>
+    <screenshot>resources/media/screenshot-01.jpg</screenshot>
+    <screenshot>resources/media/screenshot-02.jpg</screenshot>
+    <screenshot>resources/media/screenshot-03.jpg</screenshot>
+  </assets>
+  <news>
+Version 1.4.1
+- change modules urllib/urllib2/httplib2 to module requests
+- add screenshots
+  </news>
+</extension>
+</addon>

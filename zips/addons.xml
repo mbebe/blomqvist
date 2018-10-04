@@ -1,0 +1,718 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addons>
+<addon id="plugin.video.alltube.tv" version="2.5.5a" name="alltube.tv" provider-name="Podpis">
+<requires>
+  <import addon="xbmc.python" version="2.24.0"/>
+  <import addon="script.module.resolveurl" version="5.0.00"/>
+  <import addon="script.common.plugin.cache" version="2.5.5"/>
+  <import addon="script.module.requests" version="2.18.4"/>
+</requires>
+<extension point="xbmc.python.pluginsource" library="main.py">
+  <provides>video</provides>
+</extension>
+<extension point="xbmc.addon.metadata">
+  <summary lang="en">alltube.tv</summary>
+  <description lang="en">Zasoby serwisu alltube.tv</description>
+  <disclaimer lang="en">A private use only. For bugs, requests or general questions visit my repository https://github.com/podpis/kodi</disclaimer>
+  <language></language>
+  <platform>all</platform>
+  <license></license>
+  <forum>https://github.com/podpis/kodi/issues</forum>
+  <website>https://github.com/podpis/kodi</website>
+  <email></email>
+  <source></source>
+  <assets>
+    <icon>icon.png</icon>
+    <fanart>fanart.jpg</fanart>
+  </assets>
+  <news>
+Róbta co chceta! :)
+  </news>
+</extension>
+</addon>
+
+<addon id="plugin.video.boxfilmpl" version="1.4.1" name="boxfilm.pl" provider-name="Podpis">
+<requires>
+  <import addon="xbmc.python" version="2.1.0"/>
+  <import addon="script.module.resolveurl" version="5.0.00"/>
+  <import addon="script.common.plugin.cache" version="2.5.5"/>
+  <import addon="script.module.requests" version="2.18.4"/>
+</requires>
+<extension point="xbmc.python.pluginsource" library="main.py">
+  <provides>video</provides>
+</extension>
+<extension point="xbmc.addon.metadata">
+  <summary lang="pl">Zasoby serwisu boxfilm.pl</summary>
+  <description lang="pl">Wszystkie filmy dostępne w serwisie są dostępne zupełnie za darmo.</description>
+  <disclaimer lang="en">A private use only. For bugs, requests or general questions visit my repository https://github.com/podpis/kodi</disclaimer>
+  <language></language>
+  <platform>all</platform>
+  <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+  <forum>https://github.com/podpis/kodi/issues</forum>
+  <website>https://github.com/podpis/kodi</website>
+  <assets>
+    <icon>icon.png</icon>
+    <fanart>fanart.jpg</fanart>
+    <screenshot>resources/media/screenshot-01.jpg</screenshot>
+    <screenshot>resources/media/screenshot-02.jpg</screenshot>
+    <screenshot>resources/media/screenshot-03.jpg</screenshot>
+  </assets>
+  <news>
+Version 1.4.1
+- change modules urllib/urllib2/httplib2 to module requests
+- add screenshots
+  </news>
+</extension>
+</addon>
+
+<addon id="plugin.video.cdahd" version="1.6.1" name="cda-hd" provider-name="Podpis">
+<requires>
+  <import addon="xbmc.python" version="2.1.0"/>
+  <import addon="script.module.resolveurl" version="5.0.12a"/>
+  <import addon="script.common.plugin.cache" version="2.5.5"/>
+  <import addon="script.module.requests" version="2.18.4"/>
+</requires>
+<extension point="xbmc.python.pluginsource" library="main.py">
+  <provides>video</provides>
+</extension>
+<extension point="xbmc.addon.metadata">
+  <summary lang="en">cda-hd.cc</summary>
+  <description lang="en">Zasoby cda-hd.co</description>
+  <disclaimer lang="en">A private use only.</disclaimer>
+  <language></language>
+  <platform>all</platform>
+  <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+  <forum></forum>
+  <website></website>
+  <email></email>
+  <source></source>
+  <assets>
+    <icon>icon.png</icon>
+    <fanart>fanart.jpg</fanart>
+    <screenshot>resources/screenshot-01.jpg</screenshot>
+    <screenshot>resources/screenshot-02.jpg</screenshot>
+  </assets>
+  <news>
+  </news>
+</extension>
+</addon>
+
+<addon id="plugin.video.cdaxpl" version="1.2.2" name="cda-x" provider-name="Podpis">
+<requires>
+  <import addon="xbmc.python" version="2.1.0"/>
+  <import addon="script.module.resolveurl" version="5.0.12b"/>
+  <import addon="script.common.plugin.cache" version="2.5.5"/>
+
+</requires>
+<extension point="xbmc.python.pluginsource" library="main.py">
+  <provides>video</provides>
+</extension>
+<extension point="xbmc.addon.metadata">
+  <summary lang="pl">Zasoby: cdax.online </summary>
+  <description lang="pl">cdax.online – filmy i seriale online</description>
+  <disclaimer lang="en">A private use only.</disclaimer>
+  <language></language>
+  <platform>all</platform>
+  <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+  <forum></forum>
+  <website></website>
+  <assets>
+    <icon>icon.png</icon>
+    <fanart>fanart.jpg</fanart>
+    <screenshot>resources/screenshot-01.jpg</screenshot>
+    <screenshot>resources/screenshot-02.jpg</screenshot>
+  </assets>
+  <news>
+  </news>
+</extension>
+</addon>
+
+<addon id="plugin.video.darmowatv" name="darmowaTv" version="1.5.2" provider-name="xxxxxx">
+    <requires>
+        <import addon="xbmc.python" version="2.25.0"/>
+        <import addon="script.module.requests" />
+        <import addon="script.module.parsedom" version="2.5.2"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="maintv.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <description lang="pl">darmowaTV</description>
+        <disclaimer lang="pl"></disclaimer>
+        <summary lang="pl">darmowaTV</summary>
+        <language>pl</language>
+        <platform>all</platform>
+        <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+        <website></website>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
+    </extension>
+</addon>
+
+<addon id="plugin.video.dokumentcyfrowo" version="1.1" name="Dokument Cyfrowo" provider-name="Podpis">
+<requires>
+  <import addon="xbmc.python" version="2.1.0"/>
+  <import addon="script.module.resolveurl" version="5.0.00"/>
+</requires>
+<extension point="xbmc.python.pluginsource" library="main.py">
+  <provides>video</provides>
+</extension>
+<extension point="xbmc.addon.metadata">
+  <summary lang="en">http://www.dokumentcyfrowo.pl/</summary>
+  <description lang="en">http://www.dokumentcyfrowo.pl/</description>
+  <disclaimer lang="en">A private use only. For bugs, requests or general questions visit my repository https://github.com/podpis/kodi</disclaimer>
+  <language></language>
+  <platform>all</platform>
+  <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+  <forum>https://github.com/podpis/kodi/issues</forum>
+  <website>https://github.com/podpis/kodi</website>
+  <email></email>
+  <assets>
+    <icon>icon.png</icon>
+    <fanart>fanart.jpg</fanart>
+  </assets>
+  <news>
+  </news>
+</extension>
+</addon>
+
+<addon id="plugin.video.efilmy" version="1.17" name="efilmy" provider-name="xxxxxxx">
+<requires>
+  <import addon="xbmc.python" version="2.1.0"/>
+  <import addon="script.module.resolveurl" version="3.0.15"/>
+  <import addon="script.common.plugin.cache" version="2.5.5"/>
+  <import addon="script.module.requests"/>
+</requires>
+<extension point="xbmc.python.pluginsource" library="main.py">
+  <provides>video</provides>
+</extension>
+<extension point="xbmc.addon.metadata">
+  <summary lang="en">efilmy</summary>
+  <description lang="en">Zasoby efilmy.tv</description>
+  <disclaimer lang="en">A private use only. </disclaimer>
+  <language></language>
+  <platform>all</platform>
+  <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+  <forum> </forum>
+  <website> </website>
+  <email></email>
+  <assets>
+    <icon>icon.png</icon>
+    <fanart>fanart.jpg</fanart>
+  </assets>
+  <news>
+  </news>
+</extension>
+</addon>
+
+<addon id="plugin.video.ekinomaniaktv" version="1.1" name="ekinomaniak" provider-name="xxxxxx">
+<requires>
+  <import addon="xbmc.python" version="2.1.0"/>
+  <import addon="script.module.resolveurl" version="5.0.12b"/>
+  <import addon="script.module.requests" version="2.18.4"/>
+  <import addon="script.common.plugin.cache" version="2.5.5"/>
+</requires>
+<extension point="xbmc.python.pluginsource" library="main.py">
+  <provides>video</provides>
+</extension>
+<extension point="xbmc.addon.metadata">
+  <summary lang="en">http://ekinomaniak.tv/</summary>
+  <description lang="en">http://ekinomaniak.tv/</description>
+  <disclaimer lang="en">A private use only.</disclaimer>
+  <language></language>
+  <platform>all</platform>
+  <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+  <forum></forum>
+  <website></website>
+  <assets>
+    <icon>icon.png</icon>
+    <fanart>fanart.jpg</fanart>
+    <screenshot>resources/screenshot-01.jpg</screenshot>
+    <screenshot>resources/screenshot-02.jpg</screenshot>
+  </assets>
+  <news>
+Do not install this addon if you are using a build.
+  </news>
+</extension>
+</addon>
+
+<addon id="plugin.video.ekinotv" name="ekino-tv" version="2.0.3" provider-name="xxxxxx">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.resolveurl" version="5.0.12b"/>
+    <import addon="script.module.requests" version="2.18.4"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="addon.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">http://ekino-tv.pl/</summary>
+    <description lang="en">Odgrywa zasoby Ekino-tv</description>
+    <disclaimer lang="en">A private use only. </disclaimer>
+    <language></language>
+    <platform>all</platform>
+    <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+    <forum></forum>
+    <website></website>
+    <email></email>
+  <assets>
+    <icon>icon.png</icon>
+    <fanart>fanart.jpg</fanart>
+  </assets>
+  <news>
+
+  </news>
+  </extension>
+</addon>
+
+<addon id="plugin.video.ekstraklasa" name="Ekstraklasa" version="3.2.2" provider-name="Proximus">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.resolveurl"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="main.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="pl">Mecze Ekstraklasy z Dailymotion i nie tylko</summary>
+    <description lang="en"></description>
+    <language></language>
+    <platform></platform>
+    <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+    <forum></forum>
+    <website></website>
+    <email></email>
+    <assets>
+        <icon>icon.png</icon>
+        <fanart>fanart.jpg</fanart>
+    </assets>
+  <news>
+Ekstrakalasa LIVE
+Ekstrakalasa.tv
+Estadios.pl
+Meczyki.pl
+Polsat Sport
+Łączy nas piłka
+ </news>
+  </extension>
+</addon>
+
+<addon id="plugin.video.filisertv" version="2.2" name="Fili.cc" provider-name="xxxxxx">
+<requires>
+  <import addon="xbmc.python" version="2.1.0"/>
+  <import addon="script.module.resolveurl" version="5.0.12b"/>
+</requires>
+<extension point="xbmc.python.pluginsource" library="main.py">
+  <provides>video</provides>
+</extension>
+<extension point="xbmc.addon.metadata">
+  <summary lang="en">Filiser</summary>
+  <description lang="en">Filiser</description>
+  <disclaimer lang="en">A private use only.</disclaimer>
+  <language></language>
+  <platform>all</platform>
+  <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+  <forum></forum>
+  <website></website>
+  <email></email>
+  <assets>
+    <icon>icon.png</icon>
+    <fanart>fanart.jpg</fanart>
+  </assets>
+  <news>
+Dostęp do serwisu bez polskiego IP
+  </news>
+</extension>
+</addon>
+
+<addon id="plugin.video.freedisc.pl" version="1.5" name="freedisc" provider-name="xxxxxx">
+<requires>
+  <import addon="xbmc.python" version="2.1.0"/>
+  <import addon="script.common.plugin.cache" version="2.5.5"/>
+  <import addon="script.module.requests" version="2.18.4"/>
+</requires>
+<extension point="xbmc.python.pluginsource" library="main.py">
+  <provides>video</provides>
+</extension>
+<extension point="xbmc.addon.metadata">
+  <summary lang="en">Freedisc</summary>
+  <description lang="en">Freedisc</description>
+  <disclaimer lang="en">A private use only. </disclaimer>
+  <language></language>
+  <platform>all</platform>
+  <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+  <forum></forum>
+  <website></website>
+  <email></email>
+  <assets>
+    <icon>icon.png</icon>
+    <fanart>fanart.jpg</fanart>
+  </assets>
+  <news>
+  </news>
+</extension>
+</addon>
+
+<addon id="plugin.video.iitv" name="iitv-seriale" version="2.4" provider-name="xxxxxx">
+  <requires>
+    <import addon="xbmc.python" version="2.25.0"/>
+	<import addon="script.module.resolveurl" version="5.0.12b"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="addon.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">iitv</summary>
+    <description lang="en">Odgrywa zasoby iitvx.pl</description>
+	<disclaimer lang="en">A private use only.</disclaimer>
+	<language></language>
+	<platform>all</platform>
+	<license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+	<forum></forum>
+	<website></website>
+	<email></email>
+	<assets>
+		<icon>icon.png</icon>
+		<fanart>fanart.jpg</fanart>
+	</assets>
+	<news>
+	</news>
+</extension>
+</addon>
+
+<addon id="plugin.video.kinonet" name="kinonet.pl" version="1.1" provider-name="xxxxxx">
+    <requires>
+        <import addon="xbmc.python" version="2.25.0"/>
+        <import addon="script.module.requests" />
+        <import addon="script.module.parsedom" version="2.5.2"/>
+        <import addon="script.module.resolveurl"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="main.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <description lang="pl">kinonet.pl</description>
+        <disclaimer lang="pl"></disclaimer>
+        <summary lang="pl">kinonet.pl</summary>
+        <language>pl</language>
+        <platform>all</platform>
+        <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+        <website></website>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
+    </extension>
+</addon>
+
+<addon id="plugin.video.kraisfilm" name="KraisFilm.pl" version="1.0" provider-name="xxxxxx">
+    <requires>
+        <import addon="xbmc.python" version="2.25.0"/>
+        <import addon="script.module.requests" />
+        <import addon="script.module.parsedom" version="2.5.2"/>
+        <import addon="script.module.resolveurl"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="main.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <description lang="pl">kraisfilm.pl</description>
+        <disclaimer lang="pl"></disclaimer>
+        <summary lang="pl">kraisfilm.pl</summary>
+        <language>pl</language>
+        <platform>all</platform>
+        <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+        <website></website>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
+    </extension>
+</addon>
+
+<addon id="plugin.video.naszekinotv" version="1.6.2" name="nasze-kino.tv" provider-name="Podpis">
+<requires>
+  <import addon="xbmc.python" version="2.1.0"/>
+  <import addon="script.module.resolveurl" version="5.0.00"/>
+  <import addon="script.common.plugin.cache" version="2.5.5"/>
+  <import addon="script.module.requests" version="2.18.4"/>
+</requires>
+<extension point="xbmc.python.pluginsource" library="main.py">
+  <provides>video</provides>
+</extension>
+<extension point="xbmc.addon.metadata">
+  <summary lang="en">nasze-kino.tv</summary>
+  <description lang="en">nasze-kino.tv</description>
+  <disclaimer lang="en">A private use only. For bugs, requests or general questions visit my repository https://github.com/podpis/kodi</disclaimer>
+  <language></language>
+  <platform>all</platform>
+  <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+  <forum>https://github.com/podpis/kodi/issues</forum>
+  <website>https://github.com/podpis/kodi</website>
+  <email></email>
+  <source>https://github.com/podpis/kodi</source>
+  <assets>
+    <icon>icon.png</icon>
+    <fanart>fanart.jpg</fanart>
+  </assets>
+  <news>
+Róbta co chceta! :)
+  </news>
+</extension>
+</addon>
+
+<addon id="plugin.video.ninateka" version="1.3" name="ninateka" provider-name="xxxxxx">
+<requires>
+  <import addon="xbmc.python" version="2.1.0"/>
+</requires>
+
+<extension point="xbmc.python.pluginsource" library="main.py">
+  <provides>video</provides>
+</extension>
+
+<extension point="xbmc.addon.metadata">
+  <summary lang="en">ninateka</summary>
+  <description lang="en">ninateka</description>
+  <disclaimer lang="en">A private use only. </disclaimer>
+  <language></language>
+  <platform>all</platform>
+  <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+  <forum></forum>
+  <website></website>
+  <email></email>
+  <assets>
+    <icon>icon.png</icon>
+    <fanart>fanart.jpg</fanart>
+    <screenshot>resources/screenshot-01.jpg</screenshot>
+    <screenshot>resources/screenshot-02.jpg</screenshot>
+  </assets>
+  <news>
+  </news>
+</extension>
+</addon>
+
+<addon id="plugin.video.ramicpolsat" version="1.1" name="PolsatNews" provider-name="xxxxxx">
+<requires>
+  <import addon="xbmc.python" version="2.1.0"/>
+
+</requires>
+<extension point="xbmc.python.pluginsource" library="main.py">
+  <provides>video</provides>
+</extension>
+<extension point="xbmc.addon.metadata">
+  <summary lang="en">PolsatNews</summary>
+  <description lang="en">PolsatNews</description>
+  <disclaimer lang="en">A private use only.</disclaimer>
+  <language></language>
+  <platform>all</platform>
+  <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+  <forum></forum>
+  <website></website>
+  <email></email>
+  <assets>
+    <icon>icon.png</icon>
+    <fanart>fanart.jpg</fanart>
+  </assets>
+  <news>
+  </news>
+</extension>
+</addon>
+
+<addon id="plugin.video.ramictvn24" version="1.3" name="TVN24" provider-name="xxxxxx">
+<requires>
+  <import addon="xbmc.python" version="2.1.0"/>
+
+</requires>
+<extension point="xbmc.python.pluginsource" library="main.py">
+  <provides>video</provides>
+</extension>
+<extension point="xbmc.addon.metadata">
+  <summary lang="en">TVN24</summary>
+  <description lang="en">TVN24</description>
+  <disclaimer lang="en">A private use only. </disclaimer>
+  <language></language>
+  <platform>all</platform>
+  <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+  <forum></forum>
+  <website></website>
+  <email></email>
+  <assets>
+    <icon>icon.png</icon>
+    <fanart>fanart.jpg</fanart>
+  </assets>
+  <news>
+  </news>
+</extension>
+</addon>
+
+<addon id="plugin.video.segos" version="3.3" name="segos" provider-name="xxxxxx">
+<requires>
+  <import addon="xbmc.python" version="2.1.0"/>
+  <import addon="script.common.plugin.cache" version="2.5.5"/>
+  <import addon="script.module.resolveurl" version="5.0.12b"/>
+</requires>
+<extension point="xbmc.python.pluginsource" library="main.py">
+  <provides>video</provides>
+</extension>
+<extension point="xbmc.addon.metadata">
+  <summary lang="en">segos</summary>
+  <description lang="en">Zasoby segos.es</description>
+  <disclaimer lang="en">private use</disclaimer>
+  <language></language>
+  <platform>all</platform>
+  <license></license>
+  <forum></forum>
+  <website></website>
+  <email></email>
+  <source></source>
+  <assets>
+    <icon>icon.png</icon>
+    <fanart>fanart.jpg</fanart>
+    <screenshot>resources/screenshot-01.jpg</screenshot>
+    <screenshot>resources/screenshot-02.jpg</screenshot>
+  </assets>
+  <news>
+</news>
+</extension>
+</addon>
+
+<addon id="plugin.video.serialosypl" version="1.8" name="serialosy24.pl" provider-name="xxxxxx">
+<requires>
+  <import addon="xbmc.python" version="2.1.0"/>
+  <import addon="script.module.resolveurl" version="5.0.12b"/>
+</requires>
+
+<extension point="xbmc.python.pluginsource" library="main.py">
+  <provides>video</provides>
+</extension>
+
+<extension point="xbmc.addon.metadata">
+  <summary lang="en">Serialosy24.pl</summary>
+  <description lang="en">Serialosy24.pl</description>
+  <disclaimer lang="en">A private use only.</disclaimer>
+  <language></language>
+  <platform>all</platform>
+  <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+  <forum></forum>
+  <website></website>
+  <email></email>
+  <assets>
+    <icon>icon.png</icon>
+    <fanart>fanart.jpg</fanart>
+  </assets>
+  <news>
+</news>
+</extension>
+</addon>
+
+<addon id="plugin.video.szukajkatv" version="1.4.1" name="Szukajka.tv" provider-name="Podpis">
+<requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.common.plugin.cache" version="2.5.5"/>
+    <import addon="script.module.resolveurl" version="5.0.00"/>
+</requires>
+
+<extension point="xbmc.python.pluginsource" library="main.py">
+  <provides>video</provides>
+</extension>
+
+<extension point="xbmc.addon.metadata">
+  <summary lang="en">Szukajka.tv</summary>
+  <description lang="en">Szukajka.tv</description>
+  <disclaimer lang="en">A private use only. For bugs, requests or general questions visit my repository https://github.com/podpis/kodi</disclaimer>
+  <language></language>
+  <platform>all</platform>
+  <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+  <forum>https://github.com/podpis/kodi/issues</forum>
+  <website>https://github.com/podpis/kodi</website>
+  <email>podpis@op.pl</email>
+  <assets>
+    <icon>icon.png</icon>
+    <fanart>fanart.jpg</fanart>
+  </assets>
+  <news>Róbta co chceta! :)</news>
+</extension>
+</addon>
+
+<addon id="plugin.video.TVP.pl" name="TVP.pl" version="2.1.9" provider-name="Podpis">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.inputstreamhelper" version="0.3.3"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="addon.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+	<summary lang="en">Zasoby serwisu tvp.pl oraz vod.tvp.pl</summary>
+	<description lang="en">Zasoby serwisu tvp.pl oraz vod.tvp.pl</description>
+	<disclaimer lang="en">A private use only. For bugs, requests or general questions visit my repository https://github.com/podpis/kodi</disclaimer>
+	<language>pl</language>
+	<platform>all</platform>
+	<license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+	<forum>https://github.com/podpis/kodi/issues</forum>
+	<website>https://github.com/podpis/kodi</website>
+	<email></email>
+	<assets>
+		<icon>icon.png</icon>
+		<fanart>fanart.jpg</fanart>
+	</assets>
+	<news>Róbta co chceta! :)</news>
+  </extension>
+</addon>
+
+<addon id="plugin.video.viderpl" version="1.6" name="vider" provider-name="xxxxxx">
+<requires>
+  <import addon="xbmc.python" version="2.1.0"/>
+  <import addon="script.common.plugin.cache" version="2.5.5"/>
+</requires>
+<extension point="xbmc.python.pluginsource" library="main.py">
+  <provides>video</provides>
+</extension>
+<extension point="xbmc.addon.metadata">
+  <summary lang="en">vider.info</summary>
+  <description lang="en">vider.pl</description>
+  <disclaimer lang="en">A private use only. </disclaimer>
+  <language></language>
+  <platform>all</platform>
+  <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+  <forum></forum>
+  <website></website>
+  <email></email>
+  <assets>
+    <icon>icon.png</icon>
+    <fanart>fanart.jpg</fanart>
+  </assets>
+  <news>
+  </news>
+</extension>
+</addon>
+
+<addon id="plugin.video.zalukajcom" version="1.7.3" name="Zalukaj" provider-name="Podpis">
+<requires>
+    <import addon="xbmc.python" version="2.25.0"/>
+    <import addon="script.module.resolveurl"/>
+    <import addon="script.module.requests"/>
+</requires>
+<extension point="xbmc.python.pluginsource" library="main.py">
+  <provides>video</provides>
+</extension>
+<extension point="xbmc.addon.metadata">
+  <summary lang="en">zalukaj.com</summary>
+  <description lang="en">zalukaj.com</description>
+  <disclaimer lang="en">A private use only. For bugs, requests or general questions visit my repository https://github.com/podpis/kodi</disclaimer>
+  <language></language>
+  <platform>all</platform>
+  <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+  <forum>https://github.com/podpis/kodi/issues</forum>
+  <website>https://github.com/podpis/kodi</website>
+  <email></email>
+  <assets>
+    <icon>icon.png</icon>
+    <fanart>fanart.jpg</fanart>
+  </assets>
+  <news>fix seriale i konta premium</news>
+</extension>
+</addon>
+</addons>

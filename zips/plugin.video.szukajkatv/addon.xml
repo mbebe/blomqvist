@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon id="plugin.video.szukajkatv" version="1.4.1" name="Szukajka.tv" provider-name="Podpis">
+<requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.common.plugin.cache" version="2.5.5"/> 
+    <import addon="script.module.resolveurl" version="5.0.00"/>
+</requires>
+
+<extension point="xbmc.python.pluginsource" library="main.py">
+  <provides>video</provides>
+</extension>
+
+<extension point="xbmc.addon.metadata">
+  <summary lang="en">Szukajka.tv</summary>
+  <description lang="en">Szukajka.tv</description>
+  <disclaimer lang="en">A private use only. For bugs, requests or general questions visit my repository https://github.com/podpis/kodi</disclaimer>
+  <language></language>
+  <platform>all</platform>
+  <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+  <forum>https://github.com/podpis/kodi/issues</forum>
+  <website>https://github.com/podpis/kodi</website>
+  <email>podpis@op.pl</email>
+  <assets>
+    <icon>icon.png</icon>
+    <fanart>fanart.jpg</fanart>
+  </assets>
+  <news>Róbta co chceta! :)</news>
+</extension>
+</addon>

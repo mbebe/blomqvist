@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon id="plugin.video.zalukajcom" version="1.7.3" name="Zalukaj" provider-name="Podpis">
+<requires>
+    <import addon="xbmc.python" version="2.25.0"/>
+    <import addon="script.module.resolveurl"/>
+    <import addon="script.module.requests"/>
+</requires>
+<extension point="xbmc.python.pluginsource" library="main.py">
+  <provides>video</provides>
+</extension>
+<extension point="xbmc.addon.metadata">
+  <summary lang="en">zalukaj.com</summary>
+  <description lang="en">zalukaj.com</description>
+  <disclaimer lang="en">A private use only. For bugs, requests or general questions visit my repository https://github.com/podpis/kodi</disclaimer>
+  <language></language>
+  <platform>all</platform>
+  <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+  <forum>https://github.com/podpis/kodi/issues</forum>
+  <website>https://github.com/podpis/kodi</website>
+  <email></email>
+  <assets>
+    <icon>icon.png</icon>
+    <fanart>fanart.jpg</fanart>
+  </assets>
+  <news>fix seriale i konta premium</news>
+</extension>
+</addon>

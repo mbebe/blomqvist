@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon id="plugin.video.iitv" name="iitv-seriale" version="2.4" provider-name="xxxxxx">
+  <requires>
+    <import addon="xbmc.python" version="2.25.0"/>
+	<import addon="script.module.resolveurl" version="5.0.12b"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="addon.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">iitv</summary>
+    <description lang="en">Odgrywa zasoby iitvx.pl</description>
+	<disclaimer lang="en">A private use only.</disclaimer>
+	<language></language>
+	<platform>all</platform>
+	<license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+	<forum></forum>
+	<website></website>
+	<email></email>
+	<assets>
+		<icon>icon.png</icon>
+		<fanart>fanart.jpg</fanart>
+	</assets>
+	<news>
+	</news>
+</extension>
+</addon>

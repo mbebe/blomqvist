@@ -1,0 +1,29 @@
+<?xml version="1.0"  encoding="UTF-8" standalone="no"?>
+<addon id="plugin.video.ekinotv" name="ekino-tv" version="2.0.3" provider-name="xxxxxx">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.resolveurl" version="5.0.12b"/>
+    <import addon="script.module.requests" version="2.18.4"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="addon.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">http://ekino-tv.pl/</summary>
+    <description lang="en">Odgrywa zasoby Ekino-tv</description>
+    <disclaimer lang="en">A private use only. </disclaimer>
+    <language></language>
+    <platform>all</platform>
+    <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+    <forum></forum>
+    <website></website>
+    <email></email>
+  <assets>
+    <icon>icon.png</icon>
+    <fanart>fanart.jpg</fanart>
+  </assets>
+  <news>
+
+  </news>    
+  </extension>
+</addon>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon id="plugin.video.efilmy" version="1.17" name="efilmy" provider-name="xxxxxxx">
+<requires>
+  <import addon="xbmc.python" version="2.1.0"/>
+  <import addon="script.module.resolveurl" version="3.0.15"/>
+  <import addon="script.common.plugin.cache" version="2.5.5"/> 
+  <import addon="script.module.requests"/>
+</requires>
+<extension point="xbmc.python.pluginsource" library="main.py">
+  <provides>video</provides>
+</extension>
+<extension point="xbmc.addon.metadata">
+  <summary lang="en">efilmy</summary>
+  <description lang="en">Zasoby efilmy.tv</description>
+  <disclaimer lang="en">A private use only. </disclaimer>
+  <language></language>
+  <platform>all</platform>
+  <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+  <forum> </forum>
+  <website> </website>
+  <email></email>
+  <assets>
+    <icon>icon.png</icon>
+    <fanart>fanart.jpg</fanart>
+  </assets>
+  <news>
+  </news>
+</extension>
+</addon>
