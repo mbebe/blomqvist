@@ -1,13 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-    <addon id="repository.mbebe" name="mbebe" version="0.1.0" provider-name="mbebe">
-        <requires>
-            <import addon="xbmc.addon" version="12.0.0"/>
-        </requires>
+    <addon id="repository.mbebe" name="mbebe" version="0.1.1" provider-name="mbebe">
         <extension point="xbmc.addon.repository" name="mbebe">
-            <info compressed="false">https://github.com/mbebe/blomqvist/tree/master/zips/addons.xml</info>
-            <checksum>https://github.com/mbebe/blomqvist/tree/master/zips/addons.xml.md5</checksum>
-            <datadir zip="true">https://github.com/mbebe/blomqvist/tree/master/zips/</datadir>
-            <hashes>false</hashes>
+		    <dir>
+                <info compressed="false">https://raw.githubusercontent.com/mbebe/blomqvist/master/zips/addons.xml</info>
+                <checksum>https://raw.githubusercontent.com/mbebe/blomqvist/master/zips/addons.xml.md5</checksum>
+                <datadir zip="true">https://github.com/mbebe/blomqvist/raw/master/zips</datadir>
+            </dir>
         </extension>
         <extension point="xbmc.addon.metadata">
             <summary>...</summary>
