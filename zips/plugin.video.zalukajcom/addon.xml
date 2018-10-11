@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<addon id="plugin.video.zalukajcom" version="1.7.3" name="Zalukaj" provider-name="Podpis">
+<addon id="plugin.video.zalukajcom" version="1.8.0" name="Zalukaj" provider-name="Podpis">
 <requires>
     <import addon="xbmc.python" version="2.25.0"/>
-    <import addon="script.module.resolveurl"/>
+    <import addon="script.module.parsedom" version="2.5.2"/>
     <import addon="script.module.requests"/>
 </requires>
 <extension point="xbmc.python.pluginsource" library="main.py">

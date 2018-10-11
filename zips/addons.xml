@@ -355,6 +355,31 @@ Dostęp do serwisu bez polskiego IP
 </extension>
 </addon>
 
+<addon id="plugin.video.hejotv" name="hejo.tv" version="1.0" provider-name="xxxxxx">
+    <requires>
+        <import addon="xbmc.python" version="2.25.0"/>
+        <import addon="script.module.requests" />
+        <import addon="script.module.parsedom" version="2.5.2"/>
+
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="main.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <description lang="pl">hejo.tv</description>
+        <disclaimer lang="pl"></disclaimer>
+        <summary lang="pl">hejo.tv</summary>
+        <language>pl</language>
+        <platform>all</platform>
+        <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+        <website></website>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
+    </extension>
+</addon>
+
 <addon id="plugin.video.iitv" name="iitv-seriale" version="2.4" provider-name="xxxxxx">
   <requires>
     <import addon="xbmc.python" version="2.25.0"/>
@@ -382,7 +407,7 @@ Dostęp do serwisu bez polskiego IP
 </extension>
 </addon>
 
-<addon id="plugin.video.kinonet" name="kinonet.pl" version="1.1" provider-name="xxxxxx">
+<addon id="plugin.video.kinonet" name="kinonet.pl" version="1.0" provider-name="xxxxxx">
     <requires>
         <import addon="xbmc.python" version="2.25.0"/>
         <import addon="script.module.requests" />
@@ -432,7 +457,7 @@ Dostęp do serwisu bez polskiego IP
     </extension>
 </addon>
 
-<addon id="plugin.video.naszekinotv" version="1.6.2" name="nasze-kino.tv" provider-name="Podpis">
+<addon id="plugin.video.naszekinotv" version="1.6.5" name="nasze-kino.tv" provider-name="Podpis">
 <requires>
   <import addon="xbmc.python" version="2.1.0"/>
   <import addon="script.module.resolveurl" version="5.0.00"/>
@@ -662,6 +687,31 @@ Róbta co chceta! :)
   </extension>
 </addon>
 
+<addon id="plugin.video.videopenny" name="videopenny.net" version="1.0" provider-name="xxxxxx">
+    <requires>
+        <import addon="xbmc.python" version="2.25.0"/>
+        <import addon="script.module.requests" />
+        <import addon="script.module.parsedom" version="2.5.2"/>
+        <import addon="script.module.resolveurl"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="main.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <description lang="pl">videopenny.net</description>
+        <disclaimer lang="pl"></disclaimer>
+        <summary lang="pl">videopenny.net</summary>
+        <language>pl</language>
+        <platform>all</platform>
+        <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+        <website></website>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
+    </extension>
+</addon>
+
 <addon id="plugin.video.viderpl" version="1.6" name="vider" provider-name="xxxxxx">
 <requires>
   <import addon="xbmc.python" version="2.1.0"/>
@@ -689,10 +739,10 @@ Róbta co chceta! :)
 </extension>
 </addon>
 
-<addon id="plugin.video.zalukajcom" version="1.7.3" name="Zalukaj" provider-name="Podpis">
+<addon id="plugin.video.zalukajcom" version="1.8.0" name="Zalukaj" provider-name="Podpis">
 <requires>
     <import addon="xbmc.python" version="2.25.0"/>
-    <import addon="script.module.resolveurl"/>
+    <import addon="script.module.parsedom" version="2.5.2"/>
     <import addon="script.module.requests"/>
 </requires>
 <extension point="xbmc.python.pluginsource" library="main.py">
@@ -715,13 +765,14 @@ Róbta co chceta! :)
   <news>fix seriale i konta premium</news>
 </extension>
 </addon>
-<addon id="repository.mbebe" name="mbebe" version="0.1.1" provider-name="mbebe">
+
+    <addon id="repository.mbebe" name="mbebe" version="0.1.1" provider-name="mbebe">
         <extension point="xbmc.addon.repository" name="mbebe">
-		<dir>
-		    <info compressed="false">https://raw.githubusercontent.com/mbebe/blomqvist/master/zips/addons.xml</info>
-		    <checksum>https://raw.githubusercontent.com/notoco/blomqvist/master/zips/addons.xml.md5</checksum>
-		    <datadir zip="true">https://github.com/mbebe/blomqvist/raw/master/zips</datadir>
-            	</dir>
+		    <dir>
+                <info compressed="false">https://raw.githubusercontent.com/mbebe/blomqvist/master/zips/addons.xml</info>
+                <checksum>https://raw.githubusercontent.com/mbebe/blomqvist/master/zips/addons.xml.md5</checksum>
+                <datadir zip="true">https://github.com/mbebe/blomqvist/raw/master/zips</datadir>
+            </dir>
         </extension>
         <extension point="xbmc.addon.metadata">
             <summary>...</summary>
