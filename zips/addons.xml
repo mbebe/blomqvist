@@ -595,11 +595,12 @@ Róbta co chceta! :)
 </extension>
 </addon>
 
-<addon id="plugin.video.segos" version="3.3" name="segos" provider-name="xxxxxx">
+<addon id="plugin.video.segos" version="3.4" name="segos" provider-name="xxxxxx">
 <requires>
   <import addon="xbmc.python" version="2.1.0"/>
   <import addon="script.common.plugin.cache" version="2.5.5"/>
   <import addon="script.module.resolveurl" version="5.0.12b"/>
+  <import addon="script.module.requests" />  
 </requires>
 <extension point="xbmc.python.pluginsource" library="main.py">
   <provides>video</provides>
