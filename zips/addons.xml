@@ -265,10 +265,12 @@ Do not install this addon if you are using a build.
   </extension>
 </addon>
 
-<addon id="plugin.video.ekstraklasa" name="Ekstraklasa" version="3.2.2" provider-name="Proximus">
+<addon id="plugin.video.ekstraklasa" name="Ekstraklasa" version="3.4" provider-name="xxxxxx">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
     <import addon="script.module.resolveurl"/>
+	<import addon="script.module.parsedom" version="2.5.2"/>
+
   </requires>
   <extension point="xbmc.python.pluginsource" library="main.py">
     <provides>video</provides>
