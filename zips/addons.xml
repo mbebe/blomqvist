@@ -327,6 +327,38 @@ Dostęp do serwisu bez polskiego IP
 </extension>
 </addon>
 
+<addon id="plugin.video.filmancc" version="1.0" name="filman.cc" provider-name="xxxxxx">
+<requires>
+  <import addon="xbmc.python" version="2.1.0"/>
+  <import addon="script.module.resolveurl" version="5.0.00"/>
+  <import addon="script.common.plugin.cache" version="2.5.5"/>
+  <import addon="script.module.requests" version="2.18.4"/>
+  <import addon="script.module.parsedom" version="2.5.2"/>
+</requires>
+<extension point="xbmc.python.pluginsource" library="main.py">
+  <provides>video</provides>
+</extension>
+<extension point="xbmc.addon.metadata">
+  <summary lang="en">filman.cc</summary>
+  <description lang="en">filman.cc</description>
+  <disclaimer lang="en">A private use only. </disclaimer>
+  <language></language>
+  <platform>all</platform>
+  <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+  <forum></forum>
+  <website></website>
+  <email></email>
+  <source></source>
+  <assets>
+    <icon>icon.png</icon>
+    <fanart>fanart.jpg</fanart>
+  </assets>
+  <news>
+Róbta co chceta! :)
+  </news>
+</extension>
+</addon>
+
 <addon id="plugin.video.filmantv" name="filmantv" version="1.0" provider-name="xxxxxx">
     <requires>
         <import addon="xbmc.python" version="2.25.0"/>
