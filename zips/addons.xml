@@ -539,6 +539,31 @@ Róbta co chceta! :)
     </extension>
 </addon>
 
+<addon id="plugin.video.kreskowkitv" name="kreskowki.tv" version="1.0" provider-name="xxxxxx">
+    <requires>
+        <import addon="xbmc.python" version="2.25.0"/>
+        <import addon="script.module.requests" />
+        <import addon="script.module.parsedom" version="2.5.2"/>
+        <import addon="script.module.resolveurl"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="main.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <description lang="pl">kreskowki.tv</description>
+        <disclaimer lang="pl"></disclaimer>
+        <summary lang="pl">kreskowki.tv</summary>
+        <language>pl</language>
+        <platform>all</platform>
+        <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+        <website></website>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
+    </extension>
+</addon>
+
 <addon id="plugin.video.naszekinotv" version="1.6.5" name="nasze-kino.tv" provider-name="Podpis">
 <requires>
   <import addon="xbmc.python" version="2.1.0"/>
@@ -654,7 +679,7 @@ Róbta co chceta! :)
 </extension>
 </addon>
 
-<addon id="plugin.video.segos" version="3.3" name="segos" provider-name="xxxxxx">
+<addon id="plugin.video.segos" version="3.4" name="segos" provider-name="xxxxxx">
 <requires>
   <import addon="xbmc.python" version="2.1.0"/>
   <import addon="script.common.plugin.cache" version="2.5.5"/>
@@ -683,6 +708,30 @@ Róbta co chceta! :)
   <news>
 </news>
 </extension>
+</addon>
+
+<addon id="plugin.video.serialnet" name="serialnet.pl" version="1.0" provider-name="xxxxxx">
+    <requires>
+        <import addon="xbmc.python" version="2.25.0"/>
+        <import addon="script.module.requests" />
+        <import addon="script.module.parsedom" version="2.5.2"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="main.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <description lang="pl">serialnet.pl</description>
+        <disclaimer lang="pl"></disclaimer>
+        <summary lang="pl">serialnet.pl</summary>
+        <language>pl</language>
+        <platform>all</platform>
+        <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+        <website></website>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
+    </extension>
 </addon>
 
 <addon id="plugin.video.serialosypl" version="1.8" name="serialosy24.pl" provider-name="xxxxxx">
