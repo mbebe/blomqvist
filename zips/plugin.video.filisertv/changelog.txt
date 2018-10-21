@@ -1,0 +1,41 @@
+2.3
+- link parser fixed
+
+2.2
+- decoding the plugin code
+- reconstruction of variable names and names functions
+- remove of malicious codes from the plugin
+- remove of script.module.ramic from the plugin
+- code fixes
+- remove of unnecessary modules and functions from the plugin
+
+2.1
+- search fixed
+- free proxy (for users outside PL)
+
+2.0
+- reborn
+
+1.6
+- link parser fixed
+
+1.5
+- host updated
+
+1.4
+- search fixed
+
+1.3
+- bug fixed
+
+1.2
+- minor fix
+- resolver 
+- repo
+
+1.1
+- search option
+- minor changes
+
+1.0
+- initial version
