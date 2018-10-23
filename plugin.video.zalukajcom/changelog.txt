@@ -1,3 +1,25 @@
+1.8
+- najpopularniejsze fix
+
+1.7.9
+- quality choice
+- remove resolveurl
+
+1.7.8
+-search fix
+
+1.7.6
+- ...
+
+1.7.5
+- ...
+
+1.7.4
+- Fixed problem with login process
+
+1.7.3
+- Fixed problem with login process
+
 1.7.2
 - Fixed problem with login process
 
