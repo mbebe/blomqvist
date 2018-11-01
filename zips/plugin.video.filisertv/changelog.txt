@@ -1,5 +1,5 @@
-2.4
-- link parser fixed
+2.5
+- link parser fix
 
 2.3
 - link parser fixed

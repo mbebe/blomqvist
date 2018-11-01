@@ -325,7 +325,7 @@ Polsat Sport
   </extension>
 </addon>
 
-<addon id="plugin.video.filisertv" version="2.4" name="Fili.cc" provider-name="xxxxxx">
+<addon id="plugin.video.filisertv" version="2.5" name="Fili.cc" provider-name="xxxxxx">
 <requires>
   <import addon="xbmc.python" version="2.1.0"/>
   <import addon="script.module.resolveurl" version="5.0.12b"/>
