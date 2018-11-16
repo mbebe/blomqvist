@@ -1,3 +1,5 @@
+3.4.3
+- estadios fix
 2.1.2
 - minor fixes by Mbebe
 
