@@ -410,7 +410,7 @@ Róbta co chceta! :)
     </extension>
 </addon>
 
-<addon id="plugin.video.filmowo" name="filmowo.co" version="1.0" provider-name="xxxxxx">
+<addon id="plugin.video.filmowo" name="filmowo.co" version="1.1" provider-name="xxxxxx">
     <requires>
         <import addon="xbmc.python" version="2.25.0"/>
         <import addon="script.module.requests" />
