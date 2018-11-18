@@ -1,4 +1,7 @@
-1.8
+1.8.1
+- dodany typ konta
+
+1.8.0
 - najpopularniejsze fix
 
 1.7.9

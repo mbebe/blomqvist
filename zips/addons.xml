@@ -1038,7 +1038,7 @@ Róbta co chceta! :)
 	</extension>
 </addon>
 
-<addon id="plugin.video.zalukajcom" version="1.8" name="Zalukaj" provider-name="Podpis">
+<addon id="plugin.video.zalukajcom" version="1.8.1" name="Zalukaj" provider-name="xxxxxx">
 <requires>
     <import addon="xbmc.python" version="2.25.0"/>
     <import addon="script.module.parsedom" version="2.5.2"/>
@@ -1050,12 +1050,12 @@ Róbta co chceta! :)
 <extension point="xbmc.addon.metadata">
   <summary lang="en">zalukaj.com</summary>
   <description lang="en">zalukaj.com</description>
-  <disclaimer lang="en">A private use only. For bugs, requests or general questions visit my repository https://github.com/podpis/kodi</disclaimer>
+  <disclaimer lang="en">A private use only. </disclaimer>
   <language></language>
   <platform>all</platform>
   <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-  <forum>https://github.com/podpis/kodi/issues</forum>
-  <website>https://github.com/podpis/kodi</website>
+  <forum></forum>
+  <website></website>
   <email></email>
   <assets>
     <icon>icon.png</icon>
