@@ -1,3 +1,9 @@
+1.5.4
+- update telewizja-darmowa.online
+
+1.5.3
+- link parse fix
+
 1.5.2
 - livetvsx added (from castaway plugin)
 
