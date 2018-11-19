@@ -1,3 +1,6 @@
+1.9.0
+- fix code
+
 1.8.2
 -fix for premium i darmowe
 

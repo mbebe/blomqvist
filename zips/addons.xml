@@ -1038,11 +1038,11 @@ Róbta co chceta! :)
 	</extension>
 </addon>
 
-<addon id="plugin.video.zalukajcom" version="1.8.2" name="Zalukaj" provider-name="xxxxxx">
+<addon id="plugin.video.zalukajcom" version="1.9.0" name="Zalukaj" provider-name="xxxxxx">
 <requires>
-    <import addon="xbmc.python" version="2.25.0"/>
-    <import addon="script.module.parsedom" version="2.5.2"/>
-    <import addon="script.module.requests"/>
+	<import addon="xbmc.python" version="2.25.0"/>
+	<import addon="script.module.parsedom" version="2.5.2"/>
+	<import addon="script.module.requests"/>
 	<import addon="script.module.resolveurl"/>
 </requires>
 <extension point="xbmc.python.pluginsource" library="main.py">
@@ -1062,7 +1062,7 @@ Róbta co chceta! :)
     <icon>icon.png</icon>
     <fanart>fanart.jpg</fanart>
   </assets>
-  <news>fix seriale i konta premium</news>
+  <news>fix konta premium i konta darmowe</news>
 </extension>
 </addon>
 
