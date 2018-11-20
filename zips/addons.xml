@@ -491,7 +491,7 @@ Róbta co chceta! :)
 </extension>
 </addon>
 
-<addon id="plugin.video.hejotv" name="hejo.tv" version="1.4" provider-name="xxxxxx">
+<addon id="plugin.video.hejotv" name="hejo.tv" version="1.5" provider-name="xxxxxx">
     <requires>
         <import addon="xbmc.python" version="2.25.0"/>
         <import addon="script.module.requests" />
