@@ -438,7 +438,7 @@ Róbta co chceta! :)
     </extension>
 </addon>
 
-<addon id="plugin.video.filmowakraina" name="FilmowaKraina.TV" version="1.1" provider-name="xxxxxx">
+<addon id="plugin.video.filmowakraina" name="FilmowaKraina.TV" version="1.2" provider-name="xxxxxx">
 	<requires>
 		<import addon="xbmc.python" version="2.25.0"/>
 		<import addon="script.module.requests" />
