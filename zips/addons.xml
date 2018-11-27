@@ -290,7 +290,7 @@ Do not install this addon if you are using a build.
 </extension>
 </addon>
 
-<addon id="plugin.video.ekinotv" name="ekino-tv" version="2.0.3" provider-name="xxxxxx">
+<addon id="plugin.video.ekinotv" name="ekino-tv" version="2.0.4" provider-name="xxxxxx">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
     <import addon="script.module.resolveurl" version="5.0.12b"/>
@@ -679,7 +679,7 @@ Róbta co chceta! :)
     </extension>
 </addon>
 
-<addon id="plugin.video.naszekinotv" version="1.6.5" name="nasze-kino.tv" provider-name="Podpis">
+<addon id="plugin.video.naszekinotv" version="1.6.6" name="nasze-kino.tv" provider-name="Podpis">
 <requires>
   <import addon="xbmc.python" version="2.1.0"/>
   <import addon="script.module.resolveurl" version="5.0.00"/>
