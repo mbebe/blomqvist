@@ -1,3 +1,7 @@
+1.2
+- opisy filmow
+- some fix
+
 1.1
 - telewizja (beta)
 
