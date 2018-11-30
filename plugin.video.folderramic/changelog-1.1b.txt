@@ -1,6 +1,0 @@
-1.1
-- an optino to rename plugin 
-- minor changes
-
-1.0
-- initial version
