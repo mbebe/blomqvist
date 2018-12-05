@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<addon id="plugin.video.internetws" name="internetowa-ws" version="1.0" provider-name="mbebe">
+	<requires>
+		<import addon="xbmc.python" version="2.25.0"/>
+		<import addon="script.module.requests" />
+		<import addon="script.module.parsedom" version="2.5.2"/>
+		<import addon="script.module.resolveurl" version="5.0.12b"/>
+	</requires>
+	<extension point="xbmc.python.pluginsource" library="main.py">
+		<provides>video</provides>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<description lang="pl">internetowa.ws (premium)</description>
+		<disclaimer lang="pl">https://github.com/mbebe/blomqvist</disclaimer>
+		<summary lang="pl">internetowa.ws (premium)</summary>
+		<description lang="en">internetowa.ws (premium)</description>
+		<disclaimer lang="en">https://github.com/mbebe/blomqvist</disclaimer>
+		<summary lang="en">internetowa.ws (premium)</summary>
+		<language></language>
+		<platform>all</platform>
+		<license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+		<forum>https://github.com/mbebe/blomqvist/issues</forum>
+		<website>https://github.com/mbebe/blomqvist</website>
+		<assets>
+			<icon>icon.png</icon>
+			<fanart>fanart.jpg</fanart>
+		</assets>
+	</extension>
+</addon>
