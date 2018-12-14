@@ -1,17 +1,16 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<addon id="plugin.video.cdaxpl" version="1.2.6" name="cda-x" provider-name="Podpis">
+<addon id="plugin.video.cdaxpl" version="1.2.7" name="cda-tv.pl " provider-name="Podpis">
 <requires>
   <import addon="xbmc.python" version="2.1.0"/>
   <import addon="script.module.resolveurl" version="5.0.12b"/>
   <import addon="script.common.plugin.cache" version="2.5.5"/> 
-
 </requires>
 <extension point="xbmc.python.pluginsource" library="main.py">
   <provides>video</provides>
 </extension>
 <extension point="xbmc.addon.metadata">
-  <summary lang="pl">Zasoby: cdax.online </summary>
-  <description lang="pl">cdax.online – filmy i seriale online</description>
+  <summary lang="pl">Zasoby: cda-tv.pl  </summary>
+  <description lang="pl">cda-tv.pl  – filmy i seriale online</description>
   <disclaimer lang="en">A private use only.</disclaimer>
   <language></language>
   <platform>all</platform>
