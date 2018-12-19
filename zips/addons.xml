@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addons>
-<addon id="plugin.video.alantvsport" name="ALAN TV Sport" version="1.0" provider-name="mbebe">
+<addon id="plugin.video.alantvsport" name="HulkStream" version="1.1" provider-name="mbebe">
 	<requires>
 		<import addon="xbmc.python" version="2.25.0"/>
 		<import addon="script.module.requests" />
@@ -11,12 +11,12 @@
 		<provides>video</provides>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-		<description lang="pl">ALANTV SPORT</description>
+		<description lang="pl">HulkStream</description>
 		<disclaimer lang="pl">https://github.com/mbebe/blomqvist</disclaimer>
-		<summary lang="pl">ALANTV SPORT</summary>
-		<description lang="en">ALANTV SPORT</description>
+		<summary lang="pl">HulkStream</summary>
+		<description lang="en">HulkStream</description>
 		<disclaimer lang="en">https://github.com/mbebe/blomqvist</disclaimer>
-		<summary lang="en">ALANTV SPORT</summary>
+		<summary lang="en">HulkStream</summary>
 		<language></language>
 		<platform>all</platform>
 		<license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>

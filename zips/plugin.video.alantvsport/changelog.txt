@@ -1,2 +1,16 @@
+1.1
+- change host to hulkstream
+- some fixes
+- change name
+
 1.0
+- sportpieces added
+- javafoot added
+- search added
+
+0.2
+- add alt links
+- update mydecode
+
+0.1
 - initial version
