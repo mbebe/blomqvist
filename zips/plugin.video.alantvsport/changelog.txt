@@ -1,3 +1,6 @@
+1.2
+- change icon
+
 1.1
 - change host to hulkstream
 - some fixes
