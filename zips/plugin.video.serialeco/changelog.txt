@@ -1,3 +1,6 @@
+1.2
+- strona glowna fix
+
 1.1
 - opisy i okladki z FILMWEB (https://github.com/lopezloo/pyfilmweb)
 
