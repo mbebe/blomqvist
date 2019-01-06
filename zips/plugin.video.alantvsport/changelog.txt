@@ -1,3 +1,6 @@
+1.6
+- some fixes
+
 1.5
 - javafooty,sportpieces pagination added
 
