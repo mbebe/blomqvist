@@ -1,34 +1,42 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<addon id="plugin.video.ekstraklasa" name="Ekstraklasa" version="3.4.5" provider-name="xxxxxx">
-  <requires>
-    <import addon="xbmc.python" version="2.1.0"/>
-    <import addon="script.module.resolveurl"/> 
-	<import addon="script.module.parsedom" version="2.5.2"/>
-
-  </requires>
-  <extension point="xbmc.python.pluginsource" library="main.py">
-    <provides>video</provides>
-  </extension>
-  <extension point="xbmc.addon.metadata">
-    <summary lang="pl">Mecze Ekstraklasy z Dailymotion i nie tylko</summary>
-    <description lang="en"></description>
-    <language></language>
-    <platform></platform>
-    <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-    <forum></forum>
-    <website></website>
-    <email></email>
-    <assets>
-        <icon>icon.png</icon>
-        <fanart>fanart.jpg</fanart>
-    </assets>
-  <news>
-Ekstrakalasa LIVE
-Ekstrakalasa.tv
-Estadios.pl
-Meczyki.pl
+<addon id="plugin.video.ekstraklasa" name="Ekstraklasa" version="3.5" provider-name="mbebe">
+	<requires>
+		<import addon="xbmc.python" version="2.1.0"/>
+		<import addon="script.module.resolveurl"/> 
+		<import addon="script.module.parsedom" version="2.5.2"/>
+		<import addon="script.module.requests" />
+	</requires>
+	<extension point="xbmc.python.pluginsource" library="main.py">
+		<provides>video</provides>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="pl">Mecze Ekstraklasy z Dailymotion i nie tylko</summary>
+		<disclaimer lang="pl">https://github.com/mbebe/blomqvist</disclaimer>		
+		<description lang="pl">Mecze Ekstraklasy z Dailymotion i nie tylko</description>
+		<language></language>
+		<platform></platform>
+		<license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+		<forum>https://github.com/mbebe/blomqvist/issues</forum>
+		<website>https://github.com/mbebe/blomqvist</website>
+		<email></email>
+		<assets>
+			<icon>icon.png</icon>
+			<fanart>fanart.jpg</fanart>
+		</assets>
+		<news>
+Ekstraklasa LIVE
+Ekstraklasa.tv
+  Tabela Ekstraklasy
+  Terminarz
+  Lista strzelców
 Polsat Sport
 Łączy nas piłka
- </news>
-  </extension>
+Mecz Replay
+Skróty meczów :
+ - Estadios.pl
+ - Meczyki.pl
+ - OurMatch
+ - Javafooty
+		</news>
+	</extension>
 </addon>
