@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<addon id="plugin.video.iitv" name="iitv-seriale" version="2.5" provider-name="xxxxxx">
+<addon id="plugin.video.iitv" name="iitv-seriale" version="2.6" provider-name="xxxxxx">
   <requires>
     <import addon="xbmc.python" version="2.25.0"/>
 	<import addon="script.module.resolveurl" version="5.0.12b"/>
