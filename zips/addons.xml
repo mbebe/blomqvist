@@ -287,7 +287,7 @@ Version 1.4.1
 </extension>
 </addon>
 
-<addon id="plugin.video.ekinomaniaktv" version="1.1" name="ekinomaniak" provider-name="xxxxxx">
+<addon id="plugin.video.ekinomaniaktv" version="1.2" name="ekinomaniak" provider-name="xxxxxx">
 <requires>
   <import addon="xbmc.python" version="2.1.0"/>
   <import addon="script.module.resolveurl" version="5.0.12b"/>
