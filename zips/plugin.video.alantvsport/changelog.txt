@@ -1,3 +1,6 @@
+1.7
+- parser fix
+
 1.6
 - some fixes
 
