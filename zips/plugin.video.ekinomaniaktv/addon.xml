@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<addon id="plugin.video.ekinomaniaktv" version="1.3" name="ekinomaniak" provider-name="xxxxxx">
+<addon id="plugin.video.ekinomaniaktv" version="1.4" name="ekinomaniak" provider-name="mbebe">
 <requires>
   <import addon="xbmc.python" version="2.1.0"/>
   <import addon="script.module.resolveurl" version="5.0.12b"/>
