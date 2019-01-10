@@ -913,7 +913,7 @@ Róbta co chceta! :)
 </extension>
 </addon>
 
-<addon id="plugin.video.segos" version="3.5" name="segos" provider-name="xxxxxx">
+<addon id="plugin.video.segos" version="3.6" name="segos" provider-name="xxxxxx">
 <requires>
   <import addon="xbmc.python" version="2.1.0"/>
   <import addon="script.common.plugin.cache" version="2.5.5"/>
