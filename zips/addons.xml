@@ -146,7 +146,7 @@ Version 1.4.1
 </extension>
 </addon>
 
-<addon id="plugin.video.cdahd" version="1.6.3" name="cda-hd" provider-name="Podpis">
+<addon id="plugin.video.cdahd" version="1.6.4" name="cda-hd" provider-name="Podpis">
 <requires>
   <import addon="xbmc.python" version="2.1.0"/>
   <import addon="script.module.resolveurl" version="5.0.12a"/>
