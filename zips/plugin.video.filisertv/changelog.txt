@@ -1,3 +1,7 @@
+2.6
+- kodi18 fix
+- opisy w ostatnio dodane
+
 2.5
 - link parser fix
 

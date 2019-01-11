@@ -318,7 +318,7 @@ Do not install this addon if you are using a build.
 </extension>
 </addon>
 
-<addon id="plugin.video.ekinotv" name="ekino-tv" version="2.1" provider-name="mbebe">
+<addon id="plugin.video.ekinotv" name="ekino-tv" version="2.2" provider-name="mbebe">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
     <import addon="script.module.resolveurl" version="5.0.12b"/>
@@ -389,7 +389,7 @@ Skróty meczów :
 	</extension>
 </addon>
 
-<addon id="plugin.video.filisertv" version="2.5" name="Fili.cc" provider-name="xxxxxx">
+<addon id="plugin.video.filisertv" version="2.6" name="Fili.cc" provider-name="mbebe">
 <requires>
   <import addon="xbmc.python" version="2.1.0"/>
   <import addon="script.module.resolveurl" version="5.0.12b"/>
@@ -1186,7 +1186,7 @@ Róbta co chceta! :)
 </extension>
 </addon>
 
-    <addon id="repository.mbebe" name="mbebe" version="0.2.4" provider-name="mbebe">
+    <addon id="repository.mbebe" name="mbebe" version="0.2.5" provider-name="mbebe">
         <extension point="xbmc.addon.repository" name="mbebe">
 		    <dir>
                 <info compressed="false">https://raw.githubusercontent.com/mbebe/blomqvist/master/zips/addons.xml</info>
