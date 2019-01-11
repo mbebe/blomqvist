@@ -1,3 +1,6 @@
+1.2
+- kodi 18 fix
+
 1.1
 - yt fix
 
