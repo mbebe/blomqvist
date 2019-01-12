@@ -1,11 +1,12 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<addon id="plugin.video.horrortube" version="1.0" name="HorrortubePL" provider-name="xxxxxx">
+<addon id="plugin.video.horrortube" version="1.1" name="HorrortubePL" provider-name="mbebe">
 <requires>
   <import addon="xbmc.python" version="2.1.0"/>
   <import addon="script.module.resolveurl" version="5.0.00"/>
   <import addon="script.common.plugin.cache" version="2.5.5"/>
   <import addon="script.module.requests" version="2.18.4"/>
   <import addon="script.module.parsedom" version="2.5.2"/>
+  	<import addon="script.module.web-pdb" />
 </requires>
 <extension point="xbmc.python.pluginsource" library="main.py">
   <provides>video</provides>

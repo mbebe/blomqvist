@@ -1,2 +1,5 @@
+1.1
+- kodi18 fix
+
 1.0
 - initial version 
