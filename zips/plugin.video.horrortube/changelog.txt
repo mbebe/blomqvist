@@ -1,3 +1,6 @@
+1.2
+- lista seriali fix
+
 1.1
 - kodi18 fix
 
