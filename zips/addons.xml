@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <addons>
-<addon id="plugin.video.alantvsport" name="HulkStream" version="2.0" provider-name="mbebe">
+<addon id="plugin.video.alantvsport" name="HulkStream" version="2.1" provider-name="mbebe">
 	<requires>
 		<import addon="xbmc.python" version="2.25.0"/>
 		<import addon="script.module.requests" />
@@ -347,7 +347,7 @@ Do not install this addon if you are using a build.
   </extension>
 </addon>
 
-<addon id="plugin.video.ekstraklasa" name="Ekstraklasa" version="3.7" provider-name="mbebe">
+<addon id="plugin.video.ekstraklasa" name="Ekstraklasa" version="3.8" provider-name="mbebe">
 	<requires>
 		<import addon="xbmc.python" version="2.1.0"/>
 		<import addon="script.module.resolveurl"/>
@@ -1186,7 +1186,7 @@ Róbta co chceta! :)
 </extension>
 </addon>
 
-    <addon id="repository.mbebe" name="mbebe" version="0.2.6" provider-name="mbebe">
+    <addon id="repository.mbebe" name="mbebe" version="0.2.7" provider-name="mbebe">
         <extension point="xbmc.addon.repository" name="mbebe">
 		    <dir>
                 <info compressed="false">https://raw.githubusercontent.com/mbebe/blomqvist/master/zips/addons.xml</info>

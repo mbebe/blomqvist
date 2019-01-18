@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-    <addon id="repository.mbebe" name="mbebe" version="0.2.6" provider-name="mbebe">
+    <addon id="repository.mbebe" name="mbebe" version="0.2.7" provider-name="mbebe">
         <extension point="xbmc.addon.repository" name="mbebe">
 		    <dir>
                 <info compressed="false">https://raw.githubusercontent.com/mbebe/blomqvist/master/zips/addons.xml</info>
