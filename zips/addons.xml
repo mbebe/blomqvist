@@ -1159,7 +1159,7 @@ Róbta co chceta! :)
 	</extension>
 </addon>
 
-<addon id="plugin.video.zalukajcom" version="1.9.6" name="Zalukaj" provider-name="mbebe">
+<addon id="plugin.video.zalukajcom" version="1.9.7" name="Zalukaj" provider-name="mbebe">
 <requires>
 	<import addon="xbmc.python" version="2.25.0"/>
 	<import addon="script.module.parsedom" version="2.5.2"/>
