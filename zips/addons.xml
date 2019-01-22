@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <addons>
-<addon id="plugin.video.alantvsport" name="HulkStream" version="2.1" provider-name="mbebe">
+<addon id="plugin.video.alantvsport" name="HulkStream" version="2.1.1" provider-name="mbebe">
 	<requires>
 		<import addon="xbmc.python" version="2.25.0"/>
 		<import addon="script.module.requests" />
