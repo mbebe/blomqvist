@@ -390,7 +390,7 @@ Skróty meczów :
 	</extension>
 </addon>
 
-<addon id="plugin.video.filisertv" version="2.8" name="Fili.cc" provider-name="mbebe">
+<addon id="plugin.video.filisertv" version="2.9" name="Fili.cc" provider-name="mbebe">
 <requires>
   <import addon="xbmc.python" version="2.1.0"/>
   <import addon="script.module.resolveurl" version="5.0.12b"/>

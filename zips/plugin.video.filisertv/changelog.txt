@@ -1,3 +1,7 @@
+2.9
+- wlaczanie logowania w ustawieniach
+- popularne fix
+
 2.8
 - logowanie
 - popularne
