@@ -30,7 +30,7 @@
 </addon>
 
 <?xml version="1.0" encoding="UTF-8"?>
-<addon id="plugin.video.alltube.tv" version="2.5.6" name="alltube.tv" provider-name="mbebe">
+<addon id="plugin.video.alltube.tv" version="2.5.7" name="alltube.tv" provider-name="mbebe">
 <requires>
   <import addon="xbmc.python" version="2.24.0"/>
   <import addon="script.module.resolveurl" version="5.0.00"/>
@@ -390,10 +390,12 @@ Skróty meczów :
 	</extension>
 </addon>
 
-<addon id="plugin.video.filisertv" version="2.6" name="Fili.cc" provider-name="mbebe">
+<addon id="plugin.video.filisertv" version="2.8" name="Fili.cc" provider-name="mbebe">
 <requires>
   <import addon="xbmc.python" version="2.1.0"/>
   <import addon="script.module.resolveurl" version="5.0.12b"/>
+  <import addon="script.module.requests" />
+  <import addon="script.module.parsedom" version="2.5.2"/>
 </requires>
 <extension point="xbmc.python.pluginsource" library="main.py">
   <provides>video</provides>
@@ -1022,6 +1024,31 @@ Róbta co chceta! :)
   <news>
 </news>
 </extension>
+</addon>
+
+<addon id="plugin.video.subsmovies" name="Subsmovies.nz" version="0.1" provider-name="mbebe">
+    <requires>
+        <import addon="xbmc.python" version="2.25.0"/>
+        <import addon="script.module.requests" />
+        <import addon="script.module.parsedom" version="2.5.2"/>
+        <import addon="script.module.resolveurl"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="main.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <description lang="en">subsmovies.nz</description>
+        <disclaimer lang="en">https://github.com/mbebe/blomqvist</disclaimer>	
+        <summary lang="en">Watch movies with subtitles</summary>
+        <language>en</language>
+        <platform>all</platform>
+        <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+        <website>https://github.com/mbebe/blomqvist</website>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
+    </extension>
 </addon>
 
 <addon id="plugin.video.szukajkatv" version="1.4.1" name="Szukajka.tv" provider-name="Podpis">
