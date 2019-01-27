@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <addons>
 <addon id="plugin.video.alantvsport" name="HulkStream" version="2.1.2" provider-name="mbebe">
 	<requires>
@@ -29,7 +29,6 @@
 	</extension>
 </addon>
 
-<?xml version="1.0" encoding="UTF-8"?>
 <addon id="plugin.video.alltube.tv" version="2.5.8" name="alltube.tv" provider-name="mbebe">
 <requires>
   <import addon="xbmc.python" version="2.24.0"/>
@@ -584,28 +583,29 @@ Róbta co chceta! :)
 </extension>
 </addon>
 
-<addon id="plugin.video.hejotv" name="hejo.tv" version="1.7" provider-name="xxxxxx">
-    <requires>
-        <import addon="xbmc.python" version="2.25.0"/>
-        <import addon="script.module.requests" />
-        <import addon="script.module.parsedom" version="2.5.2"/>
-    </requires>
-    <extension point="xbmc.python.pluginsource" library="main.py">
-        <provides>video</provides>
-    </extension>
-    <extension point="xbmc.addon.metadata">
-        <description lang="pl">hejo.tv</description>
-        <disclaimer lang="pl"></disclaimer>
-        <summary lang="pl">hejo.tv</summary>
-        <language>pl</language>
-        <platform>all</platform>
-        <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-        <website></website>
-        <assets>
-            <icon>icon.png</icon>
-            <fanart>fanart.jpg</fanart>
-        </assets>
-    </extension>
+<addon id="plugin.video.hejotv" name="hejo.tv" version="1.8" provider-name="mbebe">
+	<requires>
+		<import addon="xbmc.python" version="2.25.0"/>
+		<import addon="script.module.requests" />
+		<import addon="script.module.parsedom" version="2.5.2"/>
+		<import addon="script.module.resolveurl" version="5.0.12b"/>
+	</requires>
+	<extension point="xbmc.python.pluginsource" library="main.py">
+		<provides>video</provides>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<description lang="pl">hejo.tv</description>
+		<disclaimer lang="pl">https://github.com/mbebe/blomqvist</disclaimer>
+		<summary lang="pl">hejo.tv</summary>
+		<language>pl</language>
+		<platform>all</platform>
+		<license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+		<website>https://github.com/mbebe/blomqvist</website>
+		<assets>
+			<icon>icon.png</icon>
+			<fanart>fanart.jpg</fanart>
+		</assets>
+	</extension>
 </addon>
 
 <addon id="plugin.video.horrortube" version="1.2" name="HorrortubePL" provider-name="mbebe">
@@ -919,9 +919,9 @@ Róbta co chceta! :)
 <addon id="plugin.video.segos" version="4.0" name="segos" provider-name="mbebe">
 <requires>
   <import addon="xbmc.python" version="2.1.0"/>
-  <import addon="script.common.plugin.cache" version="2.5.5"/> 
+  <import addon="script.common.plugin.cache" version="2.5.5"/>
   <import addon="script.module.resolveurl" version="5.0.12b"/>
-  <import addon="script.module.requests" />  
+  <import addon="script.module.requests" />
 </requires>
 <extension point="xbmc.python.pluginsource" library="main.py">
   <provides>video</provides>
@@ -1038,7 +1038,7 @@ Róbta co chceta! :)
     </extension>
     <extension point="xbmc.addon.metadata">
         <description lang="en">subsmovies.nz</description>
-        <disclaimer lang="en">https://github.com/mbebe/blomqvist</disclaimer>	
+        <disclaimer lang="en">https://github.com/mbebe/blomqvist</disclaimer>
         <summary lang="en">Watch movies with subtitles</summary>
         <language>en</language>
         <platform>all</platform>
