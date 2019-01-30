@@ -347,7 +347,7 @@ Do not install this addon if you are using a build.
   </extension>
 </addon>
 
-<addon id="plugin.video.ekstraklasa" name="Ekstraklasa" version="3.8" provider-name="mbebe">
+<addon id="plugin.video.ekstraklasa" name="Ekstraklasa" version="3.9" provider-name="mbebe">
 	<requires>
 		<import addon="xbmc.python" version="2.1.0"/>
 		<import addon="script.module.resolveurl"/>
