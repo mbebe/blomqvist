@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<addon id="plugin.video.ekstraklasa" name="Ekstraklasa" version="3.9.1" provider-name="mbebe">
+<addon id="plugin.video.ekstraklasa" name="Ekstraklasa" version="4.0.0" provider-name="mbebe">
 	<requires>
 		<import addon="xbmc.python" version="2.1.0"/>
 		<import addon="script.module.resolveurl"/> 
@@ -26,9 +26,6 @@
 		<news>
 Ekstraklasa LIVE
 Ekstraklasa.tv
-  Tabela Ekstraklasy
-  Terminarz
-  Lista strzelców
 Polsat Sport
 Łączy nas piłka
 Mecz Replay
@@ -37,6 +34,7 @@ Skróty meczów :
  - Meczyki.pl
  - OurMatch
  - Javafooty
+Tabele, terminarze, listy strzelców
 		</news>
 	</extension>
 </addon>
