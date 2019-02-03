@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addons>
-<addon id="plugin.video.alantvsport" name="HulkStream" version="2.1.2" provider-name="mbebe">
+<addon id="plugin.video.alantvsport" name="HulkStream" version="2.1.3" provider-name="mbebe">
 	<requires>
 		<import addon="xbmc.python" version="2.25.0"/>
 		<import addon="script.module.requests" />
@@ -347,7 +347,7 @@ Do not install this addon if you are using a build.
   </extension>
 </addon>
 
-<addon id="plugin.video.ekstraklasa" name="Ekstraklasa" version="4.0.0" provider-name="mbebe">
+<addon id="plugin.video.ekstraklasa" name="Ekstraklasa" version="4.0.1" provider-name="mbebe">
 	<requires>
 		<import addon="xbmc.python" version="2.1.0"/>
 		<import addon="script.module.resolveurl"/>
