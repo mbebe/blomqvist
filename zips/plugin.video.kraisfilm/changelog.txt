@@ -1,0 +1,15 @@
+1.4
+- zmiana na filmbit.ws
+- logowanie w serwisie
+
+1.3
+- telewizja fix
+
+1.2
+- telewizja fix
+
+1.1
+- telewizja added
+
+1.0
+- initial version 

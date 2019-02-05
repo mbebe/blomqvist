@@ -720,7 +720,7 @@ Róbta co chceta! :)
     </extension>
 </addon>
 
-<addon id="plugin.video.kraisfilm" name="KraisFilm.pl" version="1.3" provider-name="mbebe">
+<addon id="plugin.video.kraisfilm" name="Filmbit.ws" version="1.4.1" provider-name="mbebe">
 	<requires>
 		<import addon="xbmc.python" version="2.25.0"/>
 		<import addon="script.module.requests" />
@@ -731,19 +731,22 @@ Róbta co chceta! :)
 	<extension point="xbmc.python.pluginsource" library="main.py">
 		<provides>video</provides>
 	</extension>
-	<extension point="xbmc.addon.metadata">
-		<description lang="pl">kraisfilm.pl</description>
-		<disclaimer lang="pl"></disclaimer>
-		<summary lang="pl">kraisfilm.pl</summary>
-		<language>pl</language>
-		<platform>all</platform>
-		<license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-		<website></website>
-		<assets>
-			<icon>icon.png</icon>
-			<fanart>fanart.jpg</fanart>
-		</assets>
-	</extension>
+    <extension point="xbmc.addon.metadata">
+        <description lang="pl">Filmbit.ws</description>
+        <disclaimer lang="pl">https://github.com/mbebe/blomqvist</disclaimer>
+        <summary lang="pl">Filmbit.ws</summary>
+        <description lang="en">Filmbit.ws</description>
+        <disclaimer lang="en">https://github.com/mbebe/blomqvist</disclaimer>
+        <summary lang="en">Filmbit.ws</summary>
+        <language>pl</language>
+        <platform>all</platform>
+        <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+        <website>https://github.com/mbebe/blomqvist</website>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
+    </extension>
 </addon>
 
 <addon id="plugin.video.kreskowkitv" name="kreskowki.tv" version="1.2" provider-name="mbebe">
