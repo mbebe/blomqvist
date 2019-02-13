@@ -1,3 +1,7 @@
+2.1.6
+- LIVE event fix
+- LIVE search fix
+
 2.1.5
 - LIVE event fix
 - LIVE search fix
