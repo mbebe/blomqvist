@@ -1,2 +1,5 @@
+1.1
+- sport365 fix
+
 1.0
 - initial version 
