@@ -1,3 +1,7 @@
+1.3
+- supersportowo fix
+- dodane zobaczws do livelooker
+
 1.2
 - supersportowo fix
 - dodane zobaczws do livelooker
