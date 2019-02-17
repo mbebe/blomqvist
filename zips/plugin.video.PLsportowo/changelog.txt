@@ -1,3 +1,7 @@
+1.2
+- supersportowo fix
+- dodane zobaczws do livelooker
+
 1.1
 - sport365 fix
 
