@@ -1,8 +1,11 @@
+1.5.3
+- strims.world - channel fix
+
 1.5.2
-- streams.world fix
+- strims.world fix
 
 1.5.1
-- streams.world - streams fix
+- strims.world - streams fix
 - fix sport365
 
 1.5.0
