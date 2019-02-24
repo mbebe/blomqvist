@@ -1,3 +1,6 @@
+1.5.2
+- streams.world fix
+
 1.5.1
 - streams.world - streams fix
 - fix sport365
