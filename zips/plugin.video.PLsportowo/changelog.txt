@@ -1,3 +1,6 @@
+1.5.4
+- strims.world - streams fix
+
 1.5.3
 - strims.world - channel fix
 
