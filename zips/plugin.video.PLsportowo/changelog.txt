@@ -1,3 +1,6 @@
+1.5.6
+- canalesportivo - fix
+
 1.5.5
 - tvpsport - fix
 
