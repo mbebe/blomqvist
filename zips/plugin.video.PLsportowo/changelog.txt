@@ -1,3 +1,6 @@
+1.5.7
+- sttrims.world - fix
+
 1.5.6
 - canalesportivo - fix
 
