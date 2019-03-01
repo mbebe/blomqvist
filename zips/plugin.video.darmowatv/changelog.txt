@@ -1,3 +1,6 @@
+1.6.1
+- update fix
+
 1.6.0
 - zobaczws cf
 - supersportowo fix
