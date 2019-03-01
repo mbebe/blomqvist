@@ -1,3 +1,6 @@
+1.6.2
+- darmowa online CF fix
+
 1.6.1
 - update fix
 
