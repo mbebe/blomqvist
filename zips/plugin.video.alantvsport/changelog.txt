@@ -1,3 +1,8 @@
+2.2
+- LIVE event fix
+- LIVE search fix
+- javafooty streamlet fix
+
 2.1.9
 - LIVE event fix
 - LIVE search fix
