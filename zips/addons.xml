@@ -207,7 +207,7 @@ Version 1.4.1
 </extension>
 </addon>
 
-<addon id="plugin.video.darmowatv" name="darmowaTv" version="1.6.2" provider-name="mbebe">
+<addon id="plugin.video.darmowatv" name="darmowaTv" version="1.6.3" provider-name="mbebe">
     <requires>
         <import addon="xbmc.python" version="2.25.0"/>
         <import addon="script.module.requests" />
