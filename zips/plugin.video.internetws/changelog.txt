@@ -1,0 +1,8 @@
+1.2
+- poprawka z cookies
+
+1.1
+- fix
+
+1.0
+- initial version 
