@@ -1,0 +1,8 @@
+1.2
+- fix all categories
+
+1.1
+- small fix
+
+1.0
+- initial version 

@@ -1,0 +1,68 @@
+[B]Version 1.0[/B]
+- First version 1
+[B]Version 1.0.3[/B]
+- bbc link for outsiders
+[B]Version 1.0.3[/B]
+- external call support
+[B]Version 1.0.5[/B]
+- added j0anita's link
+[B]Version 1.0.10[/B]
+- new links
+[B]Version 1.0.11[/B]
+- more links and some images
+[B]Version 1.0.12[/B]
+- added recorded streams
+[B]Version 1.0.13[/B]
+- couple of links fixed
+[B]Version 1.0.14[/B]
+- couple of links fixed
+[B]Version 1.0.15[/B]
+- making easier for livestream call
+[B]Version 1.0.16[/B]
+- added nested manifest example
+[B]Version 1.0.17[/B]
+- removed import of t0mm0 common, wasn't even being used
+[B]Version 1.0.18[/B]
+- Support for proxy param
+[B]Version 2.0.0[/B]
+- Support for passing simple downloader flag
+[B]Version 2.0.1[/B]
+- Support for auth param
+[B]Version 2.0.1[/B]
+- bump version 2.1.2
+[B]Version 2.1.3[/B]
+- fixed auth param
+[B]Version 2.1.4[/B]
+- added stream type for hls support including DRM HLS
+[B]Version 2.1.7[/B]
+support setresolved param
+
+[B]Version 2.1.8[/B]
+icon change
+[B]Version 2.1.9[/B]
+correct bbc links
+[B]Version 2.2.0[/B]
+Introduced settings for BBC birate
+
+[B]Version 2.2.3[/B]
+added swf parameter for hds
+[B]Version 2.2.4[/B]
+play command
+[B]Version 2.2.5[/B]
+Fixed bbc links
+[B]Version 2.5.6[/B]
+version bump
+[B]Version 2.5.7[/B]
+version bump for TSDownloaders
+[B]Version 2.6.1[/B]
+callback params
+[B]Version 2.6.2[/B]
+iconImage support
+[B]Version 2.6.6[/B]
+bump version
+[B]Version 2.6.8[/B]
+bump version
+[B]Version 2.6.9[/B]
+removed extension
+[B]Version 2.7.1[/B]
+bump version

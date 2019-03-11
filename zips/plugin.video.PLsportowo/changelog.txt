@@ -1,3 +1,11 @@
+1.6.1
+- sport365 by bugatsinho
+- fix supersportowo
+- fix channels
+
+1.6
+- some fix
+
 1.5.9
 - sport365 fix
 - strims.world - fix
