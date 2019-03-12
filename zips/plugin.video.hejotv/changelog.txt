@@ -1,3 +1,6 @@
+1.9.4
+- poprawka odtwarzania
+
 1.9.3
 - poprawka do telewizji
 - poprawka wydarzen sportowych

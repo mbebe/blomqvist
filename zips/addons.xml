@@ -596,7 +596,7 @@ Róbta co chceta! :)
 </extension>
 </addon>
 
-<addon id="plugin.video.hejotv" name="hejo.tv" version="1.9.3" provider-name="mbebe">
+<addon id="plugin.video.hejotv" name="hejo.tv" version="1.9.4" provider-name="mbebe">
 	<requires>
 		<import addon="xbmc.python" version="2.25.0"/>
 		<import addon="script.module.requests" />
@@ -878,7 +878,7 @@ Róbta co chceta! :)
     </extension>
 </addon>
 
-<addon id="plugin.video.PLsportowo" name="Sportowa TV" version="1.6.1" provider-name="mbebe">
+<addon id="plugin.video.PLsportowo" name="Sportowa TV" version="1.6.2" provider-name="mbebe">
 	<requires>
 		<import addon="xbmc.python" version="2.25.0"/>
 		<import addon="script.module.requests" />
@@ -902,6 +902,31 @@ Róbta co chceta! :)
 			<fanart>fanart.jpg</fanart>
 		</assets>
 	</extension>
+</addon>
+
+<addon id="plugin.video.plusfilm" name="plusfilm.pl" version="1.0" provider-name="mbebe">
+    <requires>
+        <import addon="xbmc.python" version="2.25.0"/>
+        <import addon="script.module.requests" />
+        <import addon="script.module.parsedom" version="2.5.2"/>
+        <import addon="script.module.resolveurl"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="main.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <description>plusfilm.pl</description>
+        <disclaimer>https://github.com/mbebe/blomqvist</disclaimer>
+        <summary>plusfilm.pl</summary>
+        <language>pl</language>
+        <platform>all</platform>
+        <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+        <website>https://github.com/mbebe/blomqvist</website>
+        <assets>
+            <icon>icon.gif</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
+    </extension>
 </addon>
 
 <addon id="plugin.video.ramicpolsat" version="1.1" name="PolsatNews" provider-name="xxxxxx">
