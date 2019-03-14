@@ -1,3 +1,6 @@
+1.6.5
+- small fix
+
 1.6.4
 - channels fix
 
