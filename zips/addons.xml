@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addons>
-<addon id="plugin.video.alantvsport" name="HulkStream" version="2.2" provider-name="mbebe">
+<addon id="plugin.video.alantvsport" name="HulkStream" version="2.2.1" provider-name="mbebe">
 	<requires>
 		<import addon="xbmc.python" version="2.25.0"/>
 		<import addon="script.module.requests" />
@@ -207,7 +207,7 @@ Version 1.4.1
 </extension>
 </addon>
 
-<addon id="plugin.video.darmowatv" name="darmowaTv" version="1.6.3" provider-name="mbebe">
+<addon id="plugin.video.darmowatv" name="darmowaTv" version="1.6.4" provider-name="mbebe">
     <requires>
         <import addon="xbmc.python" version="2.25.0"/>
         <import addon="script.module.requests" />
@@ -863,7 +863,7 @@ Róbta co chceta! :)
     </extension>
 </addon>
 
-<addon id="plugin.video.PLsportowo" name="Sportowa TV" version="1.6.5" provider-name="mbebe">
+<addon id="plugin.video.PLsportowo" name="Sportowa TV" version="1.6.6" provider-name="mbebe">
 	<requires>
 		<import addon="xbmc.python" version="2.25.0"/>
 		<import addon="script.module.requests" />
