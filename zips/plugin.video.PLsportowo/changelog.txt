@@ -1,5 +1,5 @@
-1.6.7
-- twojetv fix
+1.6.8
+- play sport365 fix
 
 1.6.6
 - channels fix

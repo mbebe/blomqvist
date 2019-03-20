@@ -29,7 +29,7 @@
 	</extension>
 </addon>
 
-<addon id="plugin.video.alltube.tv" version="2.5.8" name="alltube.tv" provider-name="mbebe">
+<addon id="plugin.video.alltube.tv" version="2.5.9" name="alltube.tv" provider-name="mbebe">
 <requires>
   <import addon="xbmc.python" version="2.24.0"/>
   <import addon="script.module.resolveurl" version="5.0.00"/>
@@ -347,7 +347,7 @@ Do not install this addon if you are using a build.
   </extension>
 </addon>
 
-<addon id="plugin.video.ekstraklasa" name="Ekstraklasa" version="4.0.7" provider-name="mbebe">
+<addon id="plugin.video.ekstraklasa" name="Ekstraklasa" version="4.0.8" provider-name="mbebe">
 	<requires>
 		<import addon="xbmc.python" version="2.1.0"/>
 		<import addon="script.module.resolveurl"/>
@@ -581,7 +581,7 @@ Róbta co chceta! :)
 </extension>
 </addon>
 
-<addon id="plugin.video.hejotv" name="hejo.tv" version="1.9.5" provider-name="mbebe">
+<addon id="plugin.video.hejotv" name="hejo.tv" version="1.9.6" provider-name="mbebe">
 	<requires>
 		<import addon="xbmc.python" version="2.25.0"/>
 		<import addon="script.module.requests" />
@@ -863,7 +863,7 @@ Róbta co chceta! :)
     </extension>
 </addon>
 
-<addon id="plugin.video.PLsportowo" name="Sportowa TV" version="1.6.7" provider-name="mbebe">
+<addon id="plugin.video.PLsportowo" name="Sportowa TV" version="1.6.8" provider-name="mbebe">
 	<requires>
 		<import addon="xbmc.python" version="2.25.0"/>
 		<import addon="script.module.requests" />
