@@ -863,7 +863,7 @@ Róbta co chceta! :)
     </extension>
 </addon>
 
-<addon id="plugin.video.PLsportowo" name="Sportowa TV" version="1.6.8" provider-name="mbebe">
+<addon id="plugin.video.PLsportowo" name="Sportowa TV" version="1.6.9" provider-name="mbebe">
 	<requires>
 		<import addon="xbmc.python" version="2.25.0"/>
 		<import addon="script.module.requests" />
@@ -968,7 +968,7 @@ Róbta co chceta! :)
 </extension>
 </addon>
 
-<addon id="plugin.video.segos" version="4.0.2" name="segos" provider-name="mbebe">
+<addon id="plugin.video.segos" version="4.0.3" name="segos" provider-name="mbebe">
 <requires>
   <import addon="xbmc.python" version="2.1.0"/>
   <import addon="script.common.plugin.cache" version="2.5.5"/>

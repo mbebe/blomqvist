@@ -1,3 +1,6 @@
+1.6.9
+- fix
+
 1.6.8
 - play sport365 fix
 
