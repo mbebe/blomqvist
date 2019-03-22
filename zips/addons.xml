@@ -29,7 +29,7 @@
 	</extension>
 </addon>
 
-<addon id="plugin.video.alltube.tv" version="2.5.9" name="alltube.tv" provider-name="mbebe">
+<addon id="plugin.video.alltube.tv" version="2.6.1" name="alltube.tv" provider-name="mbebe">
 <requires>
   <import addon="xbmc.python" version="2.24.0"/>
   <import addon="script.module.resolveurl" version="5.0.00"/>
@@ -863,7 +863,7 @@ Róbta co chceta! :)
     </extension>
 </addon>
 
-<addon id="plugin.video.PLsportowo" name="Sportowa TV" version="1.6.9" provider-name="mbebe">
+<addon id="plugin.video.PLsportowo" name="Sportowa TV" version="1.7" provider-name="mbebe">
 	<requires>
 		<import addon="xbmc.python" version="2.25.0"/>
 		<import addon="script.module.requests" />
