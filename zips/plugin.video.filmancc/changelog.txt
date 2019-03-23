@@ -1,3 +1,7 @@
+1.7
+- cloudflare update
+- anti ddos bypass
+
 1.6
 - poprawka dla premium
 

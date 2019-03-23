@@ -1,3 +1,7 @@
+1.6.5
+- cloudflare update
+- dodano big brother w twojetv.ws
+
 1.6.4
 - poprawka do telerium
 
