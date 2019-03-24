@@ -1,3 +1,6 @@
+1.7.2
+- wybor kanalow live
+
 1.7.1
 - zmiana cricfree ze strims.world
 
