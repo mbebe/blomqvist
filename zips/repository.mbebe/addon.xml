@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-	<addon id="repository.mbebe" name="mbebe" version="0.2.9" provider-name="mbebe">
+	<addon id="repository.mbebe" name="mbebe" version="0.3" provider-name="mbebe">
 		<extension point="xbmc.addon.repository" name="mbebe">
 			<info compressed="false">https://raw.githubusercontent.com/mbebe/blomqvist/master/zips/addons.xml</info>
 			<checksum>https://raw.githubusercontent.com/mbebe/blomqvist/master/zips/addons.xml.md5</checksum>
@@ -16,7 +16,7 @@
 			<platform>all</platform>
 		</extension>
         <assets>
-            <icon>icon.gif</icon>
-			<fanart>fanart.jpg</fanart>			
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>			
         </assets>			
 </addon>
