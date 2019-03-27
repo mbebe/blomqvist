@@ -1,2 +1,5 @@
+1.2
+- cloudflare update
+
 1.0
 - initial version 

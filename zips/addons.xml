@@ -207,7 +207,7 @@ Version 1.4.1
 </extension>
 </addon>
 
-<addon id="plugin.video.darmowatv" name="darmowaTv" version="1.6.5" provider-name="mbebe">
+<addon id="plugin.video.darmowatv" name="darmowaTv" version="1.6.6" provider-name="mbebe">
     <requires>
         <import addon="xbmc.python" version="2.25.0"/>
         <import addon="script.module.requests" />
@@ -863,7 +863,7 @@ Róbta co chceta! :)
     </extension>
 </addon>
 
-<addon id="plugin.video.PLsportowo" name="Sportowa TV" version="1.7.2" provider-name="mbebe">
+<addon id="plugin.video.PLsportowo" name="Sportowa TV" version="1.7.3" provider-name="mbebe">
 	<requires>
 		<import addon="xbmc.python" version="2.25.0"/>
 		<import addon="script.module.requests" />
@@ -968,7 +968,7 @@ Róbta co chceta! :)
 </extension>
 </addon>
 
-<addon id="plugin.video.segos" version="4.0.4" name="segos" provider-name="mbebe">
+<addon id="plugin.video.segos" version="4.0.5" name="segos" provider-name="mbebe">
 <requires>
   <import addon="xbmc.python" version="2.1.0"/>
   <import addon="script.common.plugin.cache" version="2.5.5"/>
@@ -1210,7 +1210,7 @@ Róbta co chceta! :)
 </extension>
 </addon>
 
-<addon id="plugin.video.virpecom" name="virpeCOM" version="1.1" provider-name="xxxxxx">
+<addon id="plugin.video.virpecom" name="virpeCOM" version="1.2" provider-name="mbebe">
 	<requires>
 		<import addon="xbmc.python" version="2.25.0"/>
 		<import addon="script.module.requests" />

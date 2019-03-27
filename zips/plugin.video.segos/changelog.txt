@@ -1,3 +1,6 @@
+4.0.5
+- usuniety kolor po dodaniu i usunieciu
+
 4.0.4
 - dodano dodawanie do obejrzenia 
 
