@@ -1,3 +1,6 @@
+4.0.6
+- cf z js2py
+
 4.0.5
 - usuniety kolor po dodaniu i usunieciu
 

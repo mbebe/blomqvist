@@ -387,7 +387,7 @@ Tabele, terminarze, listy strzelców
 	</extension>
 </addon>
 
-<addon id="plugin.video.filisertv" version="2.9" name="Fili.cc" provider-name="mbebe">
+<addon id="plugin.video.filisertv" version="2.9.1" name="Fili.cc" provider-name="mbebe">
 <requires>
   <import addon="xbmc.python" version="2.1.0"/>
   <import addon="script.module.resolveurl" version="5.0.12b"/>
@@ -968,7 +968,7 @@ Róbta co chceta! :)
 </extension>
 </addon>
 
-<addon id="plugin.video.segos" version="4.0.5" name="segos" provider-name="mbebe">
+<addon id="plugin.video.segos" version="4.0.6" name="segos" provider-name="mbebe">
 <requires>
   <import addon="xbmc.python" version="2.1.0"/>
   <import addon="script.common.plugin.cache" version="2.5.5"/>
