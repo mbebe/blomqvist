@@ -1,3 +1,7 @@
+4.0.7
+- poprawka cloudflare
+- poprawka wyboru zrodel
+
 4.0.6
 - cf z js2py
 

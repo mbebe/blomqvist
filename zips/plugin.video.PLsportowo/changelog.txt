@@ -1,3 +1,6 @@
+1.7.4
+- poprawka cloudflare
+
 1.7.3
 - poprawka telerium (zobacz.ws)
 

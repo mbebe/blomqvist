@@ -29,7 +29,7 @@
 	</extension>
 </addon>
 
-<addon id="plugin.video.alltube.tv" version="2.6.1" name="alltube.tv" provider-name="mbebe">
+<addon id="plugin.video.alltube.tv" version="2.6.2" name="Alltube.tv" provider-name="mbebe">
 <requires>
   <import addon="xbmc.python" version="2.24.0"/>
   <import addon="script.module.resolveurl" version="5.0.00"/>
@@ -55,12 +55,11 @@
     <fanart>fanart.jpg</fanart>
   </assets>
   <news>
-Róbta co chceta! :)
   </news>
 </extension>
 </addon>
 
-<addon id="plugin.video.bajeczkiorg" name="Bajeczkiorg" version="1.0" provider-name="xxxxxx">
+<addon id="plugin.video.bajeczkiorg" name="Bajeczki.org" version="1.1" provider-name="mbebe">
     <requires>
         <import addon="xbmc.python" version="2.25.0"/>
         <import addon="script.module.requests" />
@@ -88,7 +87,7 @@ Róbta co chceta! :)
     </extension>
 </addon>
 
-<addon id="plugin.video.bosoprzezswiat" name="bosoprzezswiat" version="1.2" provider-name="mbebe">
+<addon id="plugin.video.bosoprzezswiat" name="Boso przez świat" version="1.3" provider-name="mbebe">
     <requires>
         <import addon="xbmc.python" version="2.25.0"/>
         <import addon="script.module.requests" />
@@ -112,7 +111,7 @@ Róbta co chceta! :)
     </extension>
 </addon>
 
-<addon id="plugin.video.boxfilmpl" version="1.4.2" name="boxfilm.pl" provider-name="Podpis">
+<addon id="plugin.video.boxfilmpl" version="1.4.3" name="Boxfilm.pl" provider-name="mbebe">
 <requires>
   <import addon="xbmc.python" version="2.1.0"/>
   <import addon="script.module.resolveurl" version="5.0.00"/>
@@ -123,27 +122,18 @@ Róbta co chceta! :)
   <provides>video</provides>
 </extension>
 <extension point="xbmc.addon.metadata">
-  <summary lang="pl">Zasoby serwisu boxfilm.pl</summary>
-  <description lang="pl">Wszystkie filmy dostępne w serwisie są dostępne zupełnie za darmo.</description>
-  <disclaimer lang="en">A private use only. For bugs, requests or general questions visit my repository https://github.com/podpis/kodi</disclaimer>
-  <language></language>
-  <platform>all</platform>
-  <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-  <forum>https://github.com/podpis/kodi/issues</forum>
-  <website>https://github.com/podpis/kodi</website>
-  <assets>
-    <icon>icon.png</icon>
-    <fanart>fanart.jpg</fanart>
-    <screenshot>resources/media/screenshot-01.jpg</screenshot>
-    <screenshot>resources/media/screenshot-02.jpg</screenshot>
-    <screenshot>resources/media/screenshot-03.jpg</screenshot>
-  </assets>
-  <news>
-Version 1.4.1
-- change modules urllib/urllib2/httplib2 to module requests
-- add screenshots
-  </news>
-</extension>
+  <description lang="pl">boxfilm.pl</description>
+  <disclaimer lang="pl">https://github.com/mbebe/blomqvist</disclaimer>
+  <summary lang="pl">boxfilm.pl</summary>
+	<language>pl</language>
+	<platform>all</platform>
+	<license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+	<website>https://github.com/mbebe/blomqvist</website>
+	<assets>
+		<icon>icon.png</icon>
+		<fanart>fanart.jpg</fanart>
+	</assets>
+	</extension>
 </addon>
 
 <addon id="plugin.video.cdahd" version="1.6.5" name="cda-hd" provider-name="Podpis">
@@ -581,7 +571,7 @@ Róbta co chceta! :)
 </extension>
 </addon>
 
-<addon id="plugin.video.hejotv" name="hejo.tv" version="1.9.6" provider-name="mbebe">
+<addon id="plugin.video.hejotv" name="hejo.tv" version="1.9.7" provider-name="mbebe">
 	<requires>
 		<import addon="xbmc.python" version="2.25.0"/>
 		<import addon="script.module.requests" />
@@ -863,7 +853,7 @@ Róbta co chceta! :)
     </extension>
 </addon>
 
-<addon id="plugin.video.PLsportowo" name="Sportowa TV" version="1.7.3" provider-name="mbebe">
+<addon id="plugin.video.PLsportowo" name="Sportowa TV" version="1.7.4" provider-name="mbebe">
 	<requires>
 		<import addon="xbmc.python" version="2.25.0"/>
 		<import addon="script.module.requests" />
@@ -968,7 +958,7 @@ Róbta co chceta! :)
 </extension>
 </addon>
 
-<addon id="plugin.video.segos" version="4.0.6" name="segos" provider-name="mbebe">
+<addon id="plugin.video.segos" version="4.0.7" name="segos" provider-name="mbebe">
 <requires>
   <import addon="xbmc.python" version="2.1.0"/>
   <import addon="script.common.plugin.cache" version="2.5.5"/>
@@ -1210,7 +1200,7 @@ Róbta co chceta! :)
 </extension>
 </addon>
 
-<addon id="plugin.video.virpecom" name="virpeCOM" version="1.2" provider-name="mbebe">
+<addon id="plugin.video.virpecom" name="virpeCOM" version="1.3" provider-name="mbebe">
 	<requires>
 		<import addon="xbmc.python" version="2.25.0"/>
 		<import addon="script.module.requests" />
