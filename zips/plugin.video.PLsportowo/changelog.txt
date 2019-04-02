@@ -1,3 +1,8 @@
+1.7.5
+- poprawa czasu w cricfree
+- poprawa w strims
+- dodane ikony
+
 1.7.4
 - poprawka cloudflare
 

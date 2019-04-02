@@ -197,7 +197,7 @@
 </extension>
 </addon>
 
-<addon id="plugin.video.darmowatv" name="darmowaTv" version="1.6.6" provider-name="mbebe">
+<addon id="plugin.video.darmowatv" name="darmowaTv" version="1.6.7" provider-name="mbebe">
     <requires>
         <import addon="xbmc.python" version="2.25.0"/>
         <import addon="script.module.requests" />
@@ -853,7 +853,7 @@ Róbta co chceta! :)
     </extension>
 </addon>
 
-<addon id="plugin.video.PLsportowo" name="Sportowa TV" version="1.7.4" provider-name="mbebe">
+<addon id="plugin.video.PLsportowo" name="Sportowa TV" version="1.7.5" provider-name="mbebe">
 	<requires>
 		<import addon="xbmc.python" version="2.25.0"/>
 		<import addon="script.module.requests" />
