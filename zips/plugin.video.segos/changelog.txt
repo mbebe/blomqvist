@@ -1,3 +1,6 @@
+4.0.8
+- wybor autom. jakosci cda
+
 4.0.7
 - poprawka cloudflare
 - poprawka wyboru zrodel
