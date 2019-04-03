@@ -1,0 +1,139 @@
+2.6.2
+- fix
+
+2.6.1
+- bump version
+
+2.6
+- fix
+
+2.5.9
+- poprawka do cloudflare
+
+2.5.8
+- szukaj fix
+- kategorie,rok fix
+
+2.5.7
+- fun fix
+
+2.5.6
+- cloudflare fix
+
+2.5.5a
+- adding dependencies script.module.requests
+
+2.5.5
+- proxy fixed for USA
+- minor improvements
+
+2.5.4d
+- search serial fix
+
+2.5.4c
+- minor fixes
+
+2.5.4b
+- episodes fixed
+
+2.5.4a
+- hoster list fixed
+
+2.5.4
+- serial downloads added
+- Fun fixed
+
+2.5.3
+- download fixed
+
+2.5.2
+- proxy fixed
+
+2.5.1
+- link with alltube.pl fixed
+
+2.5
+- minor fixes
+
+2.4
+- decoding the plugin code
+- reconstruction of variable names and names functions
+- remove of malicious codes from the plugin
+- remove of script.module.ramic from the plugin
+- code fixes
+- remove of unnecessary modules and functions from the plugin
+- change urlresolver to resolveurl
+
+2.3
+- download fixed (independent)
+- playlist content
+- search by actor not supported by the service
+
+2.2
+- minor fixes
+
+2.1
+- proxy
+- pagination
+
+2.0
+- resolver
+- repo
+
+1.16
+- pagination fixed
+
+1.15
+- language multiselect
+- catagory, year -  multiselect
+- minor fixes
+
+1.14
+- search for actors
+- cda parse fixed
+- minor improvements
+
+1.13
+- img fixed
+
+1.12
+- code fixed
+- 
+
+1.11
+- download option
+
+1.10
+- 
+
+1.9
+- custom rapidvideo resolver
+
+1.8
+- minor fix
+
+1.7
+- next page fixed
+
+1.6
+- added: anime, fun 
+- icons
+
+1.5
+- web parsing fixed
+
+1.4
+- group episodes in seasons as an option
+
+1.3
+- search fixed
+
+1.2
+- content improvement
+- search option is back
+
+1.1
+- parser fixed
+
+1.0
+- initial version

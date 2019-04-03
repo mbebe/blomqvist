@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<addon id="plugin.video.alltube.tv" version="2.6.1" name="alltube.tv" provider-name="mbebe">
+<addon id="plugin.video.alltube.tv" version="2.6.2" name="Alltube.tv" provider-name="mbebe">
 <requires>
   <import addon="xbmc.python" version="2.24.0"/>
   <import addon="script.module.resolveurl" version="5.0.00"/>
@@ -25,7 +25,6 @@
     <fanart>fanart.jpg</fanart>
   </assets>
   <news>
-Róbta co chceta! :)
   </news>
 </extension>
 </addon>
