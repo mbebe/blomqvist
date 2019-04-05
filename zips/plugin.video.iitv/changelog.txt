@@ -1,0 +1,55 @@
+2.7
+- fix
+
+2.6
+- fix
+
+2.5
+- popularne, wszystkie fix
+
+2.4
+- decoding the plugin code
+- reconstruction of variable names and names functions
+- remove of malicious codes from the plugin
+- remove of script.module.ramic from the plugin
+- code fixes
+- remove of unnecessary modules and functions from the plugin
+
+2.3
+- minor scrapper fixes
+- host name
+
+2.2
+- link parser fixed
+
+2.1
+- link parser fixed
+- img fixed
+
+2.0
+- link parser fixed
+
+1.9
+- link parser fixed 
+
+1.8
+- link parser fixed
+- poster
+
+1.7 
+- fix
+
+1.6
+- link resolver
+
+1.5
+- kodi 17
+
+1.2
+- 
+
+1.1
+- mminor change
+
+1.0
+- initial version

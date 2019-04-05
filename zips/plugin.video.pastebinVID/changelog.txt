@@ -1,2 +1,12 @@
+1.7
+- fix
+
+1.5
+- code fix
+
+1.4
+- zapisywanie listy do pliku
+- edycja nazwy listy
+
 1.0
 - initial version 

@@ -1,3 +1,7 @@
+1.7.6
+-wylaczenie rtmpinput
+-wybor odtwarzania w sport365 (w ustawieniach wtyczki)
+
 1.7.5
 - poprawa czasu w cricfree
 - poprawa w strims

@@ -1,3 +1,6 @@
+2.6.3
+- dodane seriale alfabetycznie
+
 2.6.2
 - fix
 

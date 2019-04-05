@@ -1,2 +1,5 @@
+0.2
+- fix cloudflare
+
 0.1
 - initial version 

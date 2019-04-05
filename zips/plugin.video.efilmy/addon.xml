@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<addon id="plugin.video.efilmy" version="1.17" name="efilmy" provider-name="xxxxxxx">
+<addon id="plugin.video.efilmy" version="1.18" name="efilmy" provider-name="mbebe">
 <requires>
   <import addon="xbmc.python" version="2.1.0"/>
   <import addon="script.module.resolveurl" version="3.0.15"/>
