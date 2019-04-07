@@ -1,3 +1,7 @@
+1.19
+- oczyszczenie z choinki
+- poprawki wyswietlania i wyboru zrodel
+
 1.18
 - fix
 

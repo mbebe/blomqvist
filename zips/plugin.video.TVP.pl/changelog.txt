@@ -1,0 +1,102 @@
+2.2
+- logowanie dla vod
+2.1.9
+- seriale archiwum fix
+2.1.8
+- inputstreamhelper added
+2.1.7
+- Przegapiles w TV fixed
+- Change function Przegapiles w TV
+- a better sorting function has been added for Przegapiles w TV
+
+2.1.6
+- decoding the plugin code
+- reconstruction of variable names and names functions
+- remove of malicious codes from the plugin
+- remove of script.module.ramic from the plugin
+- code fixes
+- remove of unnecessary modules and functions from the plugin
+
+2.1.5
+- code fixes
+- sort options
+- pyeongchang
+
+2.1.4
+- vod based Regional services 
+
+2.1.3
+- dymanic VOD record lenthgh
+
+2.1.2
+- live stream fixed
+- Przegapiles w TV (antena)
+- automatic quality selection
+
+2.1.1
+- proxy gate fixed
+- Przegapiles w TV zobacz teraz!
+
+2.1.0
+- proxy option
+- updated vod links
+
+2.0.2
+- minor changes
+
+2.0.1
+- proxy fixed
+
+2.0.0
+- info
+- sources 
+- repo
+
+1.5.4
+- 
+
+1.5.3
+- mminor chage
+- proxy
+- typo
+
+1.5.2
+- live news stream: quality option
+
+1.5.1
+- astronarium
+
+1.5.0
+- episode time
+- proxy thread
+- Rio removed
+
+1.4.1
+- proxy fixed
+- Rio 2016 
+
+1.4.0
+- major update
+
+1.2.2
+- removed live tv (looknij)
+- fixed main menu entry
+
+1.2.2
+- simplejson to json
+
+1.2.1
+- minor fix
+
+1.2.0
+- Telewizja polska live z looknij.tv
+
+1.1.1
+- some links has been fixed (kabarety)
+- Rozrywka routed outside vod audycje.
+
+1.1.0
+- added vod.tvp.pl: seriale/filmy fabularne/dokumenty/archiwa/audycje
+
+1.0.1
+- initial version

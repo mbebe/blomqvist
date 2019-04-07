@@ -1,8 +1,9 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<addon id="plugin.video.TVP.pl" name="TVP.pl" version="2.1.9" provider-name="Podpis">
+<addon id="plugin.video.TVP.pl" name="TVP.pl" version="2.2.1" provider-name="mbebe">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
     <import addon="script.module.inputstreamhelper" version="0.3.3"/>
+    <import addon="script.module.requests" />
   </requires>
   <extension point="xbmc.python.pluginsource" library="addon.py">
     <provides>video</provides>
@@ -10,17 +11,16 @@
   <extension point="xbmc.addon.metadata">
 	<summary lang="en">Zasoby serwisu tvp.pl oraz vod.tvp.pl</summary>
 	<description lang="en">Zasoby serwisu tvp.pl oraz vod.tvp.pl</description>
-	<disclaimer lang="en">A private use only. For bugs, requests or general questions visit my repository https://github.com/podpis/kodi</disclaimer>
+	<disclaimer lang="en">A private use only.</disclaimer>
 	<language>pl</language>
 	<platform>all</platform>
 	<license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-	<forum>https://github.com/podpis/kodi/issues</forum>
-	<website>https://github.com/podpis/kodi</website>
+	<forum></forum>
+	<website></website>
 	<email></email>
 	<assets>
 		<icon>icon.png</icon>
 		<fanart>fanart.jpg</fanart>
 	</assets>
-	<news>Róbta co chceta! :)</news>
   </extension>
 </addon>

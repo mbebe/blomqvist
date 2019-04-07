@@ -1,3 +1,8 @@
+1.6.8
+- wylaczenie nieaktywnych stron
+- aktualizacja cloudflare
+- poprawka twojetv
+
 1.6.7
 - aktualizacja cloudflare
 
