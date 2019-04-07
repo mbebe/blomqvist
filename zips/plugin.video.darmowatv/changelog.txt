@@ -1,3 +1,6 @@
+1.6.9
+- poprawka cloudflare
+
 1.6.8
 - wylaczenie nieaktywnych stron
 - aktualizacja cloudflare

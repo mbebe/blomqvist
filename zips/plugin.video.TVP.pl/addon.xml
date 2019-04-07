@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<addon id="plugin.video.TVP.pl" name="TVP.pl" version="2.2.1" provider-name="mbebe">
+<addon id="plugin.video.TVP.pl" name="TVP.pl" version="2.2.2" provider-name="mbebe">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
     <import addon="script.module.inputstreamhelper" version="0.3.3"/>
