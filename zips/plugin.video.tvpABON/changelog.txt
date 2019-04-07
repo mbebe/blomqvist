@@ -1,0 +1,5 @@
+1.1
+- dodano katalogi i wyszukiwanie
+
+1.0
+- initial version 
