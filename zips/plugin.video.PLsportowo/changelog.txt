@@ -1,3 +1,6 @@
+1.7.8
+- poprawka typertv
+
 1.7.7
 - poprawka mydecode
 
