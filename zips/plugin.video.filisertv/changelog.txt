@@ -1,3 +1,6 @@
+2.9.3
+- dodane kategorie
+
 2.9.2
 - poprawka logowania
 

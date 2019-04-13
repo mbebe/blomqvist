@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<addon id="plugin.video.filisertv" version="2.9.2" name="Fili.cc" provider-name="mbebe">
+<addon id="plugin.video.filisertv" version="2.9.3" name="Fili.cc" provider-name="mbebe">
 <requires>
   <import addon="xbmc.python" version="2.1.0"/>
   <import addon="script.module.resolveurl" version="5.0.12b"/>
