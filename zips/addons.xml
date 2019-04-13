@@ -277,7 +277,7 @@
 </extension>
 </addon>
 
-<addon id="plugin.video.ekinomaniaktv" version="1.4" name="ekinomaniak" provider-name="mbebe">
+<addon id="plugin.video.ekinomaniaktv" version="1.5" name="ekinomaniak" provider-name="mbebe">
 <requires>
   <import addon="xbmc.python" version="2.1.0"/>
   <import addon="script.module.resolveurl" version="5.0.12b"/>
@@ -852,7 +852,7 @@ Róbta co chceta! :)
     </extension>
 </addon>
 
-<addon id="plugin.video.PLsportowo" name="Sportowa TV" version="1.7.8" provider-name="mbebe">
+<addon id="plugin.video.PLsportowo" name="Sportowa TV" version="1.7.9" provider-name="mbebe">
 	<requires>
 		<import addon="xbmc.python" version="2.25.0"/>
 		<import addon="script.module.requests" />
