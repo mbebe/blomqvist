@@ -1,3 +1,5 @@
+2.6.4
+- poprawka nowe seriale
 2.6.3
 - dodane seriale alfabetycznie
 

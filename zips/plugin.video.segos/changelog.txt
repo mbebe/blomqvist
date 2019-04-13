@@ -1,3 +1,6 @@
+4.0.9
+- poprawka cloudflare
+
 4.0.8
 - wybor autom. jakosci cda
 
