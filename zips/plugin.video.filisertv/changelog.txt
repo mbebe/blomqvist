@@ -1,3 +1,6 @@
+2.9.4
+- poprawka kategorii
+
 2.9.3
 - dodane kategorie
 
