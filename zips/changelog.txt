@@ -1,0 +1,59 @@
+1.8
+- najpopularniejsze fix
+
+1.7.9
+- quality choice
+- remove resolveurl
+
+1.7.8
+-search fix
+
+1.7.6
+- ...
+
+1.7.5
+- ...
+
+1.7.4
+- Fixed problem with login process
+
+1.7.3
+- Fixed problem with login process
+
+1.7.2
+- Fixed problem with login process
+
+1.7.1
+- Thumbnail fixed
+- minor fixes
+
+1.7
+- seriale fix
+- premium fix
+- lastes series fix
+
+1.6
+- decoding the plugin code
+- reconstruction of variable names and names functions
+- remove of malicious codes from the plugin
+- remove of script.module.ramic from the plugin
+- code fixes
+- remove of unnecessary modules and functions from the plugin
+- change urlresolver to resolveurl
+
+1.4/5
+- link parser fixed
+
+1.3
+- resolver, link parser fixed
+- info,repo
+
+1.2
+- link parser fixed
+
+1.1
+- added: login, quota msg
+- minor fixes
+
+1.0
+- initial version
