@@ -1,3 +1,6 @@
+1.4.4
+- poprawka filmy i seriale
+
 1.4.3
 - cf update
 - poprawka telewizji
