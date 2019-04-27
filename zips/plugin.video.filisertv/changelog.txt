@@ -1,3 +1,6 @@
+2.9.5
+- poprawka dla darmowych kont
+
 2.9.4
 - poprawka kategorii
 

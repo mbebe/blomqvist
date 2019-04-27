@@ -1,0 +1,19 @@
+1.5
+- zmiana hosta na filme.pl
+- zmiana nazwy na filme.pl
+
+1.4
+- znacznik wersji
+- kodi18 fix
+
+1.3
+- fix code
+
+1.2
+-link parse fix
+
+1.1
+- fix
+
+1.0
+- initial version 
