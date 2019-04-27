@@ -136,7 +136,7 @@
 	</extension>
 </addon>
 
-<addon id="plugin.video.cdahd" version="1.6.5" name="cda-hd" provider-name="Podpis">
+<addon id="plugin.video.cdahd" version="1.6.6" name="cda-hd" provider-name="mbebe">
 <requires>
   <import addon="xbmc.python" version="2.1.0"/>
   <import addon="script.module.resolveurl" version="5.0.12a"/>
@@ -168,11 +168,12 @@
 </extension>
 </addon>
 
-<addon id="plugin.video.cdaxpl" version="1.3.0" name="cda-tv.pl " provider-name="mbebe">
+<addon id="plugin.video.cdaxpl" version="1.3.1" name="cda-tv.pl " provider-name="mbebe">
 <requires>
   <import addon="xbmc.python" version="2.1.0"/>
   <import addon="script.module.resolveurl" version="5.0.12b"/>
   <import addon="script.common.plugin.cache" version="2.5.5"/>
+  <import addon="script.module.requests" />
 </requires>
 <extension point="xbmc.python.pluginsource" library="main.py">
   <provides>video</provides>
@@ -221,10 +222,11 @@
     </extension>
 </addon>
 
-<addon id="plugin.video.dokumentcyfrowo" version="1.1" name="Dokument Cyfrowo" provider-name="Podpis">
+<addon id="plugin.video.dokumentcyfrowo" version="1.2" name="Dokument Cyfrowo" provider-name="mbebe">
 <requires>
   <import addon="xbmc.python" version="2.1.0"/>
   <import addon="script.module.resolveurl" version="5.0.00"/>
+
 </requires>
 <extension point="xbmc.python.pluginsource" library="main.py">
   <provides>video</provides>
@@ -232,12 +234,12 @@
 <extension point="xbmc.addon.metadata">
   <summary lang="en">http://www.dokumentcyfrowo.pl/</summary>
   <description lang="en">http://www.dokumentcyfrowo.pl/</description>
-  <disclaimer lang="en">A private use only. For bugs, requests or general questions visit my repository https://github.com/podpis/kodi</disclaimer>
+  <disclaimer lang="en">A private use only. </disclaimer>
   <language></language>
   <platform>all</platform>
   <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-  <forum>https://github.com/podpis/kodi/issues</forum>
-  <website>https://github.com/podpis/kodi</website>
+  <forum></forum>
+  <website></website>
   <email></email>
   <assets>
     <icon>icon.png</icon>
@@ -308,7 +310,7 @@ Do not install this addon if you are using a build.
 </extension>
 </addon>
 
-<addon id="plugin.video.ekinotv" name="ekino-tv" version="2.3" provider-name="mbebe">
+<addon id="plugin.video.ekinotv" name="ekino-tv" version="2.4" provider-name="mbebe">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
     <import addon="script.module.resolveurl" version="5.0.12b"/>
@@ -439,7 +441,7 @@ Róbta co chceta! :)
 </extension>
 </addon>
 
-<addon id="plugin.video.filmantv" name="filmantv" version="1.2" provider-name="mbebe">
+<addon id="plugin.video.filmantv" name="filmantv" version="1.3" provider-name="mbebe">
     <requires>
         <import addon="xbmc.python" version="2.25.0"/>
         <import addon="script.module.requests" />
@@ -496,31 +498,6 @@ Róbta co chceta! :)
 </extension>
 </addon>
 
-<addon id="plugin.video.filmlink" name="filmlink.pl" version="1.0" provider-name="mbebe">
-    <requires>
-        <import addon="xbmc.python" version="2.25.0"/>
-        <import addon="script.module.requests" />
-        <import addon="script.module.parsedom" version="2.5.2"/>
-        <import addon="script.module.resolveurl"/>
-    </requires>
-    <extension point="xbmc.python.pluginsource" library="main.py">
-        <provides>video</provides>
-    </extension>
-    <extension point="xbmc.addon.metadata">
-        <description lang="pl">filmlink.pl</description>
-        <disclaimer lang="pl">https://github.com/mbebe/blomqvist</disclaimer>
-        <summary lang="pl">filmlink.pl</summary>
-        <language>pl</language>
-        <platform>all</platform>
-        <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-        <website>https://github.com/mbebe/blomqvist</website>
-        <assets>
-            <icon>icon.png</icon>
-            <fanart>fanart.jpg</fanart>
-        </assets>
-    </extension>
-</addon>
-
 <addon id="plugin.video.filmowakraina" name="FilmowaKraina.TV" version="1.5" provider-name="mbebe">
 	<requires>
 		<import addon="xbmc.python" version="2.25.0"/>
@@ -548,31 +525,6 @@ Róbta co chceta! :)
 			<fanart>fanart.jpg</fanart>
 		</assets>
 	</extension>
-</addon>
-
-<addon id="plugin.video.filmowo" name="filmowo.co" version="1.2" provider-name="mbebe">
-    <requires>
-        <import addon="xbmc.python" version="2.25.0"/>
-        <import addon="script.module.requests" />
-        <import addon="script.module.parsedom" version="2.5.2"/>
-        <import addon="script.module.resolveurl"/>
-    </requires>
-    <extension point="xbmc.python.pluginsource" library="main.py">
-        <provides>video</provides>
-    </extension>
-    <extension point="xbmc.addon.metadata">
-        <description lang="pl">filmowo.co</description>
-        <disclaimer lang="pl">https://github.com/mbebe/blomqvist</disclaimer>
-        <summary lang="pl">filmowo.co</summary>
-        <language>pl</language>
-        <platform>all</platform>
-        <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-        <website>https://github.com/mbebe/blomqvist</website>
-        <assets>
-            <icon>icon.png</icon>
-            <fanart>fanart.jpg</fanart>
-        </assets>
-    </extension>
 </addon>
 
 <addon id="plugin.video.freedisc.pl" version="1.5" name="freedisc" provider-name="xxxxxx">
@@ -818,37 +770,6 @@ Róbta co chceta! :)
 			<fanart>fanart.jpg</fanart>
 		</assets>
 	</extension>
-</addon>
-
-<addon id="plugin.video.naszekinotv" version="1.6.9" name="nasze-kino.tv" provider-name="Podpis">
-<requires>
-  <import addon="xbmc.python" version="2.1.0"/>
-  <import addon="script.module.resolveurl" version="5.0.00"/>
-  <import addon="script.common.plugin.cache" version="2.5.5"/>
-  <import addon="script.module.requests" version="2.18.4"/>
-</requires>
-<extension point="xbmc.python.pluginsource" library="main.py">
-  <provides>video</provides>
-</extension>
-<extension point="xbmc.addon.metadata">
-  <summary lang="en">nasze-kino.tv</summary>
-  <description lang="en">nasze-kino.tv</description>
-  <disclaimer lang="en">A private use only. For bugs, requests or general questions visit my repository https://github.com/podpis/kodi</disclaimer>
-  <language></language>
-  <platform>all</platform>
-  <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-  <forum>https://github.com/podpis/kodi/issues</forum>
-  <website>https://github.com/podpis/kodi</website>
-  <email></email>
-  <source>https://github.com/podpis/kodi</source>
-  <assets>
-    <icon>icon.png</icon>
-    <fanart>fanart.jpg</fanart>
-  </assets>
-  <news>
-Róbta co chceta! :)
-  </news>
-</extension>
 </addon>
 
 <addon id="plugin.video.ninateka" version="1.4" name="Ninateka" provider-name="mbebe">
@@ -1279,7 +1200,7 @@ Róbta co chceta! :)
 </extension>
 </addon>
 
-<addon id="plugin.video.virpecom" name="virpeCOM" version="1.5" provider-name="mbebe">
+<addon id="plugin.video.virpecom" name="virpeCOM" version="1.6" provider-name="mbebe">
 	<requires>
 		<import addon="xbmc.python" version="2.25.0"/>
 		<import addon="script.module.requests" />

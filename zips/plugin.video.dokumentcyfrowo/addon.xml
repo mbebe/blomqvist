@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<addon id="plugin.video.dokumentcyfrowo" version="1.1" name="Dokument Cyfrowo" provider-name="Podpis">
+<addon id="plugin.video.dokumentcyfrowo" version="1.2" name="Dokument Cyfrowo" provider-name="mbebe">
 <requires>
   <import addon="xbmc.python" version="2.1.0"/>
   <import addon="script.module.resolveurl" version="5.0.00"/>
+
 </requires>
 <extension point="xbmc.python.pluginsource" library="main.py">
   <provides>video</provides>
@@ -10,12 +11,12 @@
 <extension point="xbmc.addon.metadata">
   <summary lang="en">http://www.dokumentcyfrowo.pl/</summary>
   <description lang="en">http://www.dokumentcyfrowo.pl/</description>
-  <disclaimer lang="en">A private use only. For bugs, requests or general questions visit my repository https://github.com/podpis/kodi</disclaimer>
+  <disclaimer lang="en">A private use only. </disclaimer>
   <language></language>
   <platform>all</platform>
   <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-  <forum>https://github.com/podpis/kodi/issues</forum>
-  <website>https://github.com/podpis/kodi</website>
+  <forum></forum>
+  <website></website>
   <email></email>
   <assets>
     <icon>icon.png</icon>

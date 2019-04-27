@@ -1,3 +1,7 @@
+2.4
+- cloudflare update
+- dodano verystream
+
 2.3
 - cloudflare update
 
