@@ -1,5 +1,9 @@
+2.6.5
+- cf update
+
 2.6.4
 - poprawka nowe seriale
+
 2.6.3
 - dodane seriale alfabetycznie
 

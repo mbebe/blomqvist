@@ -29,7 +29,7 @@
 	</extension>
 </addon>
 
-<addon id="plugin.video.alltube.tv" version="2.6.4" name="Alltube.tv" provider-name="mbebe">
+<addon id="plugin.video.alltube.tv" version="2.6.5" name="Alltube.tv" provider-name="mbebe">
 <requires>
   <import addon="xbmc.python" version="2.24.0"/>
   <import addon="script.module.resolveurl" version="5.0.00"/>
@@ -498,6 +498,31 @@ Róbta co chceta! :)
 </extension>
 </addon>
 
+<addon id="plugin.video.filmdomfun" name="Filmdom.fun" version="1.0" provider-name="mbebe">
+	<requires>
+		<import addon="xbmc.python" version="2.25.0"/>
+		<import addon="script.module.requests" />
+		<import addon="script.module.parsedom" version="2.5.2"/>
+		<import addon="script.module.resolveurl" version="5.0.00"/>
+	</requires>
+	<extension point="xbmc.python.pluginsource" library="main.py">
+		<provides>video</provides>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<description>Filmdom.fun</description>
+		<disclaimer>https://github.com/mbebe/blomqvist</disclaimer>
+		<summary>Filmdom.fun</summary>
+		<language>pl</language>
+		<platform>all</platform>
+		<license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+		<website>https://github.com/mbebe/blomqvist</website>
+		<assets>
+			<icon>icon.png</icon>
+			<fanart>fanart.jpg</fanart>
+		</assets>
+	</extension>
+</addon>
+
 <addon id="plugin.video.filmowakraina" name="FilmowaKraina.TV" version="1.5" provider-name="mbebe">
 	<requires>
 		<import addon="xbmc.python" version="2.25.0"/>
@@ -520,6 +545,31 @@ Róbta co chceta! :)
 		<platform>all</platform>
 		<license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
 		<website></website>
+		<assets>
+			<icon>icon.png</icon>
+			<fanart>fanart.jpg</fanart>
+		</assets>
+	</extension>
+</addon>
+
+<addon id="plugin.video.filmy321" name="Filmy321" version="1.0" provider-name="mbebe">
+	<requires>
+		<import addon="xbmc.python" version="2.25.0"/>
+		<import addon="script.module.requests" />
+		<import addon="script.module.parsedom" version="2.5.2"/>
+		<import addon="script.module.resolveurl" version="5.0.00"/>
+	</requires>
+	<extension point="xbmc.python.pluginsource" library="main.py">
+		<provides>video</provides>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<description>filmy321.pl</description>
+		<disclaimer>https://github.com/mbebe/blomqvist</disclaimer>
+		<summary>filmy321.pl</summary>
+		<language>pl</language>
+		<platform>all</platform>
+		<license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+		<website>https://github.com/mbebe/blomqvist</website>
 		<assets>
 			<icon>icon.png</icon>
 			<fanart>fanart.jpg</fanart>
