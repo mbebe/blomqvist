@@ -1,3 +1,8 @@
+1.4.5
+- poprawka telewizji
+- poprawka odtwarzania filmow
+- poprawka wyswietlania seriali
+
 1.4.4
 - poprawka filmy i seriale
 
