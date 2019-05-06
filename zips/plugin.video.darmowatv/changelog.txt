@@ -1,3 +1,7 @@
+1.7.1
+- przywrocona darmowa-telewizja.online
+- zmiana twojetv.ws na filmbit - darmowe
+
 1.7
 -bump 
 
