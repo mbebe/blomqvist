@@ -1,3 +1,6 @@
+1.7.2
+- poprawa grafiki
+
 1.7.1
 - przywrocona darmowa-telewizja.online
 - zmiana twojetv.ws na filmbit - darmowe

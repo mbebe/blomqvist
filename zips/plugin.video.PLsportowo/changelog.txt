@@ -1,6 +1,6 @@
-1.8
-- poprawka dla cricfree
-- aktualizacja mydecode
+1.8.1
+- sport365 update
+- fix strims.world
 
 1.7.9
 - poprawka typertv

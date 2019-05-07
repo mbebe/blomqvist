@@ -198,7 +198,7 @@
 </extension>
 </addon>
 
-<addon id="plugin.video.darmowatv" name="darmowaTv" version="1.7.1" provider-name="mbebe">
+<addon id="plugin.video.darmowatv" name="darmowaTV" version="1.7.2" provider-name="mbebe">
     <requires>
         <import addon="xbmc.python" version="2.25.0"/>
         <import addon="script.module.requests" />
@@ -662,7 +662,7 @@ Róbta co chceta! :)
 </extension>
 </addon>
 
-<addon id="plugin.video.iitv" name="iitv-seriale" version="2.7" provider-name="mbebe">
+<addon id="plugin.video.iitv" name="iitv-seriale" version="2.8" provider-name="mbebe">
   <requires>
     <import addon="xbmc.python" version="2.25.0"/>
 	<import addon="script.module.resolveurl" version="5.0.12b"/>
@@ -880,7 +880,7 @@ Róbta co chceta! :)
     </extension>
 </addon>
 
-<addon id="plugin.video.PLsportowo" name="Sportowa TV" version="1.8" provider-name="mbebe">
+<addon id="plugin.video.PLsportowo" name="Sportowa TV" version="1.8.1" provider-name="mbebe">
 	<requires>
 		<import addon="xbmc.python" version="2.25.0"/>
 		<import addon="script.module.requests" />
