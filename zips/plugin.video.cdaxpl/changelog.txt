@@ -1,3 +1,6 @@
+1.3.2
+- poprawka gatunek oraz rok
+
 1.3.1
 - dodano verystream
 

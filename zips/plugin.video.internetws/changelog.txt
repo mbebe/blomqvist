@@ -1,3 +1,6 @@
+1.5
+- usuniete resolveurl z zaleznosci
+
 1.4
 - dodane Ulubione kanaly
 
