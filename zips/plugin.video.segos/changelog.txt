@@ -1,3 +1,6 @@
+4.1.1
+- strony w DO OBEJRZENIA
+
 4.1
 - poprawka logowania
 

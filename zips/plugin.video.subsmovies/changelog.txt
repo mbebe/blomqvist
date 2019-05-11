@@ -1,3 +1,6 @@
+0.3
+- new host
+
 0.2
 - fix cloudflare
 
