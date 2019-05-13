@@ -1,0 +1,20 @@
+<settings version="2">
+    <setting id="bazafilmow_countryIdsN" default="true">wszystkie</setting>
+    <setting id="bazafilmow_countryIdsV" default="true"></setting>
+    <setting id="bazafilmow_dataProdukcjiN" default="true">kiedykolwiek</setting>
+    <setting id="bazafilmow_dataProdukcjiV" default="true"></setting>
+    <setting id="bazafilmow_genreIdsN" default="true">wszystkie</setting>
+    <setting id="bazafilmow_genreIdsV" default="true"></setting>
+    <setting id="bazafilmow_genreTVshowsN" default="true">wszystkie</setting>
+    <setting id="bazafilmow_genreTVshowsV" default="true"></setting>
+    <setting id="bazafilmow_OcenaN" default="true">brak</setting>
+    <setting id="bazafilmow_OcenaV" default="true"></setting>
+    <setting id="bazafilmow_sortAscendingN" default="true">od największej</setting>
+    <setting id="bazafilmow_sortAscendingV" default="true">true</setting>
+    <setting id="bazafilmow_sortN" default="true">liczby głosów</setting>
+    <setting id="bazafilmow_sortV" default="true">count</setting>
+    <setting id="groupEpisodes" default="true">false</setting>
+    <setting id="library.movie" default="true">special://userdata/addon_data/plugin.video.filmbooster/Movies</setting>
+    <setting id="library.tv" default="true">special://userdata/addon_data/plugin.video.filmbooster/TVShows</setting>
+    <setting id="library.update">true</setting>
+</settings>
