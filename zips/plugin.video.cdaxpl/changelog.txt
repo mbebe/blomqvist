@@ -1,3 +1,6 @@
+1.3.4
+- dodane Nowe linki
+
 1.3.3
 - poprawka szukania
 
