@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
-<addon id="plugin.video.movieneo" name="Movieneo" version="1.1" provider-name="mbebe">
+<addon id="plugin.video.movieneo" name="Movieneo" version="1.2" provider-name="mbebe">
     <requires>
         <import addon="xbmc.python" version="2.25.0"/>
         <import addon="script.module.requests" />
@@ -9,9 +9,9 @@
         <provides>video</provides>
     </extension>
     <extension point="xbmc.addon.metadata">
-        <description lang="pl">movieneo.com</description>
-        <disclaimer lang="pl">https://github.com/mbebe/blomqvist</disclaimer>
-        <summary lang="pl">movieneo.com</summary>
+        <description>movieneo.com</description>
+        <disclaimer>https://github.com/mbebe/blomqvist</disclaimer>
+        <summary>movieneo.com</summary>
         <language>pl</language>
         <platform>all</platform>
         <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>

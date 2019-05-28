@@ -1,3 +1,10 @@
+3.2
+- dodane szukanie w FF
+
+3.1
+- dodane ikonki (notoco)
+- poprawione dodawanie do biblioteki
+
 3.0
 - poprawiona w calosci
 

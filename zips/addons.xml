@@ -198,7 +198,7 @@
 </extension>
 </addon>
 
-<addon id="plugin.video.darmowatv" name="darmowaTV" version="1.7.3" provider-name="mbebe">
+<addon id="plugin.video.darmowatv" name="darmowaTV" version="1.7.4" provider-name="mbebe">
     <requires>
         <import addon="xbmc.python" version="2.25.0"/>
         <import addon="script.module.requests" />
@@ -466,7 +466,7 @@ Róbta co chceta! :)
     </extension>
 </addon>
 
-<addon id="plugin.video.filmbooster" version="3.1" name="FilmwebBooster" provider-name="mbebe">
+<addon id="plugin.video.filmbooster" version="3.2" name="FilmwebBooster" provider-name="mbebe">
 <requires>
 	<import addon="xbmc.python" version="2.25.0"/>
 	<import addon="script.module.resolveurl" version="5.0.00"/>
@@ -796,7 +796,7 @@ Róbta co chceta! :)
     </extension>
 </addon>
 
-<addon id="plugin.video.movieneo" name="Movieneo" version="1.1" provider-name="mbebe">
+<addon id="plugin.video.movieneo" name="Movieneo" version="1.2" provider-name="mbebe">
     <requires>
         <import addon="xbmc.python" version="2.25.0"/>
         <import addon="script.module.requests" />
@@ -806,9 +806,9 @@ Róbta co chceta! :)
         <provides>video</provides>
     </extension>
     <extension point="xbmc.addon.metadata">
-        <description lang="pl">movieneo.com</description>
-        <disclaimer lang="pl">https://github.com/mbebe/blomqvist</disclaimer>
-        <summary lang="pl">movieneo.com</summary>
+        <description>movieneo.com</description>
+        <disclaimer>https://github.com/mbebe/blomqvist</disclaimer>
+        <summary>movieneo.com</summary>
         <language>pl</language>
         <platform>all</platform>
         <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
