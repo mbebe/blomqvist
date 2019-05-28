@@ -1222,7 +1222,7 @@ Róbta co chceta! :)
 	</extension>
 </addon>
 
-<addon id="plugin.video.videopenny" name="VideoPenny.net" version="1.3" provider-name="mbebe">
+<addon id="plugin.video.videopenny" name="VideoPenny.net" version="1.4" provider-name="mbebe">
     <requires>
         <import addon="xbmc.python" version="2.25.0"/>
         <import addon="script.module.requests" />

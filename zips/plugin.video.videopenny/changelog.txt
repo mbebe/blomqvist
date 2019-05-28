@@ -1,3 +1,7 @@
+1.4
+- poprawka szukania
+- poprawka zapetlenia
+
 1.3
 - fix
 
