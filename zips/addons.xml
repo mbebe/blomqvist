@@ -136,7 +136,7 @@
 	</extension>
 </addon>
 
-<addon id="plugin.video.cdahd" version="1.6.6" name="cda-hd" provider-name="mbebe">
+<addon id="plugin.video.cdahd" version="1.6.7" name="cda-hd" provider-name="mbebe">
 <requires>
   <import addon="xbmc.python" version="2.1.0"/>
   <import addon="script.module.resolveurl" version="5.0.12a"/>
@@ -409,7 +409,7 @@ Dostęp do serwisu bez polskiego IP
 </extension>
 </addon>
 
-<addon id="plugin.video.filmancc" version="1.7" name="filman.cc" provider-name="mbebe">
+<addon id="plugin.video.filmancc" version="1.8" name="filman.cc" provider-name="mbebe">
 <requires>
   <import addon="xbmc.python" version="2.1.0"/>
   <import addon="script.module.resolveurl" version="5.0.00"/>
@@ -498,7 +498,7 @@ Róbta co chceta! :)
 </extension>
 </addon>
 
-<addon id="plugin.video.filmdomfun" name="Filmdom.fun" version="1.0" provider-name="mbebe">
+<addon id="plugin.video.filmdomfun" name="Filmdom.fun" version="1.1" provider-name="mbebe">
 	<requires>
 		<import addon="xbmc.python" version="2.25.0"/>
 		<import addon="script.module.requests" />
@@ -771,7 +771,7 @@ Róbta co chceta! :)
     </extension>
 </addon>
 
-<addon id="plugin.video.kreskowkitv" name="Kreskówki.tv" version="1.3" provider-name="mbebe">
+<addon id="plugin.video.kreskowkitv" name="Kreskówki.tv" version="1.4" provider-name="mbebe">
     <requires>
         <import addon="xbmc.python" version="2.25.0"/>
         <import addon="script.module.requests" />
@@ -930,7 +930,7 @@ Róbta co chceta! :)
 	</extension>
 </addon>
 
-<addon id="plugin.video.plusfilm" name="plusfilm.pl" version="1.1" provider-name="mbebe">
+<addon id="plugin.video.plusfilm" name="plusfilm.pl" version="1.2" provider-name="mbebe">
     <requires>
         <import addon="xbmc.python" version="2.25.0"/>
         <import addon="script.module.requests" />
@@ -1274,7 +1274,7 @@ Róbta co chceta! :)
 </extension>
 </addon>
 
-<addon id="plugin.video.virpecom" name="virpeCOM" version="1.6" provider-name="mbebe">
+<addon id="plugin.video.virpecom" name="virpeCOM" version="1.7" provider-name="mbebe">
 	<requires>
 		<import addon="xbmc.python" version="2.25.0"/>
 		<import addon="script.module.requests" />

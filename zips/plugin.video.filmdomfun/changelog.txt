@@ -1,0 +1,5 @@
+1.1
+- poprawka cloudflare
+
+1.0
+- initial version 
