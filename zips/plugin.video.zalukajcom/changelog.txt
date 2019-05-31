@@ -1,3 +1,6 @@
+1.9.9
+- fix najpopularniejsze i ostatnie
+
 1.9.8
 - fix
 
