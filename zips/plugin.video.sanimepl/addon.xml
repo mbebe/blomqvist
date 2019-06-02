@@ -1,24 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
-<addon id="plugin.video.PLsportowo" name="Sportowa TV" version="1.8.4" provider-name="mbebe">
+<addon id="plugin.video.sanimepl" name="SuperanimePL" version="1.0" provider-name="mbebe">
 	<requires>
 		<import addon="xbmc.python" version="2.25.0"/>
 		<import addon="script.module.requests" />
 		<import addon="script.module.parsedom" version="2.5.2"/>
-		<import addon="script.module.inputstreamhelper" version="0.3.3"/>
 		<import addon="script.module.resolveurl" version="5.0.00"/>
-        <import addon="script.module.streamlink.base" />
 	</requires>
-	<extension point="xbmc.python.pluginsource" library="maintv.py">
+	<extension point="xbmc.python.pluginsource" library="main.py">
 		<provides>video</provides>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-		<description>Wydarzenia sportowe</description>
+		<description>superanime.pl</description>
 		<disclaimer>https://github.com/mbebe/blomqvist</disclaimer>
-		<summary>Relacje Live</summary>
-		<language></language>
+		<summary>superanime.pl</summary>
+		<language>pl</language>
 		<platform>all</platform>
 		<license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-		<website></website>
+		<website>https://github.com/mbebe/blomqvist</website>
 		<assets>
 			<icon>icon.png</icon>
 			<fanart>fanart.jpg</fanart>
