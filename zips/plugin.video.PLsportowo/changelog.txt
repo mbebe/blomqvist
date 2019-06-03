@@ -1,3 +1,8 @@
+1.8.6
+- poprawka kanalow w canalesportivo
+- wybor jezyka w sport365
+- poprawka sport365
+
 1.8.5
 - Live channels do katalogow
 
