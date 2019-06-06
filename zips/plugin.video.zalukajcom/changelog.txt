@@ -1,3 +1,6 @@
+2.0
+- poprawka szukania
+
 1.9.9
 - fix najpopularniejsze i ostatnie
 
