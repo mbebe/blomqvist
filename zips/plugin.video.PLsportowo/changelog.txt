@@ -1,5 +1,10 @@
+1.8.8
+- fix f1base
+- dodane wstreams do mydecode
+- usuniecie f4m
+
 1.8.7
-- poprawika ikon
+- poprawka ikon
 
 1.8.6
 - poprawka kanalow w canalesportivo
