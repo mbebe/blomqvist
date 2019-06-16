@@ -1,3 +1,9 @@
+1.6.1
+- dodane tworzenie listy m3u
+
+1.6
+- dodanie opisow do filmow
+
 1.5
 - usuniete resolveurl z zaleznosci
 

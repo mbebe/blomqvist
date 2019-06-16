@@ -1,8 +1,9 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.video.cdapl" version="2.1" name="cda.pl" provider-name="mbebe">
+<addon id="plugin.video.cdapl" version="2.2" name="cda.pl" provider-name="mbebe">
 <requires>
-  <import addon="xbmc.python" version="2.1.0"/>
-  <import addon="script.common.plugin.cache" version="2.5.5"/>
+	<import addon="xbmc.python" version="2.1.0"/>
+	<import addon="script.common.plugin.cache" version="2.5.5"/>
+	<import addon="script.module.requests" />
 </requires>
 <extension point="xbmc.python.pluginsource" library="main.py">
   <provides>video</provides>

@@ -1,2 +1,5 @@
+2.2
+- poprawka dla premium
+
 2.1
 - rekonstrukcja i zdekodowanie
