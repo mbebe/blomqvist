@@ -1,3 +1,8 @@
+1.6.2
+- poprawa kategorii
+- poprawa filmow
+- poprawka dla EPG
+
 1.6.1
 - dodane tworzenie listy m3u
 
