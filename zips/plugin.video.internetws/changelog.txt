@@ -1,3 +1,6 @@
+1.6.4
+- poprawka do listy m3u (bez pobierania listy)
+
 1.6.3
 - poprawka logowania
 
