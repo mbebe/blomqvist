@@ -276,7 +276,7 @@
 </extension>
 </addon>
 
-<addon id="plugin.video.efilmy" version="1.19" name="efilmy" provider-name="mbebe">
+<addon id="plugin.video.efilmy" version="1.20" name="efilmy" provider-name="mbebe">
 <requires>
   <import addon="xbmc.python" version="2.1.0"/>
   <import addon="script.module.resolveurl" version="3.0.15"/>
@@ -715,7 +715,7 @@ Róbta co chceta! :)
 </extension>
 </addon>
 
-<addon id="plugin.video.internetws" name="Internetowa.tv" version="1.6.2" provider-name="mbebe">
+<addon id="plugin.video.internetws" name="Internetowa.tv" version="1.6.3" provider-name="mbebe">
 	<requires>
 		<import addon="xbmc.python" version="2.25.0"/>
 		<import addon="script.module.requests" />

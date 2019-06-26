@@ -1,3 +1,6 @@
+1.6.3
+- poprawka logowania
+
 1.6.2
 - poprawa kategorii
 - poprawa filmow

@@ -1,3 +1,6 @@
+1.20
+- poprawka gounlimited
+
 1.19
 - oczyszczenie z choinki
 - poprawki wyswietlania i wyboru zrodel
