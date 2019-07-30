@@ -1,3 +1,6 @@
+2.2
+- poprawka dla seriali
+
 2.1
 - poprawka odtwarzania po wyszukaniu
 

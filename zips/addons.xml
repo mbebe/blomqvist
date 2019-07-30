@@ -405,7 +405,7 @@ Tabele, terminarze, listy strzelców
 	</extension>
 </addon>
 
-<addon id="plugin.video.filisertv" version="2.9.5" name="Fili.cc" provider-name="mbebe">
+<addon id="plugin.video.filisertv" version="2.9.6" name="Fili.cc" provider-name="mbebe">
 <requires>
   <import addon="xbmc.python" version="2.1.0"/>
   <import addon="script.module.resolveurl" version="5.0.12b"/>
@@ -1355,7 +1355,7 @@ Róbta co chceta! :)
 	</extension>
 </addon>
 
-<addon id="plugin.video.zalukajcom" version="2.1" name="Zalukaj" provider-name="mbebe">
+<addon id="plugin.video.zalukajcom" version="2.2" name="Zalukaj" provider-name="mbebe">
 <requires>
 	<import addon="xbmc.python" version="2.25.0"/>
 	<import addon="script.module.parsedom" version="2.5.2"/>

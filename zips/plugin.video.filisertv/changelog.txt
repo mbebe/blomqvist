@@ -1,3 +1,6 @@
+2.9.6
+- poprawka odtwarzania
+
 2.9.5
 - poprawka dla darmowych kont
 
