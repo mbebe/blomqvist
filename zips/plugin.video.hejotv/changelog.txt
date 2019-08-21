@@ -1,3 +1,8 @@
+2.0
+- poprawka logowania
+- poprawka telewizji
+- poprawka seriali
+
 1.9.9
 - poprawka logowania
 
