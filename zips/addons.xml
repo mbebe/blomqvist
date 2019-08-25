@@ -1,5 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addons>
+<addon id="plugin.audio.storytel" name="Storytel" version="1.0" provider-name="mbebe">
+	<requires>
+		<import addon="xbmc.python" version="2.25.0"/>
+		<import addon="script.module.requests" />
+	</requires>
+	<extension point="xbmc.python.pluginsource" library="main.py">
+		<provides>audio</provides>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<description lang="pl">Storytel</description>
+		<disclaimer lang="pl">https://github.com/mbebe/blomqvist</disclaimer>
+		<summary lang="pl">Storytel</summary>
+		<language>pl</language>
+		<platform>all</platform>
+		<license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+		<website>https://github.com/mbebe/blomqvist</website>
+		<assets>
+			<icon>icon.png</icon>
+			<fanart>fanart.jpg</fanart>
+		</assets>
+	</extension>
+</addon>
+
 <addon id="plugin.video.alantvsport" name="HulkStream" version="2.2.1" provider-name="mbebe">
 	<requires>
 		<import addon="xbmc.python" version="2.25.0"/>
@@ -366,7 +389,7 @@ Do not install this addon if you are using a build.
   </extension>
 </addon>
 
-<addon id="plugin.video.ekstraklasa" name="Ekstraklasa" version="4.1.4" provider-name="mbebe">
+<addon id="plugin.video.ekstraklasa" name="Ekstraklasa" version="4.1.5" provider-name="mbebe">
 	<requires>
 		<import addon="xbmc.python" version="2.1.0"/>
 		<import addon="script.module.resolveurl"/>
@@ -379,7 +402,7 @@ Do not install this addon if you are using a build.
 	<extension point="xbmc.addon.metadata">
 		<summary lang="pl">Mecze Ekstraklasy z Dailymotion i nie tylko</summary>
 		<disclaimer lang="pl">https://github.com/mbebe/blomqvist</disclaimer>
-		<description lang="pl">Mecze Ekstraklasy z Dailymotion i nie tylko</description>
+		<description lang="pl">Skróty meczów Ekstraklasy i nie tylko</description>
 		<language></language>
 		<platform></platform>
 		<license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
@@ -391,7 +414,6 @@ Do not install this addon if you are using a build.
 			<fanart>fanart.jpg</fanart>
 		</assets>
 		<news>
-Ekstraklasa LIVE
 Ekstraklasa.tv
 Polsat Sport
 Łączy nas piłka
@@ -848,12 +870,16 @@ Róbta co chceta! :)
     </extension>
 </addon>
 
-<addon id="plugin.video.movies365" name="Movies365" version="2.1" provider-name="mbebe">
+<addon id="plugin.video.movies365" name="Movies365" version="2.2" provider-name="mbebe">
 	<requires>
 		<import addon="xbmc.python" version="2.25.0"/>
 		<import addon="script.module.requests" />
 		<import addon="script.module.parsedom" version="2.5.2"/>
 		<import addon="script.module.resolveurl" version="5.0.00"/>
+		<import addon="script.module.js2py" />
+		<import addon="script.module.six" />
+		<import addon="script.module.pyjsparser" />
+		<import addon="script.module.tzlocal" />
 	</requires>
 	<extension point="xbmc.python.pluginsource" library="main.py">
 		<provides>video</provides>
