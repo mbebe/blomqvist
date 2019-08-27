@@ -1,3 +1,8 @@
+1.7.5
+- dodano zobacz.ws
+- dodano POLCAST.TK
+- poprawka odtwarzania
+
 1.7.4
 - poprawione cloudflare
 
