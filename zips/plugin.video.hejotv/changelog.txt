@@ -1,3 +1,6 @@
+2.1
+- poprawka logowania
+
 2.0
 - poprawka logowania
 - poprawka telewizji
