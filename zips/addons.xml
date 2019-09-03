@@ -389,7 +389,7 @@ Do not install this addon if you are using a build.
   </extension>
 </addon>
 
-<addon id="plugin.video.ekstraklasa" name="Ekstraklasa" version="4.1.6" provider-name="mbebe">
+<addon id="plugin.video.ekstraklasa" name="Ekstraklasa" version="4.1.7" provider-name="mbebe">
 	<requires>
 		<import addon="xbmc.python" version="2.1.0"/>
 		<import addon="script.module.resolveurl"/>
@@ -400,7 +400,7 @@ Do not install this addon if you are using a build.
 		<provides>video</provides>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-		<summary lang="pl">Mecze Ekstraklasy z Dailymotion i nie tylko</summary>
+		<summary lang="pl">Skróty meczów Ekstraklasy i nie tylko</summary>
 		<disclaimer lang="pl">https://github.com/mbebe/blomqvist</disclaimer>
 		<description lang="pl">Skróty meczów Ekstraklasy i nie tylko</description>
 		<language></language>
@@ -1351,7 +1351,7 @@ Róbta co chceta! :)
     </extension>
 </addon>
 
-<addon id="plugin.video.viderpl" version="1.7" name="Vider" provider-name="mbebe">
+<addon id="plugin.video.viderpl" version="1.8" name="Vider" provider-name="mbebe">
 <requires>
   <import addon="xbmc.python" version="2.1.0"/>
   <import addon="script.common.plugin.cache" version="2.5.5"/>
