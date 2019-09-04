@@ -1,3 +1,6 @@
+2.1.1
+- powrot do wersji 2.0
+
 2.1
 - poprawka logowania
 

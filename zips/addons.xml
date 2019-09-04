@@ -389,7 +389,7 @@ Do not install this addon if you are using a build.
   </extension>
 </addon>
 
-<addon id="plugin.video.ekstraklasa" name="Ekstraklasa" version="4.1.7" provider-name="mbebe">
+<addon id="plugin.video.ekstraklasa" name="Ekstraklasa" version="4.1.8" provider-name="mbebe">
 	<requires>
 		<import addon="xbmc.python" version="2.1.0"/>
 		<import addon="script.module.resolveurl"/>
@@ -428,7 +428,7 @@ Tabele, terminarze, listy strzelców
 	</extension>
 </addon>
 
-<addon id="plugin.video.filisertv" version="2.9.6" name="Fili.cc" provider-name="mbebe">
+<addon id="plugin.video.filisertv" version="2.9.7" name="Fili.cc" provider-name="mbebe">
 <requires>
   <import addon="xbmc.python" version="2.1.0"/>
   <import addon="script.module.resolveurl" version="5.0.12b"/>
@@ -458,7 +458,7 @@ Dostęp do serwisu bez polskiego IP
 </extension>
 </addon>
 
-<addon id="plugin.video.filmancc" version="1.8" name="filman.cc" provider-name="mbebe">
+<addon id="plugin.video.filmancc" version="2.0" name="filman.cc" provider-name="mbebe">
 <requires>
   <import addon="xbmc.python" version="2.1.0"/>
   <import addon="script.module.resolveurl" version="5.0.00"/>
@@ -654,7 +654,7 @@ Róbta co chceta! :)
 </extension>
 </addon>
 
-<addon id="plugin.video.hejotv" name="hejo.tv" version="2.1" provider-name="mbebe">
+<addon id="plugin.video.hejotv" name="hejo.tv" version="2.1.1" provider-name="mbebe">
 	<requires>
 		<import addon="xbmc.python" version="2.25.0"/>
 		<import addon="script.module.requests" />
