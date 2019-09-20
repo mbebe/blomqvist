@@ -1,3 +1,6 @@
+1.7.6
+- poprawka telerium (zobacz.ws)
+
 1.7.5
 - dodano zobacz.ws
 - dodano POLCAST.TK

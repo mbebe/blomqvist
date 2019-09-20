@@ -1,3 +1,10 @@
+1.8.9
+- poprawka mydecode
+- poprawka sport365
+- poprawka strims.world
+- dodane drhtv do livelooker
+
+
 1.8.8
 - fix f1base
 - dodane wstreams do mydecode
