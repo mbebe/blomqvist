@@ -1,3 +1,7 @@
+1.7.7
+- usuniecie stron offline
+- dodanie swirtk i ustreamix
+
 1.7.6
 - poprawka telerium (zobacz.ws)
 
