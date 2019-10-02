@@ -1,3 +1,7 @@
+2.2.2
+- poprawka odtwarzania
+- poprawka logowania
+
 2.2.1
 - poprawka tv
 

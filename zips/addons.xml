@@ -654,7 +654,7 @@ Róbta co chceta! :)
 </extension>
 </addon>
 
-<addon id="plugin.video.hejotv" name="hejo.tv" version="2.2.1" provider-name="mbebe">
+<addon id="plugin.video.hejotv" name="hejo.tv" version="2.2.2" provider-name="mbebe">
 	<requires>
 		<import addon="xbmc.python" version="2.25.0"/>
 		<import addon="script.module.requests" />
@@ -1273,7 +1273,7 @@ Róbta co chceta! :)
 </extension>
 </addon>
 
-<addon id="plugin.video.TVP.pl" name="TVP.pl" version="2.2.2" provider-name="mbebe">
+<addon id="plugin.video.TVP.pl" name="TVP.pl" version="2.2.3" provider-name="mbebe">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
     <import addon="script.module.inputstreamhelper" version="0.3.3"/>
