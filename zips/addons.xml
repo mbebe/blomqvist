@@ -248,6 +248,31 @@
 </extension>
 </addon>
 
+<addon id="plugin.video.cpgo" name="Cyfrowy Polsat GO" version="1.1" provider-name="mbebe">
+	<requires>
+		<import addon="xbmc.python" version="2.25.0"/>
+		<import addon="script.module.requests" />
+		<import addon="script.module.parsedom" version="2.5.2"/>
+		<import addon="script.module.inputstreamhelper" version="0.3.3"/>
+	</requires>
+	<extension point="xbmc.python.pluginsource" library="main.py">
+		<provides>video</provides>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<description lang="pl">Cyfrowy Polsat GO</description>
+		<disclaimer lang="pl">...</disclaimer>
+		<summary lang="pl">Cyfrowy Polsat GO</summary>
+		<language>pl</language>
+		<platform>all</platform>
+		<license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+		<website>...</website>
+		<assets>
+			<icon>icon.png</icon>
+			<fanart></fanart>
+		</assets>
+	</extension>
+</addon>
+
 <addon id="plugin.video.darmowatv" name="darmowaTV" version="1.7.7" provider-name="mbebe">
     <requires>
         <import addon="xbmc.python" version="2.25.0"/>
@@ -1222,6 +1247,31 @@ Róbta co chceta! :)
 </extension>
 </addon>
 
+<addon id="plugin.video.sportpremium" name="Sport Premium" version="1.1" provider-name="mbebe">
+	<requires>
+		<import addon="xbmc.python" version="2.25.0"/>
+		<import addon="script.module.requests" />
+		<import addon="script.module.parsedom" version="2.5.2"/>
+		<import addon="script.module.inputstreamhelper" version="0.3.3"/>
+	</requires>
+	<extension point="xbmc.python.pluginsource" library="main.py">
+		<provides>video</provides>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<description lang="pl">Canal Plus Sport, Eleven Sports</description>
+		<disclaimer lang="pl">...</disclaimer>
+		<summary lang="pl">Canal Plus Sport, Eleven Sports</summary>
+		<language>pl</language>
+		<platform>all</platform>
+		<license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+		<website>...</website>
+		<assets>
+			<icon>icon.png</icon>
+			<fanart></fanart>
+		</assets>
+	</extension>
+</addon>
+
 <addon id="plugin.video.subsmovies" name="Subsmovies.nz" version="0.3" provider-name="mbebe">
     <requires>
         <import addon="xbmc.python" version="2.25.0"/>
@@ -1434,7 +1484,7 @@ Róbta co chceta! :)
 </extension>
 </addon>
 
-	<addon id="repository.mbebe" name="mbebe" version="0.4" provider-name="mbebe">
+	<addon id="repository.mbebe" name="mbebe" version="0.5" provider-name="mbebe">
 		<extension point="xbmc.addon.repository" name="mbebe">
 			<info compressed="false">https://raw.githubusercontent.com/mbebe/blomqvist/master/zips/addons.xml</info>
 			<checksum>https://raw.githubusercontent.com/mbebe/blomqvist/master/zips/addons.xml.md5</checksum>
