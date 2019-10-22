@@ -1,3 +1,6 @@
+1.5
+- poprawka onlystreams
+
 1.4
 - poprawka szukania
 - poprawka zapetlenia
