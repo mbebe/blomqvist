@@ -1,3 +1,12 @@
+1.6.7
+- poprawka szukania
+
+1.6.6
+- poprawka do wydarzen sportowych
+
+1.6.5
+- poprawka filmy i seriale
+
 1.6.4
 - poprawka do listy m3u (bez pobierania listy)
 
