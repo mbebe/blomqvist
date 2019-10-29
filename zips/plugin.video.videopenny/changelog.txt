@@ -1,3 +1,6 @@
+1.7
+- poprawka onlystream
+
 1.6
 - poprawka onlystream
 
