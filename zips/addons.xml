@@ -273,28 +273,28 @@
 </addon>
 
 <addon id="plugin.video.cpgo" name="Cyfrowy Polsat GO" version="1.2" provider-name="mbebe">
-	<requires>
-		<import addon="xbmc.python" version="2.25.0"/>
-		<import addon="script.module.requests" />
-		<import addon="script.module.parsedom" version="2.5.2"/>
-		<import addon="script.module.inputstreamhelper" version="0.3.3"/>
-	</requires>
-	<extension point="xbmc.python.pluginsource" library="main.py">
-		<provides>video</provides>
-	</extension>
-	<extension point="xbmc.addon.metadata">
-		<description lang="pl">Cyfrowy Polsat GO</description>
-		<disclaimer lang="pl">...</disclaimer>
-		<summary lang="pl">Cyfrowy Polsat GO</summary>
-		<language>pl</language>
-		<platform>all</platform>
-		<license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-		<website>...</website>
-		<assets>
-			<icon>icon.png</icon>
-			<fanart></fanart>
-		</assets>
-	</extension>
+    <requires>
+        <import addon="xbmc.python" version="2.25.0"/>
+        <import addon="script.module.requests" />
+        <import addon="script.module.parsedom" version="2.5.2"/>
+        <import addon="script.module.inputstreamhelper" version="0.3.3"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="main.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <description lang="pl">Cyfrowy Polsat GO</description>
+        <disclaimer lang="pl">...</disclaimer>
+        <summary lang="pl">Cyfrowy Polsat GO</summary>
+        <language>pl</language>
+        <platform>all</platform>
+        <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+        <website>...</website>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart></fanart>
+        </assets>
+    </extension>
 </addon>
 
 <addon id="plugin.video.darmowatv" name="darmowaTV" version="1.7.7" provider-name="mbebe">
@@ -945,6 +945,31 @@ Róbta co chceta! :)
 			<fanart>fanart.jpg</fanart>
 		</assets>
 	</extension>
+</addon>
+
+<addon id="plugin.video.ncplusgo" name="NC plus GO" version="1.0" provider-name="mbebe">
+    <requires>
+        <import addon="xbmc.python" version="2.25.0"/>
+        <import addon="script.module.requests" />
+        <import addon="script.module.parsedom" version="2.5.2"/>
+        <import addon="script.module.inputstreamhelper" version="0.3.3"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="main.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <description>NC plus GO</description>
+        <disclaimer>https://github.com/mbebe/blomqvist</disclaimer>
+        <summary>NC plus GO</summary>
+        <language>pl</language>
+        <platform>all</platform>
+        <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+        <website>https://github.com/mbebe/blomqvist</website>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
+    </extension>
 </addon>
 
 <addon id="plugin.video.ninateka" version="1.4" name="Ninateka" provider-name="mbebe">

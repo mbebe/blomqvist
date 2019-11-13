@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
-<addon id="plugin.video.cpgo" name="Cyfrowy Polsat GO" version="1.2" provider-name="mbebe">
+<addon id="plugin.video.ncplusgo" name="NC plus GO" version="1.0" provider-name="mbebe">
     <requires>
         <import addon="xbmc.python" version="2.25.0"/>
         <import addon="script.module.requests" />
@@ -10,16 +10,16 @@
         <provides>video</provides>
     </extension>
     <extension point="xbmc.addon.metadata">
-        <description lang="pl">Cyfrowy Polsat GO</description>
-        <disclaimer lang="pl">...</disclaimer>
-        <summary lang="pl">Cyfrowy Polsat GO</summary>
+        <description>NC plus GO</description>
+        <disclaimer>https://github.com/mbebe/blomqvist</disclaimer>
+        <summary>NC plus GO</summary>
         <language>pl</language>
         <platform>all</platform>
         <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-        <website>...</website>
+        <website>https://github.com/mbebe/blomqvist</website>
         <assets>
             <icon>icon.png</icon>
-            <fanart></fanart>
+            <fanart>fanart.jpg</fanart>
         </assets>
     </extension>
 </addon>
