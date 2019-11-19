@@ -1505,29 +1505,29 @@ Róbta co chceta! :)
 	</extension>
 </addon>
 
-<addon id="plugin.video.vodgopl" name="VODGO.pl" version="1.1" provider-name="mbebe">
-	<requires>
-		<import addon="xbmc.python" version="2.25.0"/>
-		<import addon="script.module.requests" />
-		<import addon="script.module.parsedom" version="2.5.2"/>
-		<import addon="script.module.resolveurl"/>
-	</requires>
-	<extension point="xbmc.python.pluginsource" library="main.py">
-		<provides>video</provides>
-	</extension>
-	<extension point="xbmc.addon.metadata">
-		<description>VODGO.pl</description>
-		<disclaimer>https://github.com/mbebe/blomqvist</disclaimer>
-		<summary>VODGO.pl</summary>
-		<language>pl</language>
-		<platform>all</platform>
-		<license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-		<website>https://github.com/mbebe/blomqvist</website>
-		<assets>
-			<icon>icon.png</icon>
-			<fanart>fanart.jpg</fanart>
-		</assets>
-	</extension>
+<addon id="plugin.video.vodgopl" name="VODGO.pl" version="1.2" provider-name="mbebe">
+    <requires>
+        <import addon="xbmc.python" version="2.25.0"/>
+        <import addon="script.module.requests" />
+        <import addon="script.module.parsedom" version="2.5.2"/>
+        <import addon="script.module.resolveurl"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="main.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <description>VODGO.pl</description>
+        <disclaimer>https://github.com/mbebe/blomqvist</disclaimer>
+        <summary>VODGO.pl</summary>
+        <language>pl</language>
+        <platform>all</platform>
+        <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+        <website>https://github.com/mbebe/blomqvist</website>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
+    </extension>
 </addon>
 
 <addon id="plugin.video.zalukajcom" version="2.2" name="Zalukaj" provider-name="mbebe">
