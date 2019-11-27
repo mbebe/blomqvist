@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<addon id="plugin.video.zalukajcom" version="2.2" name="Zalukaj" provider-name="mbebe">
+<addon id="plugin.video.zalukajcom" version="2.3" name="Zalukaj" provider-name="mbebe">
 <requires>
 	<import addon="xbmc.python" version="2.25.0"/>
 	<import addon="script.module.parsedom" version="2.5.2"/>
