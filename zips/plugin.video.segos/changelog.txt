@@ -1,3 +1,6 @@
+4.1.2
+- poprawka cloudflare
+
 4.1.1
 - strony w DO OBEJRZENIA
 
