@@ -106,7 +106,7 @@
 </extension>
 </addon>
 
-<addon id="plugin.video.bajeczkiorg" name="Bajeczki.org" version="1.1" provider-name="mbebe">
+<addon id="plugin.video.bajeczkiorg" name="Bajeczki.org" version="1.2" provider-name="mbebe">
     <requires>
         <import addon="xbmc.python" version="2.25.0"/>
         <import addon="script.module.requests" />
