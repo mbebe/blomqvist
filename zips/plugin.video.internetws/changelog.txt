@@ -1,3 +1,6 @@
+1.6.8
+- poprawa jakosci tv
+
 1.6.7
 - poprawka szukania
 

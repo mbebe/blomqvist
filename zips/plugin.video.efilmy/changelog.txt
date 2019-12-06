@@ -1,3 +1,6 @@
+1.22
+- poprawka cloudflare
+
 1.21
 - poprawka cloudflare
 

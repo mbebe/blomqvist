@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<addon id="plugin.video.szukajkatv" version="1.4.1" name="Szukajka.tv" provider-name="Podpis">
+<addon id="plugin.video.szukajkatv" version="1.4.3" name="Szukajka.tv" provider-name="mbebe">
 <requires>
     <import addon="xbmc.python" version="2.1.0"/>
     <import addon="script.common.plugin.cache" version="2.5.5"/> 
@@ -11,19 +11,16 @@
 </extension>
 
 <extension point="xbmc.addon.metadata">
-  <summary lang="en">Szukajka.tv</summary>
-  <description lang="en">Szukajka.tv</description>
-  <disclaimer lang="en">A private use only. For bugs, requests or general questions visit my repository https://github.com/podpis/kodi</disclaimer>
-  <language></language>
-  <platform>all</platform>
-  <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-  <forum>https://github.com/podpis/kodi/issues</forum>
-  <website>https://github.com/podpis/kodi</website>
-  <email>podpis@op.pl</email>
-  <assets>
-    <icon>icon.png</icon>
-    <fanart>fanart.jpg</fanart>
+		<description lang="pl">http://szukajka.tv/</description>
+		<disclaimer lang="pl">https://github.com/mbebe/blomqvist</disclaimer>
+		<summary lang="pl">http://szukajka.tv/</summary>
+		<language>pl</language>
+		<platform>all</platform>
+		<license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+		<website>https://github.com/mbebe/blomqvist</website>
+		<assets>
+			<icon>icon.png</icon>
+			<fanart>fanart.jpg</fanart>
   </assets>
-  <news>Róbta co chceta! :)</news>
 </extension>
 </addon>
