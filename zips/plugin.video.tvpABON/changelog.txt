@@ -1,3 +1,5 @@
+1.5
+- zmiana logowania
 1.4
 - dodane proxy bez polskiego ip
 1.3
