@@ -1,3 +1,6 @@
+1.6.8
+- cf fix
+
 1.6.7
 - poprawa kategorii
 
