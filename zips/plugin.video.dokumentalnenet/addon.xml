@@ -1,17 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
-<addon id="plugin.video.hejotv" name="hejo.tv" version="2.2.5" provider-name="mbebe">
+<addon id="plugin.video.dokumentalnenet" name="dokumentalne.net" version="1.0" provider-name="mbebe">
 	<requires>
 		<import addon="xbmc.python" version="2.25.0"/>
 		<import addon="script.module.requests" />
 		<import addon="script.module.parsedom" version="2.5.2"/>
+		<import addon="script.module.resolveurl"/>
+
 	</requires>
 	<extension point="xbmc.python.pluginsource" library="main.py">
 		<provides>video</provides>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-		<description lang="pl">hejo.tv</description>
-		<disclaimer lang="pl">https://github.com/mbebe/blomqvist</disclaimer>
-		<summary lang="pl">hejo.tv</summary>
+		<description>dokumentalne.net</description>
+		<disclaimer>https://github.com/mbebe/blomqvist</disclaimer>
+		<summary>dokumentalne.net</summary>
 		<language>pl</language>
 		<platform>all</platform>
 		<license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>

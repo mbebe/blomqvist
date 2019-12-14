@@ -1,3 +1,6 @@
+2.2.5
+- poprawka tv
+
 2.2.4
 - poprawka ikon
 -poprawka zdublowania kanalow

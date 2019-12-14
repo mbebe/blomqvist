@@ -321,6 +321,32 @@
     </extension>
 </addon>
 
+<addon id="plugin.video.dokumentalnenet" name="dokumentalne.net" version="1.0" provider-name="mbebe">
+	<requires>
+		<import addon="xbmc.python" version="2.25.0"/>
+		<import addon="script.module.requests" />
+		<import addon="script.module.parsedom" version="2.5.2"/>
+		<import addon="script.module.resolveurl"/>
+
+	</requires>
+	<extension point="xbmc.python.pluginsource" library="main.py">
+		<provides>video</provides>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<description>dokumentalne.net</description>
+		<disclaimer>https://github.com/mbebe/blomqvist</disclaimer>
+		<summary>dokumentalne.net</summary>
+		<language>pl</language>
+		<platform>all</platform>
+		<license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+		<website>https://github.com/mbebe/blomqvist</website>
+		<assets>
+			<icon>icon.png</icon>
+			<fanart>fanart.jpg</fanart>
+		</assets>
+	</extension>
+</addon>
+
 <addon id="plugin.video.dokumentcyfrowo" version="1.2" name="Dokument Cyfrowo" provider-name="mbebe">
 <requires>
   <import addon="xbmc.python" version="2.1.0"/>
@@ -703,7 +729,7 @@ Róbta co chceta! :)
 </extension>
 </addon>
 
-<addon id="plugin.video.hejotv" name="hejo.tv" version="2.2.4" provider-name="mbebe">
+<addon id="plugin.video.hejotv" name="hejo.tv" version="2.2.5" provider-name="mbebe">
 	<requires>
 		<import addon="xbmc.python" version="2.25.0"/>
 		<import addon="script.module.requests" />
