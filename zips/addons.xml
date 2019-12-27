@@ -812,7 +812,7 @@ Róbta co chceta! :)
 </extension>
 </addon>
 
-<addon id="plugin.video.internetws" name="Internetowa.tv" version="1.6.8" provider-name="mbebe">
+<addon id="plugin.video.internetws" name="Internetowa.tv" version="1.6.9" provider-name="mbebe">
 	<requires>
 		<import addon="xbmc.python" version="2.25.0"/>
 		<import addon="script.module.requests" />
@@ -1424,7 +1424,7 @@ Róbta co chceta! :)
   </extension>
 </addon>
 
-<addon id="plugin.video.tvpABON" name="TVP strefa abo" version="1.5" provider-name="mbebe">
+<addon id="plugin.video.tvpABON" name="TVP strefa abo" version="1.6" provider-name="mbebe">
 	<requires>
 		<import addon="xbmc.python" version="2.25.0"/>
 		<import addon="script.module.requests" />

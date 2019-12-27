@@ -1,3 +1,6 @@
+1.6.9
+- poprawka tv
+
 1.6.8
 - poprawa jakosci tv
 
