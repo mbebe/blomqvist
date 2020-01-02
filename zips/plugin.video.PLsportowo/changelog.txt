@@ -1,3 +1,10 @@
+1.9.1
+- poprawka mydecode (telerium)
+- poprawka strims.world
+- dodane kanaly do strims.world
+- wylaczenie sport365
+- dodane SportsBay.org
+
 1.8.9
 - poprawka mydecode
 - poprawka sport365
