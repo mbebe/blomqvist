@@ -1,3 +1,6 @@
+3.3
+- poprawki do DVD
+
 3.2
 - dodane szukanie w FF
 
