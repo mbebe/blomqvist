@@ -1,3 +1,6 @@
+1.9.3
+- poprawka strims.world
+
 1.9.2
 - poprawka cricfree
 - dodane tvcom.pl

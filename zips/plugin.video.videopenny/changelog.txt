@@ -1,3 +1,6 @@
+2.0
+- dodane youdbox
+
 1.9
 - zmiana hosta
 
