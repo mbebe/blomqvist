@@ -1,3 +1,5 @@
+4.1.6
+- fix logowania
 4.1.5
 - dodanie dl. premium 
 
