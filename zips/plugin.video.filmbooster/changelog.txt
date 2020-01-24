@@ -1,3 +1,8 @@
+3.4
+- poprawka seriali
+- dodane HBO i netflix do rankingu
+- poprawka stronicowania
+
 3.3
 - poprawki do DVD
 

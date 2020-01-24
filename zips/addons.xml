@@ -23,7 +23,7 @@
 	</extension>
 </addon>
 
-<addon id="plugin.video.3filmy" name="3filmy.com" version="1.0" provider-name="mbebe">
+<addon id="plugin.video.3filmy" name="3filmy.com" version="1.1" provider-name="mbebe">
 	<requires>
 		<import addon="xbmc.python" version="2.25.0"/>
 		<import addon="script.module.requests" />
@@ -590,7 +590,7 @@ Róbta co chceta! :)
     </extension>
 </addon>
 
-<addon id="plugin.video.filmbooster" version="3.3" name="FilmwebBooster" provider-name="mbebe">
+<addon id="plugin.video.filmbooster" version="3.4" name="FilmwebBooster" provider-name="mbebe">
 <requires>
 	<import addon="xbmc.python" version="2.25.0"/>
 	<import addon="script.module.resolveurl" version="5.0.00"/>
@@ -726,6 +726,38 @@ Róbta co chceta! :)
   </assets>
   <news>
   </news>
+</extension>
+</addon>
+
+<addon id="plugin.video.HDseans" version="1.0" name="HDseans" provider-name="mbebe">
+<requires>
+	<import addon="xbmc.python" version="2.1.0"/>
+	<import addon="script.common.plugin.cache" version="2.5.5"/>
+	<import addon="script.module.resolveurl" version="5.0.12b"/>
+	<import addon="script.module.requests" />
+	<import addon="script.module.parsedom" version="2.5.2"/>
+
+</requires>
+<extension point="xbmc.python.pluginsource" library="main.py">
+  <provides>video</provides>
+</extension>
+<extension point="xbmc.addon.metadata">
+  <summary lang="en">HDseans</summary>
+  <description lang="en">Zasoby HDseans.pl</description>
+  <disclaimer lang="en">private use</disclaimer>
+  <language></language>
+  <platform>all</platform>
+  <license></license>
+  <forum></forum>
+  <website></website>
+  <email></email>
+  <source></source>
+  <assets>
+    <icon>icon.png</icon>
+    <fanart>fanart.jpg</fanart>
+  </assets>
+  <news>
+</news>
 </extension>
 </addon>
 

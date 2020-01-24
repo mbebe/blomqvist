@@ -1,0 +1,5 @@
+1.1
+- dodane logowanie (lepsza jakosc video)
+
+1.0
+- init
