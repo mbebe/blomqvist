@@ -1,3 +1,6 @@
+3.5
+- poprawka popularne
+
 3.4
 - poprawka seriali
 - dodane HBO i netflix do rankingu

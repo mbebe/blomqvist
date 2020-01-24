@@ -1,2 +1,5 @@
+1.1
+- fix zip
+
 1.0
 - init ( zmiana z segos.es na hdseans)

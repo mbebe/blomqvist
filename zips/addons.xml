@@ -590,7 +590,7 @@ Róbta co chceta! :)
     </extension>
 </addon>
 
-<addon id="plugin.video.filmbooster" version="3.4" name="FilmwebBooster" provider-name="mbebe">
+<addon id="plugin.video.filmbooster" version="3.5" name="FilmwebBooster" provider-name="mbebe">
 <requires>
 	<import addon="xbmc.python" version="2.25.0"/>
 	<import addon="script.module.resolveurl" version="5.0.00"/>
@@ -729,7 +729,7 @@ Róbta co chceta! :)
 </extension>
 </addon>
 
-<addon id="plugin.video.HDseans" version="1.0" name="HDseans" provider-name="mbebe">
+<addon id="plugin.video.HDseans" version="1.1" name="HDseans" provider-name="mbebe">
 <requires>
 	<import addon="xbmc.python" version="2.1.0"/>
 	<import addon="script.common.plugin.cache" version="2.5.5"/>
