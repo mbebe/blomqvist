@@ -1,3 +1,7 @@
+1.2
+- poprawka lat
+- dodanie zmiany sposobu wyswietlania (w ustawieniach)
+
 1.1
 - dodane logowanie (lepsza jakosc video)
 
