@@ -375,7 +375,7 @@
 </extension>
 </addon>
 
-<addon id="plugin.video.efilmy" version="1.22" name="efilmy" provider-name="mbebe">
+<addon id="plugin.video.efilmy" version="1.23" name="efilmy" provider-name="mbebe">
 <requires>
   <import addon="xbmc.python" version="2.1.0"/>
   <import addon="script.module.resolveurl" version="3.0.15"/>

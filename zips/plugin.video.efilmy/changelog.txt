@@ -1,3 +1,7 @@
+1.23
+- dodane logowanie
+- poprawka cloudflare
+
 1.22
 - poprawka cloudflare
 
