@@ -1,3 +1,6 @@
+2.2.7
+- poprawka filmow, seriali,
+
 2.2.6
 - poprawka filmow, seriali, tv, szukania
 
