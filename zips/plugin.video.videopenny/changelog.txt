@@ -1,3 +1,6 @@
+2.2
+- cloudflare fix
+
 2.1
 - poprawka szukania
 

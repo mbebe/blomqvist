@@ -1,3 +1,6 @@
+2.3.1
+- poprawka logowania
+
 2.3
 - poprawka logowania
 

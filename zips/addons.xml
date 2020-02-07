@@ -1484,7 +1484,7 @@ Róbta co chceta! :)
 	</extension>
 </addon>
 
-<addon id="plugin.video.videopenny" name="VideoPenny.net" version="2.1" provider-name="mbebe">
+<addon id="plugin.video.videopenny" name="VideoPenny.net" version="2.2" provider-name="mbebe">
     <requires>
         <import addon="xbmc.python" version="2.25.0"/>
         <import addon="script.module.requests" />
@@ -1590,7 +1590,7 @@ Róbta co chceta! :)
     </extension>
 </addon>
 
-<addon id="plugin.video.zalukajcom" version="2.3" name="Zalukaj" provider-name="mbebe">
+<addon id="plugin.video.zalukajcom" version="2.3.1" name="Zalukaj" provider-name="mbebe">
 <requires>
 	<import addon="xbmc.python" version="2.25.0"/>
 	<import addon="script.module.parsedom" version="2.5.2"/>
