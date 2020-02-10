@@ -1,3 +1,6 @@
+2.2.43
+- poprawka jakosci(?)
+
 2.2.42
 - dodane daty do odcinkow
 - poprawka dla zagr
