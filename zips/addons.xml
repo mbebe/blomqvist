@@ -183,7 +183,7 @@
 	</extension>
 </addon>
 
-<addon id="plugin.video.cdahd" version="1.6.8" name="cda-hd" provider-name="mbebe">
+<addon id="plugin.video.cdahd" version="1.6.9" name="cda-hd" provider-name="mbebe">
 <requires>
   <import addon="xbmc.python" version="2.1.0"/>
   <import addon="script.module.resolveurl" version="5.0.12a"/>
@@ -785,7 +785,7 @@ Róbta co chceta! :)
 	</extension>
 </addon>
 
-<addon id="plugin.video.horrortube" version="1.4" name="HorrortubePL" provider-name="mbebe">
+<addon id="plugin.video.horrortube" version="1.5" name="HorrortubePL" provider-name="mbebe">
 <requires>
   <import addon="xbmc.python" version="2.1.0"/>
   <import addon="script.module.resolveurl" version="5.0.00"/>
@@ -1005,7 +1005,7 @@ Róbta co chceta! :)
 	</extension>
 </addon>
 
-<addon id="plugin.video.ncplusgo" name="NC plus GO" version="1.2.5" provider-name="mbebe">
+<addon id="plugin.video.ncplusgo" name="NC plus GO" version="1.2.6" provider-name="mbebe">
     <requires>
         <import addon="xbmc.python" version="2.25.0"/>
         <import addon="script.module.requests" />

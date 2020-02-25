@@ -1,3 +1,7 @@
+1.5
+- dodane cf
+- poprawka filmow i seriali
+
 1.4
 - poprawka odtwarzania
 
