@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<addon id="plugin.video.ekstraklasa" name="Ekstraklasa" version="4.2.5" provider-name="mbebe">
+<addon id="plugin.video.ekstraklasa" name="Ekstraklasa" version="4.2.6" provider-name="mbebe">
 	<requires>
 		<import addon="xbmc.python" version="2.1.0"/>
 		<import addon="script.module.resolveurl"/> 
@@ -26,7 +26,7 @@
 		<news>
 Ekstraklasa.tv
 Polsat Sport
-Łączy nas piłka
+Kanały YT
 Mecz Replay
 Skróty meczów :
  - Estadios.pl

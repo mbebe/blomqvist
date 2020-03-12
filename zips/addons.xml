@@ -158,31 +158,6 @@
     </extension>
 </addon>
 
-<addon id="plugin.video.boxfilmpl" version="1.4.3" name="Boxfilm.pl" provider-name="mbebe">
-<requires>
-  <import addon="xbmc.python" version="2.1.0"/>
-  <import addon="script.module.resolveurl" version="5.0.00"/>
-  <import addon="script.common.plugin.cache" version="2.5.5"/>
-  <import addon="script.module.requests" version="2.18.4"/>
-</requires>
-<extension point="xbmc.python.pluginsource" library="main.py">
-  <provides>video</provides>
-</extension>
-<extension point="xbmc.addon.metadata">
-  <description lang="pl">boxfilm.pl</description>
-  <disclaimer lang="pl">https://github.com/mbebe/blomqvist</disclaimer>
-  <summary lang="pl">boxfilm.pl</summary>
-	<language>pl</language>
-	<platform>all</platform>
-	<license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-	<website>https://github.com/mbebe/blomqvist</website>
-	<assets>
-		<icon>icon.png</icon>
-		<fanart>fanart.jpg</fanart>
-	</assets>
-	</extension>
-</addon>
-
 <addon id="plugin.video.cdahd" version="1.6.9" name="cda-hd" provider-name="mbebe">
 <requires>
   <import addon="xbmc.python" version="2.1.0"/>
@@ -464,7 +439,7 @@ Do not install this addon if you are using a build.
   </extension>
 </addon>
 
-<addon id="plugin.video.ekstraklasa" name="Ekstraklasa" version="4.2.5" provider-name="mbebe">
+<addon id="plugin.video.ekstraklasa" name="Ekstraklasa" version="4.2.6" provider-name="mbebe">
 	<requires>
 		<import addon="xbmc.python" version="2.1.0"/>
 		<import addon="script.module.resolveurl"/>
@@ -491,7 +466,7 @@ Do not install this addon if you are using a build.
 		<news>
 Ekstraklasa.tv
 Polsat Sport
-Łączy nas piłka
+Kanały YT
 Mecz Replay
 Skróty meczów :
  - Estadios.pl
@@ -501,36 +476,6 @@ Skróty meczów :
 Tabele, terminarze, listy strzelców
 		</news>
 	</extension>
-</addon>
-
-<addon id="plugin.video.filisertv" version="2.9.7" name="Fili.cc" provider-name="mbebe">
-<requires>
-  <import addon="xbmc.python" version="2.1.0"/>
-  <import addon="script.module.resolveurl" version="5.0.12b"/>
-  <import addon="script.module.requests" />
-  <import addon="script.module.parsedom" version="2.5.2"/>
-</requires>
-<extension point="xbmc.python.pluginsource" library="main.py">
-  <provides>video</provides>
-</extension>
-<extension point="xbmc.addon.metadata">
-  <summary lang="en">Filiser</summary>
-  <description lang="en">Filiser</description>
-  <disclaimer lang="en">A private use only.</disclaimer>
-  <language></language>
-  <platform>all</platform>
-  <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-  <forum></forum>
-  <website></website>
-  <email></email>
-  <assets>
-    <icon>icon.png</icon>
-    <fanart>fanart.jpg</fanart>
-  </assets>
-  <news>
-Dostęp do serwisu bez polskiego IP
-  </news>
-</extension>
 </addon>
 
 <addon id="plugin.video.filmancc" version="2.1" name="filman.cc" provider-name="mbebe">
@@ -636,60 +581,6 @@ Róbta co chceta! :)
 		<description>Filmdom.fun</description>
 		<disclaimer>https://github.com/mbebe/blomqvist</disclaimer>
 		<summary>Filmdom.fun</summary>
-		<language>pl</language>
-		<platform>all</platform>
-		<license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-		<website>https://github.com/mbebe/blomqvist</website>
-		<assets>
-			<icon>icon.png</icon>
-			<fanart>fanart.jpg</fanart>
-		</assets>
-	</extension>
-</addon>
-
-<addon id="plugin.video.filmowakraina" name="FilmowaKraina.TV" version="1.5" provider-name="mbebe">
-	<requires>
-		<import addon="xbmc.python" version="2.25.0"/>
-		<import addon="script.module.requests" />
-		<import addon="script.module.parsedom" version="2.5.2"/>
-		<import addon="script.module.resolveurl"/>
-		<import addon="script.common.plugin.cache" version="2.5.5"/>
-	</requires>
-	<extension point="xbmc.python.pluginsource" library="main.py">
-		<provides>video</provides>
-	</extension>
-	<extension point="xbmc.addon.metadata">
-		<description lang="pl">FilmowaKraina.TV</description>
-		<disclaimer lang="pl">FilmowaKraina.TV</disclaimer>
-		<summary lang="pl">FilmowaKraina.TV</summary>
-		<description lang="en">FilmowaKraina.TV</description>
-		<disclaimer lang="en">FilmowaKraina.TV</disclaimer>
-		<summary lang="en">FilmowaKraina.TV</summary>
-		<language></language>
-		<platform>all</platform>
-		<license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-		<website></website>
-		<assets>
-			<icon>icon.png</icon>
-			<fanart>fanart.jpg</fanart>
-		</assets>
-	</extension>
-</addon>
-
-<addon id="plugin.video.filmy321" name="Filmy321" version="1.0" provider-name="mbebe">
-	<requires>
-		<import addon="xbmc.python" version="2.25.0"/>
-		<import addon="script.module.requests" />
-		<import addon="script.module.parsedom" version="2.5.2"/>
-		<import addon="script.module.resolveurl" version="5.0.00"/>
-	</requires>
-	<extension point="xbmc.python.pluginsource" library="main.py">
-		<provides>video</provides>
-	</extension>
-	<extension point="xbmc.addon.metadata">
-		<description>filmy321.pl</description>
-		<disclaimer>https://github.com/mbebe/blomqvist</disclaimer>
-		<summary>filmy321.pl</summary>
 		<language>pl</language>
 		<platform>all</platform>
 		<license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
@@ -873,60 +764,6 @@ Róbta co chceta! :)
 	</extension>
 </addon>
 
-<addon id="plugin.video.kinonet" name="filme.pl" version="1.5" provider-name="mbebe">
-    <requires>
-        <import addon="xbmc.python" version="2.25.0"/>
-        <import addon="script.module.requests" />
-        <import addon="script.module.parsedom" version="2.5.2"/>
-        <import addon="script.module.resolveurl"/>
-    </requires>
-    <extension point="xbmc.python.pluginsource" library="main.py">
-        <provides>video</provides>
-    </extension>
-    <extension point="xbmc.addon.metadata">
-        <description lang="pl">kinonet.pl</description>
-        <disclaimer lang="pl">https://github.com/mbebe/blomqvist</disclaimer>
-        <summary lang="pl">kinonet.pl</summary>
-        <language>pl</language>
-        <platform>all</platform>
-        <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-        <website>https://github.com/mbebe/blomqvist</website>
-        <assets>
-            <icon>icon.png</icon>
-            <fanart>fanart.jpg</fanart>
-        </assets>
-    </extension>
-</addon>
-
-<addon id="plugin.video.kraisfilm" name="Filmbit.ws" version="1.4.5" provider-name="mbebe">
-	<requires>
-		<import addon="xbmc.python" version="2.25.0"/>
-		<import addon="script.module.requests" />
-		<import addon="script.module.parsedom" version="2.5.2"/>
-		<import addon="script.module.resolveurl"/>
-		<import addon="script.common.plugin.cache" version="2.5.5"/>
-	</requires>
-	<extension point="xbmc.python.pluginsource" library="main.py">
-		<provides>video</provides>
-	</extension>
-    <extension point="xbmc.addon.metadata">
-        <description lang="pl">Filmbit.ws</description>
-        <disclaimer lang="pl">https://github.com/mbebe/blomqvist</disclaimer>
-        <summary lang="pl">Filmbit.ws</summary>
-        <description lang="en">Filmbit.ws</description>
-        <disclaimer lang="en">https://github.com/mbebe/blomqvist</disclaimer>
-        <summary lang="en">Filmbit.ws</summary>
-        <language>pl</language>
-        <platform>all</platform>
-        <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-        <website>https://github.com/mbebe/blomqvist</website>
-        <assets>
-            <icon>icon.png</icon>
-            <fanart>fanart.jpg</fanart>
-        </assets>
-    </extension>
-</addon>
-
 <addon id="plugin.video.kreskowkitv" name="Kreskówki.tv" version="1.5" provider-name="mbebe">
     <requires>
         <import addon="xbmc.python" version="2.25.0"/>
@@ -952,48 +789,19 @@ Róbta co chceta! :)
     </extension>
 </addon>
 
-<addon id="plugin.video.movieneo" name="Movieneo" version="1.2" provider-name="mbebe">
-    <requires>
-        <import addon="xbmc.python" version="2.25.0"/>
-        <import addon="script.module.requests" />
-        <import addon="script.module.parsedom" version="2.5.2"/>
-    </requires>
-    <extension point="xbmc.python.pluginsource" library="main.py">
-        <provides>video</provides>
-    </extension>
-    <extension point="xbmc.addon.metadata">
-        <description>movieneo.com</description>
-        <disclaimer>https://github.com/mbebe/blomqvist</disclaimer>
-        <summary>movieneo.com</summary>
-        <language>pl</language>
-        <platform>all</platform>
-        <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-        <website>https://github.com/mbebe/blomqvist</website>
-        <assets>
-            <icon>icon.png</icon>
-            <fanart>fanart.jpg</fanart>
-        </assets>
-    </extension>
-</addon>
-
-<addon id="plugin.video.movies365" name="Movies365" version="2.3" provider-name="mbebe">
+<addon id="plugin.video.mbfilm" name="MB filmy" version="1.0" provider-name="mbebe">
 	<requires>
 		<import addon="xbmc.python" version="2.25.0"/>
 		<import addon="script.module.requests" />
-		<import addon="script.module.parsedom" version="2.5.2"/>
-		<import addon="script.module.resolveurl" version="5.0.00"/>
-		<import addon="script.module.js2py" />
-		<import addon="script.module.six" />
-		<import addon="script.module.pyjsparser" />
-		<import addon="script.module.tzlocal" />
+		<import addon="script.module.resolveurl" version="5.0.12b"/>
 	</requires>
 	<extension point="xbmc.python.pluginsource" library="main.py">
 		<provides>video</provides>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-		<description>365movies.tv, losmovies.pro</description>
+		<description>MB filmy</description>
 		<disclaimer>https://github.com/mbebe/blomqvist</disclaimer>
-		<summary>365movies.tv, losmovies.pro</summary>
+		<summary>MB filmy</summary>
 		<language>pl</language>
 		<platform>all</platform>
 		<license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
@@ -1060,31 +868,6 @@ Róbta co chceta! :)
 </extension>
 </addon>
 
-<addon id="plugin.video.otubepl" name="OtubePl" version="1.0" provider-name="mbebe">
-	<requires>
-		<import addon="xbmc.python" version="2.25.0"/>
-		<import addon="script.module.requests" />
-		<import addon="script.module.parsedom" version="2.5.2"/>
-		<import addon="script.module.resolveurl" version="5.0.00"/>
-	</requires>
-	<extension point="xbmc.python.pluginsource" library="main.py">
-		<provides>video</provides>
-	</extension>
-	<extension point="xbmc.addon.metadata">
-		<description>otube.pl</description>
-		<disclaimer>https://github.com/mbebe/blomqvist</disclaimer>
-		<summary>otube.pl</summary>
-		<language>pl</language>
-		<platform>all</platform>
-		<license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-		<website>https://github.com/mbebe/blomqvist</website>
-		<assets>
-			<icon>icon.png</icon>
-			<fanart>fanart.jpg</fanart>
-		</assets>
-	</extension>
-</addon>
-
 <addon id="plugin.video.pastebinVID" name="PASTEBIN PlayVid" version="1.8.1" provider-name="mbebe">
     <requires>
         <import addon="xbmc.python" version="2.25.0"/>
@@ -1138,31 +921,6 @@ Róbta co chceta! :)
 			<fanart>fanart.jpg</fanart>
 		</assets>
 	</extension>
-</addon>
-
-<addon id="plugin.video.plusfilm" name="plusfilm.pl" version="1.2" provider-name="mbebe">
-    <requires>
-        <import addon="xbmc.python" version="2.25.0"/>
-        <import addon="script.module.requests" />
-        <import addon="script.module.parsedom" version="2.5.2"/>
-        <import addon="script.module.resolveurl"/>
-    </requires>
-    <extension point="xbmc.python.pluginsource" library="main.py">
-        <provides>video</provides>
-    </extension>
-    <extension point="xbmc.addon.metadata">
-        <description>plusfilm.pl</description>
-        <disclaimer>https://github.com/mbebe/blomqvist</disclaimer>
-        <summary>plusfilm.pl</summary>
-        <language>pl</language>
-        <platform>all</platform>
-        <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-        <website>https://github.com/mbebe/blomqvist</website>
-        <assets>
-            <icon>icon.gif</icon>
-            <fanart>fanart.jpg</fanart>
-        </assets>
-    </extension>
 </addon>
 
 <addon id="plugin.video.ramicpolsat" version="1.3" name="PolsatNews" provider-name="mbebe">
@@ -1278,31 +1036,6 @@ Róbta co chceta! :)
 </extension>
 </addon>
 
-<addon id="plugin.video.serialeco" name="seriale.co" version="1.3" provider-name="mbebe">
-	<requires>
-		<import addon="xbmc.python" version="2.25.0"/>
-		<import addon="script.module.requests" />
-		<import addon="script.module.parsedom" version="2.5.2"/>
-		<import addon="script.module.resolveurl" version="5.0.12b"/>
-	</requires>
-	<extension point="xbmc.python.pluginsource" library="main.py">
-		<provides>video</provides>
-	</extension>
-	<extension point="xbmc.addon.metadata">
-		<description lang="pl">seriale.co</description>
-		<disclaimer lang="pl"></disclaimer>
-		<summary lang="pl">seriale.co</summary>
-		<language>pl</language>
-		<platform>all</platform>
-		<license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-		<website>https://github.com/mbebe/blomqvist/</website>
-		<assets>
-			<icon>icon.png</icon>
-			<fanart>fanart.jpg</fanart>
-		</assets>
-	</extension>
-</addon>
-
 <addon id="plugin.video.serialnet" name="serialnet.pl" version="1.1" provider-name="xxxxxx">
     <requires>
         <import addon="xbmc.python" version="2.25.0"/>
@@ -1325,35 +1058,6 @@ Róbta co chceta! :)
             <fanart>fanart.jpg</fanart>
         </assets>
     </extension>
-</addon>
-
-<addon id="plugin.video.serialosypl" version="1.9" name="serialosy24.pl" provider-name="xxxxxx">
-<requires>
-  <import addon="xbmc.python" version="2.1.0"/>
-  <import addon="script.module.resolveurl" version="5.0.12b"/>
-</requires>
-
-<extension point="xbmc.python.pluginsource" library="main.py">
-  <provides>video</provides>
-</extension>
-
-<extension point="xbmc.addon.metadata">
-  <summary lang="en">Serialosy24.pl</summary>
-  <description lang="en">Serialosy24.pl</description>
-  <disclaimer lang="en">A private use only.</disclaimer>
-  <language></language>
-  <platform>all</platform>
-  <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-  <forum></forum>
-  <website></website>
-  <email></email>
-  <assets>
-    <icon>icon.png</icon>
-    <fanart>fanart.jpg</fanart>
-  </assets>
-  <news>
-</news>
-</extension>
 </addon>
 
 <addon id="plugin.video.sportpremium" name="Sport Premium" version="1.2" provider-name="mbebe">
@@ -1379,31 +1083,6 @@ Róbta co chceta! :)
 			<fanart></fanart>
 		</assets>
 	</extension>
-</addon>
-
-<addon id="plugin.video.subsmovies" name="Subsmovies.nz" version="0.3" provider-name="mbebe">
-    <requires>
-        <import addon="xbmc.python" version="2.25.0"/>
-        <import addon="script.module.requests" />
-        <import addon="script.module.parsedom" version="2.5.2"/>
-        <import addon="script.module.resolveurl"/>
-    </requires>
-    <extension point="xbmc.python.pluginsource" library="main.py">
-        <provides>video</provides>
-    </extension>
-    <extension point="xbmc.addon.metadata">
-        <description lang="en">subsmovies.nz</description>
-        <disclaimer lang="en">https://github.com/mbebe/blomqvist</disclaimer>
-        <summary lang="en">Watch movies with subtitles</summary>
-        <language>en</language>
-        <platform>all</platform>
-        <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-        <website>https://github.com/mbebe/blomqvist</website>
-        <assets>
-            <icon>icon.png</icon>
-            <fanart>fanart.jpg</fanart>
-        </assets>
-    </extension>
 </addon>
 
 <addon id="plugin.video.szukajkatv" version="1.4.3" name="Szukajka.tv" provider-name="mbebe">
@@ -1484,31 +1163,6 @@ Róbta co chceta! :)
 	</extension>
 </addon>
 
-<addon id="plugin.video.videopenny" name="VideoPenny.net" version="2.2" provider-name="mbebe">
-    <requires>
-        <import addon="xbmc.python" version="2.25.0"/>
-        <import addon="script.module.requests" />
-        <import addon="script.module.parsedom" version="2.5.2"/>
-        <import addon="script.module.resolveurl"/>
-    </requires>
-    <extension point="xbmc.python.pluginsource" library="main.py">
-        <provides>video</provides>
-    </extension>
-    <extension point="xbmc.addon.metadata">
-        <description lang="pl">videopenny.net</description>
-        <disclaimer lang="pl"></disclaimer>
-        <summary lang="pl">videopenny.net</summary>
-        <language>pl</language>
-        <platform>all</platform>
-        <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-        <website></website>
-        <assets>
-            <icon>icon.png</icon>
-            <fanart>fanart.jpg</fanart>
-        </assets>
-    </extension>
-</addon>
-
 <addon id="plugin.video.viderpl" version="1.8" name="Vider" provider-name="mbebe">
 <requires>
   <import addon="xbmc.python" version="2.1.0"/>
@@ -1563,31 +1217,6 @@ Róbta co chceta! :)
 			<fanart>fanart.jpg</fanart>
 		</assets>
 	</extension>
-</addon>
-
-<addon id="plugin.video.vodgopl" name="VODGO.pl" version="1.2" provider-name="mbebe">
-    <requires>
-        <import addon="xbmc.python" version="2.25.0"/>
-        <import addon="script.module.requests" />
-        <import addon="script.module.parsedom" version="2.5.2"/>
-        <import addon="script.module.resolveurl"/>
-    </requires>
-    <extension point="xbmc.python.pluginsource" library="main.py">
-        <provides>video</provides>
-    </extension>
-    <extension point="xbmc.addon.metadata">
-        <description>VODGO.pl</description>
-        <disclaimer>https://github.com/mbebe/blomqvist</disclaimer>
-        <summary>VODGO.pl</summary>
-        <language>pl</language>
-        <platform>all</platform>
-        <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-        <website>https://github.com/mbebe/blomqvist</website>
-        <assets>
-            <icon>icon.png</icon>
-            <fanart>fanart.jpg</fanart>
-        </assets>
-    </extension>
 </addon>
 
 <addon id="plugin.video.zalukajcom" version="2.3.1" name="Zalukaj" provider-name="mbebe">
