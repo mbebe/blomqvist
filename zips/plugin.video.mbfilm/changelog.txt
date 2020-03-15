@@ -1,3 +1,8 @@
+1.2
+- dodane ekino.pw
+- dodane cda-filmy.onnline
+- dodany resolver waaw
+
 1.1
 - filmninja fix
 
