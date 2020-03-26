@@ -1,3 +1,7 @@
+2.3
+- poprawka odtwarzania
+- poprawka dla DRM
+
 2.2
 - poprawka dla premium
 
