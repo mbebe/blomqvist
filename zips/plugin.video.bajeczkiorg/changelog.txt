@@ -1,3 +1,6 @@
+1.5
+- fix mystream ( github.com/Kodi-vStream/venom-xbmc-addons )
+
 1.4
 - fix odtwarzania
 
