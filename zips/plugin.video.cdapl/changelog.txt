@@ -1,3 +1,6 @@
+2.4
+- poprawka odtwarzania
+
 2.3
 - poprawka odtwarzania
 - poprawka dla DRM
