@@ -1,3 +1,7 @@
+2.6.1
+- poprawka dla darm. kont
+- poprawa szukania
+
 2.6
 - dodane logowanie
 
