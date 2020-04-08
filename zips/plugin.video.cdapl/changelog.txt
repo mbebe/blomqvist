@@ -1,3 +1,6 @@
+2.5
+- poprawka odtwarzania
+
 2.4
 - poprawka odtwarzania
 
