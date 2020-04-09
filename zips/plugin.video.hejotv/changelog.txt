@@ -1,3 +1,6 @@
+2.2.80
+- poprawka logowania
+
 2.2.71
 - poprawka odtwarzania
 - dodane py3
