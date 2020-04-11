@@ -1,3 +1,6 @@
+1.6
+- cda fix (mariusz m)
+
 1.5
 - cda fix
 

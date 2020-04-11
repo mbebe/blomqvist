@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.video.cdapl" version="2.5" name="cda.pl" provider-name="mbebe">
+<addon id="plugin.video.cdapl" version="2.6" name="cda.pl" provider-name="mbebe">
 <requires>
     <import addon="xbmc.python" version="2.25.0"/>
     <import addon="script.common.plugin.cache" version="2.5.5"/>
