@@ -1,3 +1,7 @@
+1.9.1
+- fix cloudflare
+- poprawka odtwarzania
+
 1.9
 - bump version
 
