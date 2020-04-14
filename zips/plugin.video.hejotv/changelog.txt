@@ -1,3 +1,6 @@
+2.2.81
+- poprawka odtwarzania film,serial
+
 2.2.80
 - poprawka logowania
 

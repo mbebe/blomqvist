@@ -1,3 +1,6 @@
+1.2
+- poprawka odtwarzania
+
 1.1
 - poprawka logowania
 
