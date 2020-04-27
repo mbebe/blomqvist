@@ -106,6 +106,37 @@
 </extension>
 </addon>
 
+<addon id="plugin.video.arenaparty" version="1.0" name="ArenaParty" provider-name="mbebe">
+<requires>
+  <import addon="xbmc.python" version="2.24.0"/>
+  <import addon="script.module.resolveurl" version="4.0.0"/>
+
+  <import addon="script.common.plugin.cache" version="2.5.5"/>
+</requires>
+<extension point="xbmc.python.pluginsource" library="main.py">
+  <provides>video</provides>
+</extension>
+<extension point="xbmc.addon.metadata">
+  <summary lang="en">http://www.arenaparty.pl</summary>
+  <description lang="en">http://www.arenaparty.pl</description>
+  <disclaimer lang="en">A private use only. For bugs, requests or ge</disclaimer>
+  <language></language>
+  <platform>all</platform>
+  <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+  <forum></forum>
+  <website></website>
+  <assets>
+    <icon>icon.png</icon>
+    <fanart>fanart.jpg</fanart>
+    <screenshot>resources/screenshot-01.jpg</screenshot>
+    <screenshot>resources/screenshot-02.jpg</screenshot>
+  </assets>
+  <news>
+ ...
+  </news>
+</extension>
+</addon>
+
 <addon id="plugin.video.bajeczkiorg" name="Bajeczki.org" version="1.5" provider-name="mbebe">
     <requires>
         <import addon="xbmc.python" version="2.25.0"/>
@@ -411,7 +442,7 @@ Do not install this addon if you are using a build.
 </extension>
 </addon>
 
-<addon id="plugin.video.ekinotv" name="ekino-tv" version="2.6.2" provider-name="mbebe">
+<addon id="plugin.video.ekinotv" name="ekino-tv" version="2.6.3" provider-name="mbebe">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
     <import addon="script.module.resolveurl" version="5.0.12b"/>
@@ -1240,7 +1271,7 @@ Róbta co chceta! :)
 </extension>
 </addon>
 
-<addon id="plugin.video.virpecom" name="virpeCOM" version="1.9.1" provider-name="mbebe">
+<addon id="plugin.video.virpecom" name="virpeCOM" version="1.9.2" provider-name="mbebe">
 	<requires>
 		<import addon="xbmc.python" version="2.25.0"/>
 		<import addon="script.module.requests" />
