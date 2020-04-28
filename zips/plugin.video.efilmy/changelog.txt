@@ -1,3 +1,6 @@
+1.26
+- poprawka cloudflare
+
 1.25
 - poprawka dla clipwatching
 
