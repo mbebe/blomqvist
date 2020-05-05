@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<addon id="plugin.video.playermb" version="1.1" name="PlayerPLmb" provider-name="mbebe">
+<addon id="plugin.video.iplatvmb" version="1.0" name="IplaTVmb" provider-name="mbebe">
 <requires>
   <import addon="xbmc.python" version="2.24.0"/>
   <import addon="script.module.requests" />
@@ -9,8 +9,8 @@
   <provides>video</provides>
 </extension>
 <extension point="xbmc.addon.metadata">
-  <summary lang="en">http://www.player.pl</summary>
-  <description lang="en">http://www.player.pl</description>
+  <summary lang="en">http://www.ipla.pl</summary>
+  <description lang="en">http://www.ipla.pl</description>
   <disclaimer lang="en">A private use only. For bugs, requests or ge</disclaimer>
   <language></language>
   <platform>all</platform>

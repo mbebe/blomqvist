@@ -820,6 +820,36 @@ Róbta co chceta! :)
 	</extension>
 </addon>
 
+<addon id="plugin.video.iplatvmb" version="1.0" name="IplaTVmb" provider-name="mbebe">
+<requires>
+  <import addon="xbmc.python" version="2.24.0"/>
+  <import addon="script.module.requests" />
+  <import addon="script.module.inputstreamhelper" version="0.3.3"/>
+</requires>
+<extension point="xbmc.python.pluginsource" library="main.py">
+  <provides>video</provides>
+</extension>
+<extension point="xbmc.addon.metadata">
+  <summary lang="en">http://www.ipla.pl</summary>
+  <description lang="en">http://www.ipla.pl</description>
+  <disclaimer lang="en">A private use only. For bugs, requests or ge</disclaimer>
+  <language></language>
+  <platform>all</platform>
+  <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+  <forum></forum>
+  <website></website>
+  <assets>
+    <icon>icon.png</icon>
+    <fanart>fanart.jpg</fanart>
+    <screenshot>resources/screenshot-01.jpg</screenshot>
+    <screenshot>resources/screenshot-02.jpg</screenshot>
+  </assets>
+  <news>
+ ...
+  </news>
+</extension>
+</addon>
+
 <addon id="plugin.video.kreskowkitv" name="Kreskówki.tv" version="1.5" provider-name="mbebe">
     <requires>
         <import addon="xbmc.python" version="2.25.0"/>
@@ -952,7 +982,7 @@ Róbta co chceta! :)
     </extension>
 </addon>
 
-<addon id="plugin.video.playermb" version="1.0" name="PlayerPLmb" provider-name="mbebe">
+<addon id="plugin.video.playermb" version="1.1" name="PlayerPLmb" provider-name="mbebe">
 <requires>
   <import addon="xbmc.python" version="2.24.0"/>
   <import addon="script.module.requests" />
