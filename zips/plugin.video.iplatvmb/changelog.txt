@@ -1,2 +1,6 @@
+1.1
+- wsparcie PY3 (Mariusz89B)
+- dodany wybor ilosci pozycji na strone
+
 1.0
 - initial version
