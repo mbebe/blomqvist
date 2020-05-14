@@ -1,3 +1,8 @@
+1.3.11
+- dodane ogladaj.to
+- poprawka clouflare
+- dodane logowanie zalukaj.vip
+
 1.3.10
 - cdapl fix (mariusz m)
 
