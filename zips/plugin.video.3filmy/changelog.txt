@@ -1,3 +1,6 @@
+1.5
+- poprawka logowania
+
 1.4
 - poprawka logowania
 
