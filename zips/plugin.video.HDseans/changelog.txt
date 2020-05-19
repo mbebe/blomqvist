@@ -1,3 +1,6 @@
+1.7
+- poprawka szukania
+
 1.6
 - cda fix (mariusz m)
 
