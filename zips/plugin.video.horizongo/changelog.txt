@@ -1,0 +1,5 @@
+1.1
+- poprawka icony i fanarta
+
+1.0
+- init
