@@ -189,7 +189,7 @@
     </extension>
 </addon>
 
-<addon id="plugin.video.canalplusvod" version="1.0" name="CanalPLUS-VOD" provider-name="mbebe">
+<addon id="plugin.video.canalplusvod" version="1.1" name="CanalPLUS-VOD" provider-name="mbebe">
 <requires>
   <import addon="xbmc.addon" version="17.9.910"/>
   <import addon="script.module.requests" />
@@ -565,7 +565,7 @@ Tabele, terminarze, listy strzelców
 	</extension>
 </addon>
 
-<addon id="plugin.video.filmancc" version="2.1" name="filman.cc" provider-name="mbebe">
+<addon id="plugin.video.filmancc" version="2.2" name="filman.cc" provider-name="mbebe">
 <requires>
   <import addon="xbmc.python" version="2.1.0"/>
   <import addon="script.module.resolveurl" version="5.0.00"/>
@@ -955,7 +955,7 @@ Róbta co chceta! :)
 	</extension>
 </addon>
 
-<addon id="plugin.video.ncplusgo" name="NC plus GO" version="1.2.6" provider-name="mbebe">
+<addon id="plugin.video.ncplusgo" name="NC plus GO" version="1.2.7" provider-name="mbebe">
     <requires>
         <import addon="xbmc.python" version="2.25.0"/>
         <import addon="script.module.requests" />
