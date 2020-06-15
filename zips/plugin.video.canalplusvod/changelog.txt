@@ -1,3 +1,6 @@
+1.2
+- poprawka wyswietlania
+
 1.1
 - poprawka wyswietlania
 
