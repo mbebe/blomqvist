@@ -189,7 +189,7 @@
     </extension>
 </addon>
 
-<addon id="plugin.video.canalplusvod" version="1.4" name="CanalPLUS-VOD" provider-name="mbebe">
+<addon id="plugin.video.canalplusvod" version="1.5" name="CanalPLUS-VOD" provider-name="mbebe">
 <requires>
   <import addon="xbmc.addon" version="17.9.910"/>
   <import addon="script.module.requests" />
