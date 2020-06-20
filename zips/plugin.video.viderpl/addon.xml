@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<addon id="plugin.video.viderpl" version="1.8" name="Vider" provider-name="mbebe">
+<addon id="plugin.video.viderpl" version="1.9" name="Vider" provider-name="mbebe">
 <requires>
   <import addon="xbmc.python" version="2.1.0"/>
   <import addon="script.common.plugin.cache" version="2.5.5"/> 
+  <import addon="script.module.requests" version="2.12.4"/>
+
 </requires>
 <extension point="xbmc.python.pluginsource" library="main.py">
   <provides>video</provides>
