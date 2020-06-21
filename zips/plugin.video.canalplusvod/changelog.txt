@@ -1,3 +1,6 @@
+1.6
+- poprawka szukania
+
 1.5
 - poprawka KANALY na zadanie
 
