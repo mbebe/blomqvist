@@ -1,3 +1,6 @@
+2.3
+- poprawka logowania
+
 2.2
 - poprawka sortowania
 - poprawka wyswietlania

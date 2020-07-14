@@ -1,3 +1,6 @@
+1.8
+- poprawka szukania - polskie znaki
+
 1.7
 - poprawka szukania
 
