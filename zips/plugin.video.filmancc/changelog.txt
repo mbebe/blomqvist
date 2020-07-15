@@ -1,3 +1,6 @@
+2.4
+- poprawka seriali i odtwarzania
+
 2.3
 - poprawka logowania
 

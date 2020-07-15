@@ -565,7 +565,7 @@ Tabele, terminarze, listy strzelców
 	</extension>
 </addon>
 
-<addon id="plugin.video.filmancc" version="2.3" name="filman.cc" provider-name="mbebe">
+<addon id="plugin.video.filmancc" version="2.4" name="filman.cc" provider-name="mbebe">
 <requires>
   <import addon="xbmc.python" version="2.1.0"/>
   <import addon="script.module.resolveurl" version="5.0.00"/>
@@ -931,7 +931,7 @@ Róbta co chceta! :)
     </extension>
 </addon>
 
-<addon id="plugin.video.mbfilm" name="MB filmy" version="1.3.16" provider-name="mbebe">
+<addon id="plugin.video.mbfilm" name="MB filmy" version="1.3.17" provider-name="mbebe">
 	<requires>
 		<import addon="xbmc.python" version="2.25.0"/>
 		<import addon="script.module.requests" />
