@@ -1,3 +1,7 @@
+1.3.18
+- dodane filmynadzis
+- dodane dudeplayer
+
 1.3.17
 - fix update
 
