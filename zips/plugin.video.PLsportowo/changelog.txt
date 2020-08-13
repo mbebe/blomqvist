@@ -1,3 +1,6 @@
+1.9.7
+- fix nba links (sportsbay)
+
 1.9.6
 - fix mlb links (sportsbay)
 
