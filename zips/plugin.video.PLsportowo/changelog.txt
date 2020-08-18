@@ -1,3 +1,6 @@
+1.9.9
+- update fix
+
 1.9.8
 - poprawka mydecode
 - fix nhl links (sportsbay - wymaga serverHTTP)
