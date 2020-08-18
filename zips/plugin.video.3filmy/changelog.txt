@@ -1,3 +1,6 @@
+1.7
+- fix update
+
 1.6
 - poprawka logowania
 
