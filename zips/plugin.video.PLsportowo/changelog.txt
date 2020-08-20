@@ -1,3 +1,6 @@
+2.0
+- fix telerium
+
 1.9.9
 - update fix
 
