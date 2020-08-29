@@ -1,3 +1,6 @@
+2.2.82
+- poprawka wyswietlania filmow
+
 2.2.81
 - poprawka odtwarzania film,serial
 
