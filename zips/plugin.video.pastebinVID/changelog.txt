@@ -1,3 +1,6 @@
+1.8.13
+- fix odtwarzania z koncowka mp4
+
 1.8.12
 - fix update
 
