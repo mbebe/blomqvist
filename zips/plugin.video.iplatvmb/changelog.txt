@@ -1,5 +1,12 @@
+1.6
+- dodanie POLSAT i TV4
+
+1.5
+- poprawka logowania (Mariusz89B)
+- poprawka inputstream.adaptive dla Kodi v19
+
 1.4
-- poprawka logowania
+- poprawka kodu (Mariusz89B)
 
 1.3
 - wsparcie PY2 i PY3 (Mariusz89B)

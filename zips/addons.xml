@@ -876,7 +876,7 @@ Róbta co chceta! :)
 	</extension>
 </addon>
 
-<addon id="plugin.video.iplatvmb" version="1.4" name="IplaTVmb" provider-name="mbebe">
+<addon id="plugin.video.iplatvmb" version="1.6" name="IplaTVmb" provider-name="mbebe">
 <requires>
   <import addon="xbmc.addon" version="17.9.910"/>
   <import addon="script.module.requests" />
