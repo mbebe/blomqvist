@@ -1,3 +1,9 @@
+1.8.15
+- poprawka vider
+
+1.8.14
+- fix freedisc
+
 1.8.13
 - fix odtwarzania z koncowka mp4
 
