@@ -1,3 +1,8 @@
+1.6
+- wyświetlanie ostatniego video w wierszu (pokazuje 32 zamiast 24 video)
+- dodanie możliwości wyboru stron również dla konkretnych bajek
+- nowe wyświetlanie wyboru stron
+
 1.5
 - fix mystream ( github.com/Kodi-vStream/venom-xbmc-addons )
 
