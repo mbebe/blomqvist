@@ -335,11 +335,12 @@
 	</extension>
 </addon>
 
-<addon id="plugin.video.darmowatv" name="darmowaTV" version="1.8" provider-name="mbebe">
+<addon id="plugin.video.darmowatv" name="darmowaTV" version="1.8.5" provider-name="mbebe">
     <requires>
         <import addon="xbmc.python" version="2.25.0"/>
         <import addon="script.module.requests" />
         <import addon="script.module.parsedom" version="2.5.2"/>
+        <import addon="plugin.video.f4mTester"/>
     </requires>
     <extension point="xbmc.python.pluginsource" library="maintv.py">
         <provides>video</provides>
@@ -1067,7 +1068,7 @@ Róbta co chceta! :)
 </extension>
 </addon>
 
-<addon id="plugin.video.PLsportowo" name="Sportowa TV" version="2.0.3" provider-name="mbebe">
+<addon id="plugin.video.PLsportowo" name="Sportowa TV" version="2.0.4" provider-name="mbebe">
 	<requires>
 		<import addon="xbmc.python" version="2.25.0"/>
 		<import addon="script.module.requests" />
@@ -1309,7 +1310,7 @@ Róbta co chceta! :)
 </extension>
 </addon>
 
-<addon id="plugin.video.TVP.pl" name="TVP.pl" version="2.2.43" provider-name="mbebe">
+<addon id="plugin.video.TVP.pl" name="TVP.pl" version="2.2.44" provider-name="mbebe">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
     <import addon="script.module.inputstreamhelper" version="0.3.3"/>

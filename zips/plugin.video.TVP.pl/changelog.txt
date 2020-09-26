@@ -1,3 +1,6 @@
+2.2.44
+- poprawka vod - dzieci
+
 2.2.43
 - poprawka jakosci(?)
 

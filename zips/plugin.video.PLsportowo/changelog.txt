@@ -1,3 +1,6 @@
+2.0.4
+- fix sportsbay
+
 2.0.3
 - fix mlb
 - fix nba
