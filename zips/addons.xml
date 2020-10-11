@@ -1124,33 +1124,6 @@ Róbta co chceta! :)
 </extension>
 </addon>
 
-<addon id="plugin.video.ramictvn24" version="1.4" name="TVN24" provider-name="mbebe">
-<requires>
-  <import addon="xbmc.python" version="2.1.0"/>
-
-</requires>
-<extension point="xbmc.python.pluginsource" library="main.py">
-  <provides>video</provides>
-</extension>
-<extension point="xbmc.addon.metadata">
-  <summary lang="en">TVN24</summary>
-  <description lang="en">TVN24</description>
-  <disclaimer lang="en">A private use only. </disclaimer>
-  <language></language>
-  <platform>all</platform>
-  <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-  <forum></forum>
-  <website></website>
-  <email></email>
-  <assets>
-    <icon>icon.png</icon>
-    <fanart>fanart.jpg</fanart>
-  </assets>
-  <news>
-  </news>
-</extension>
-</addon>
-
 <addon id="plugin.video.sanimepl" name="SuperanimePL" version="1.2" provider-name="mbebe">
 	<requires>
 		<import addon="xbmc.python" version="2.25.0"/>
@@ -1307,6 +1280,38 @@ Róbta co chceta! :)
 			<icon>icon.png</icon>
 			<fanart>fanart.jpg</fanart>
   </assets>
+</extension>
+</addon>
+
+<addon id="plugin.video.tvn24pl" version="1.0" name="TVN24.PL" provider-name="mbebe">
+<requires>
+  <import addon="xbmc.addon" version="17.9.910"/>
+  <import addon="script.module.requests" />
+  <import addon="script.module.inputstreamhelper" />
+  <import addon="script.module.pytz" version="2014.2"/>
+
+</requires>
+<extension point="xbmc.python.pluginsource" library="main.py">
+  <provides>video</provides>
+</extension>
+<extension point="xbmc.addon.metadata">
+  <summary lang="en">https://tvn24.pl/</summary>
+  <description lang="en">https://tvn24.pl/</description>
+  <disclaimer lang="en">A private use only. For bugs, requests or ge</disclaimer>
+  <language></language>
+  <platform>all</platform>
+  <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+  <forum></forum>
+  <website></website>
+  <assets>
+    <icon>icon.png</icon>
+    <fanart>fanart.jpg</fanart>
+    <screenshot></screenshot>
+    <screenshot></screenshot>
+  </assets>
+  <news>
+ ...
+  </news>
 </extension>
 </addon>
 
