@@ -189,7 +189,7 @@
     </extension>
 </addon>
 
-<addon id="plugin.video.canalplusvod" version="1.6" name="CanalPLUS-VOD" provider-name="mbebe">
+<addon id="plugin.video.canalplusvod" version="1.6.1" name="CanalPLUS-VOD" provider-name="mbebe">
 <requires>
   <import addon="xbmc.addon" version="17.9.910"/>
   <import addon="script.module.requests" />
@@ -740,7 +740,7 @@ Róbta co chceta! :)
 </extension>
 </addon>
 
-<addon id="plugin.video.hejotv" name="hejo.tv" version="2.2.82" provider-name="mbebe">
+<addon id="plugin.video.hejotv" name="hejo.tv" version="2.2.83" provider-name="mbebe">
 	<requires>
 		<import addon="xbmc.python" version="2.25.0"/>
 		<import addon="script.module.requests" />
@@ -1010,7 +1010,7 @@ Róbta co chceta! :)
 </extension>
 </addon>
 
-<addon id="plugin.video.pastebinVID" name="PASTEBIN PlayVid" version="1.8.15" provider-name="mbebe">
+<addon id="plugin.video.pastebinVID" name="PASTEBIN PlayVid" version="1.9.1" provider-name="mbebe">
     <requires>
         <import addon="xbmc.python" version="2.25.0"/>
         <import addon="script.module.requests" />

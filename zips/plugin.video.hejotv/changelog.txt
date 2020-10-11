@@ -1,3 +1,6 @@
+2.2.83
+- poprawka wyswietlania filmow i seriali
+
 2.2.82
 - poprawka wyswietlania filmow
 
