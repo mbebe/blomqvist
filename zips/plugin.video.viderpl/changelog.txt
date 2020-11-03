@@ -1,3 +1,6 @@
+1.9.2
+- stronicowanie w szukaniu
+
 1.9.1
 - fix
 

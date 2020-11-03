@@ -189,7 +189,7 @@
     </extension>
 </addon>
 
-<addon id="plugin.video.canalplusvod" version="1.6.1" name="CanalPLUS-VOD" provider-name="mbebe">
+<addon id="plugin.video.canalplusvod" version="1.6.2" name="CanalPLUS-VOD" provider-name="mbebe">
 <requires>
   <import addon="xbmc.addon" version="17.9.910"/>
   <import addon="script.module.requests" />
@@ -956,7 +956,7 @@ Róbta co chceta! :)
 	</extension>
 </addon>
 
-<addon id="plugin.video.ncplusgo" name="NC plus GO" version="1.2.9" provider-name="mbebe">
+<addon id="plugin.video.ncplusgo" name="NC plus GO" version="1.2.10" provider-name="mbebe">
     <requires>
         <import addon="xbmc.addon" version="17.9.910"/>
         <import addon="script.module.requests" />
@@ -1367,7 +1367,7 @@ Róbta co chceta! :)
 	</extension>
 </addon>
 
-<addon id="plugin.video.viderpl" version="1.9.1" name="Vider" provider-name="mbebe">
+<addon id="plugin.video.viderpl" version="1.9.2" name="Vider" provider-name="mbebe">
 <requires>
   <import addon="xbmc.python" version="2.1.0"/>
   <import addon="script.common.plugin.cache" version="2.5.5"/>
