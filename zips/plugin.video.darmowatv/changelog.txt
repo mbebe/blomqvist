@@ -1,4 +1,8 @@
 1.8.5
+- poprawka darmowa.ws
+- dodane zagraniczne
+
+1.8.5
 - poprawka odtwarzania
 
 1.8.4

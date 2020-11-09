@@ -1,3 +1,6 @@
+1.6.3
+- update version
+
 1.6.2
 - poprawka logowania
 
