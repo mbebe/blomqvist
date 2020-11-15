@@ -1,3 +1,6 @@
+1.8.8
+- poprawka mydecode
+
 1.8.7
 - dodane shidurlive do mydecode
 

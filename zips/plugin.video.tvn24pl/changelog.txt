@@ -1,0 +1,4 @@
+1.1
+- poprawka FAKTY
+1.0
+- initial version 
