@@ -1,3 +1,6 @@
+1.7
+- fix
+
 1.6
 - dodanie POLSAT i TV4
 
