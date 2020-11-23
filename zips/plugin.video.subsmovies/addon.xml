@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
-<addon id="plugin.video.subsmovies" name="Subsmovies.nz" version="0.4" provider-name="mbebe">
+<addon id="plugin.video.subsmovies" name="Subsmovies.club" version="0.5" provider-name="mbebe">
     <requires>
         <import addon="xbmc.python" version="2.25.0"/>
         <import addon="script.module.requests" />
@@ -10,7 +10,7 @@
         <provides>video</provides>
     </extension>
     <extension point="xbmc.addon.metadata">
-        <description lang="en">subsmovies.nz</description>
+        <description lang="en">subsmovies.club</description>
         <disclaimer lang="en">https://github.com/mbebe/blomqvist</disclaimer>	
         <summary lang="en">Watch movies with subtitles</summary>
         <language>en</language>
