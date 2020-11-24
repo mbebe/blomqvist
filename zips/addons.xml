@@ -1283,6 +1283,30 @@ Róbta co chceta! :)
 </extension>
 </addon>
 
+<addon id="plugin.video.themoviebaynet" name="Themoviebay.net" version="0.1" provider-name="mbebe">
+    <requires>
+        <import addon="xbmc.python" version="2.25.0"/>
+        <import addon="script.module.requests" />
+		<import addon="script.module.resolveurl" version="5.0.00"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="main.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <description lang="en">Themoviebay.netb</description>
+        <disclaimer lang="en">https://github.com/mbebe/blomqvist</disclaimer>
+        <summary lang="en">Watch movies with subtitles</summary>
+        <language>en</language>
+        <platform>all</platform>
+        <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+        <website>https://github.com/mbebe/blomqvist</website>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
+    </extension>
+</addon>
+
 <addon id="plugin.video.tvn24pl" version="1.1" name="TVN24.PL" provider-name="mbebe">
 <requires>
   <import addon="xbmc.addon" version="17.9.910"/>
