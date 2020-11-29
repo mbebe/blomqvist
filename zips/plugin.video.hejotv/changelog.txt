@@ -1,3 +1,6 @@
+2.2.85
+- poprawka logowania
+
 2.2.84
 - poprawka kategorie
 - poprawka epg

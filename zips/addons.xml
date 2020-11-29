@@ -740,7 +740,7 @@ Róbta co chceta! :)
 </extension>
 </addon>
 
-<addon id="plugin.video.hejotv" name="hejo.tv" version="2.2.84" provider-name="mbebe">
+<addon id="plugin.video.hejotv" name="hejo.tv" version="2.2.85" provider-name="mbebe">
 	<requires>
 		<import addon="xbmc.python" version="2.25.0"/>
 		<import addon="script.module.requests" />
@@ -1010,11 +1010,10 @@ Róbta co chceta! :)
 </extension>
 </addon>
 
-<addon id="plugin.video.pastebinVID" name="PASTEBIN PlayVid" version="1.9.5" provider-name="mbebe">
+<addon id="plugin.video.pastebinVID" name="PASTEBIN PlayVid" version="1.9.7" provider-name="mbebe">
     <requires>
-        <import addon="xbmc.python" version="2.25.0"/>
+        <import addon="xbmc.addon" version="17.9.910"/>
         <import addon="script.module.requests" />
-        <import addon="script.module.parsedom" version="2.5.2"/>
         <import addon="script.module.resolveurl"/>
     </requires>
     <extension point="xbmc.python.pluginsource" library="main.py">

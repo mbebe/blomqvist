@@ -1,3 +1,9 @@
+1.9.7
+- kodi 19
+
+1.9.6
+- fix fweb
+
 1.9.5
 - fix fweb
 
