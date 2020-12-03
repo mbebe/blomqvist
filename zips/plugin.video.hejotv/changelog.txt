@@ -1,3 +1,6 @@
+2.2.87
+- poprawka stronicowania seriali
+
 2.2.86
 - poprawka wyswietlania filmow i seriali
 
