@@ -708,11 +708,11 @@ Róbta co chceta! :)
 </extension>
 </addon>
 
-<addon id="plugin.video.goojara" name="goojara.to" version="0.1" provider-name="mbebe">
+<addon id="plugin.video.goojara" name="goojara.to" version="0.2" provider-name="mbebe">
     <requires>
         <import addon="xbmc.python" version="2.25.0"/>
         <import addon="script.module.requests" />
-		<import addon="script.module.resolveurl" version="5.0.00"/>
+        <import addon="script.module.resolveurl" version="5.0.00"/>
     </requires>
     <extension point="xbmc.python.pluginsource" library="main.py">
         <provides>video</provides>
