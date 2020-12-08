@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
-<addon id="plugin.video.mbfilm" name="MB filmy" version="1.3.28" provider-name="mbebe">
+<addon id="plugin.video.mbfilm" name="MB filmy" version="1.3.29" provider-name="mbebe">
 	<requires>
 		<import addon="xbmc.python" version="2.25.0"/>
 		<import addon="script.module.requests" />
