@@ -1,5 +1,8 @@
+1.4
+- poprawka discovery+
+
 1.3
-- dodane discovery+
+- poprawka discovery+
 
 1.2
 - dodane discovery+
