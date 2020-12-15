@@ -474,7 +474,7 @@ Do not install this addon if you are using a build.
 </extension>
 </addon>
 
-<addon id="plugin.video.ekinotv" name="ekino-tv" version="2.6.3" provider-name="mbebe">
+<addon id="plugin.video.ekinotv" name="ekino-tv" version="2.6.5" provider-name="mbebe">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
     <import addon="script.module.resolveurl" version="5.0.12b"/>
@@ -732,6 +732,29 @@ Róbta co chceta! :)
     </extension>
 </addon>
 
+<addon id="plugin.video.govodtv" name="govod.tv" version="1.1" provider-name="mbebe">
+	<requires>
+		<import addon="xbmc.python" version="2.25.0"/>
+		<import addon="script.module.requests" />
+	</requires>
+	<extension point="xbmc.python.pluginsource" library="main.py">
+		<provides>video</provides>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<description lang="pl">govod.tv</description>
+		<disclaimer lang="pl">https://github.com/mbebe/blomqvist</disclaimer>
+		<summary lang="pl">govod.tv</summary>
+		<language>pl</language>
+		<platform>all</platform>
+		<license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+		<website>https://github.com/mbebe/blomqvist</website>
+		<assets>
+			<icon>icon.png</icon>
+			<fanart>fanart.jpg</fanart>
+		</assets>
+	</extension>
+</addon>
+
 <addon id="plugin.video.HDseans" version="1.8" name="HDseans" provider-name="mbebe">
 <requires>
 	<import addon="xbmc.python" version="2.1.0"/>
@@ -872,7 +895,7 @@ Róbta co chceta! :)
 </extension>
 </addon>
 
-<addon id="plugin.video.internetws" name="Internetowa.tv" version="1.6.9" provider-name="mbebe">
+<addon id="plugin.video.internetws" name="Internetowa.tv" version="1.6.10" provider-name="mbebe">
 	<requires>
 		<import addon="xbmc.python" version="2.25.0"/>
 		<import addon="script.module.requests" />

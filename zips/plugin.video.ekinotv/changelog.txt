@@ -1,3 +1,9 @@
+2.6.5
+- stronicowanie seriali
+
+2.6.4
+- fix logowania
+
 2.6.3
 - cloudflare fix
 - dodane abcvideo
