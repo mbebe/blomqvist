@@ -1114,11 +1114,10 @@ Róbta co chceta! :)
 </extension>
 </addon>
 
-<addon id="plugin.video.PLsportowo" name="Sportowa TV" version="2.0.5" provider-name="mbebe">
+<addon id="plugin.video.PLsportowo" name="Sportowa TV" version="2.0.6" provider-name="mbebe">
 	<requires>
 		<import addon="xbmc.python" version="2.25.0"/>
 		<import addon="script.module.requests" />
-		<import addon="script.module.parsedom" version="2.5.2"/>
 		<import addon="script.module.inputstreamhelper" version="0.3.3"/>
 		<import addon="script.module.resolveurl" version="5.0.00"/>
 		<import addon="script.module.streamlink.base" />
