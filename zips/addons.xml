@@ -1003,7 +1003,7 @@ Róbta co chceta! :)
 	</extension>
 </addon>
 
-<addon id="plugin.video.ncplusgo" name="NC plus GO" version="1.2.10" provider-name="mbebe">
+<addon id="plugin.video.ncplusgo" name="NC plus GO" version="1.2.11" provider-name="mbebe">
     <requires>
         <import addon="xbmc.addon" version="17.9.910"/>
         <import addon="script.module.requests" />
@@ -1020,6 +1020,9 @@ Róbta co chceta! :)
         <platform>all</platform>
         <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
         <website>https://github.com/mbebe/blomqvist</website>
+        <news>v1.2.11
+        - poprawka szukania
+        </news>
         <assets>
             <icon>icon.png</icon>
             <fanart>fanart.jpg</fanart>
