@@ -1,3 +1,6 @@
+1.9.9
+- dodano odczytywanie zakodowanego pastebin (base64)
+
 1.9.8
 - fix fweb
 
