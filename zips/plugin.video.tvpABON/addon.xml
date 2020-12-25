@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
-<addon id="plugin.video.tvpABON" name="TVP strefa abo" version="1.6" provider-name="mbebe">
+<addon id="plugin.video.tvpABON" name="TVP strefa abo" version="1.7" provider-name="mbebe">
 	<requires>
-		<import addon="xbmc.python" version="2.25.0"/>
+		<!-- <import addon="xbmc.python" version="3.0.0" /> -->
+		<import addon="script.module.six"/>
 		<import addon="script.module.requests" />
-		<import addon="script.module.parsedom" version="2.5.2"/>
 		<import addon="script.module.inputstreamhelper" version="0.3.3"/>
 		<import addon="script.common.plugin.cache" version="2.5.5"/>
 	</requires>

@@ -1,5 +1,7 @@
-1.6
-- poprawka odtwarzania
+1.7
+- zgodnosc z py3
+- poprawka strefa abo
+
 1.5
 - zmiana logowania
 1.4
