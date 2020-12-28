@@ -1,3 +1,6 @@
+1.5
+- wybor napisow (wlaczenie w opcjach)
+
 1.4
 - poprawka discovery+
 
