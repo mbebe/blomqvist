@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<addon id="plugin.video.playermb" version="1.5" name="PlayerPLmb" provider-name="mbebe">
+<addon id="plugin.video.playermb" version="1.6" name="PlayerPLmb" provider-name="mbebe">
 <requires>
   <import addon="xbmc.python" version="2.24.0"/>
   <import addon="script.module.requests" />

@@ -1,3 +1,6 @@
+1.6
+- fix napisow
+
 1.5
 - wybor napisow (wlaczenie w opcjach)
 

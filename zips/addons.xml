@@ -1090,7 +1090,7 @@ Róbta co chceta! :)
     </extension>
 </addon>
 
-<addon id="plugin.video.playermb" version="1.5" name="PlayerPLmb" provider-name="mbebe">
+<addon id="plugin.video.playermb" version="1.6" name="PlayerPLmb" provider-name="mbebe">
 <requires>
   <import addon="xbmc.python" version="2.24.0"/>
   <import addon="script.module.requests" />
