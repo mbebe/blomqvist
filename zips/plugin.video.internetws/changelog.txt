@@ -1,3 +1,6 @@
+1.6.11
+- poprawka odtwarzania
+
 1.6.10
 - poprawka tv
 
