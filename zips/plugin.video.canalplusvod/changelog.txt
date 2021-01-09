@@ -1,3 +1,6 @@
+1.7.1
+- poprawka ServerHTTP
+
 1.6.3
 - update version
 

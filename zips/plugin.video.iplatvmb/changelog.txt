@@ -1,3 +1,6 @@
+1.7.7
+-fix android
+
 1.7
 - fix
 
