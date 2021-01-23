@@ -1,3 +1,6 @@
+1.9.11
+- fix fweb
+
 1.9.10
 - dodane resetoff
 

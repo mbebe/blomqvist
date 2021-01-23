@@ -1059,7 +1059,7 @@ Róbta co chceta! :)
 </extension>
 </addon>
 
-<addon id="plugin.video.pastebinVID" name="PASTEBIN PlayVid" version="1.9.10" provider-name="mbebe">
+<addon id="plugin.video.pastebinVID" name="PASTEBIN PlayVid" version="1.9.11" provider-name="mbebe">
     <requires>
         <import addon="xbmc.addon" version="17.9.910"/>
         <import addon="script.module.requests" />
