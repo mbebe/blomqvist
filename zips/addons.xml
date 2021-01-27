@@ -137,6 +137,33 @@
 </extension>
 </addon>
 
+<addon id="plugin.video.artetvpl" name="Arte.tv PL" version="0.1" provider-name="mbebe">
+    <requires>
+        <!-- <import addon="xbmc.python" version="3.0.0" /> -->
+        <import addon="script.module.requests" />
+        <import addon="script.module.six"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="main.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <description lang="pl">Arte.tv PL</description>
+        <disclaimer lang="pl">https://github.com/mbebe/blomqvist</disclaimer>
+        <summary lang="pl">Arte.tv PL</summary>
+        <description lang="en">Arte.tv PL</description>
+        <disclaimer lang="en">https://github.com/mbebe/blomqvist</disclaimer>
+        <summary lang="en">Arte.tv PL</summary>
+        <language>en</language>
+        <platform>all</platform>
+        <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+        <website>https://github.com/mbebe/blomqvist</website>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
+    </extension>
+</addon>
+
 <addon id="plugin.video.bajeczkiorg" name="Bajeczki.org" version="1.6" provider-name="mbebe">
     <requires>
         <import addon="xbmc.python" version="2.25.0"/>
