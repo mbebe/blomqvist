@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
-<addon id="plugin.video.internetws" name="Internetowa.tv" version="1.6.11" provider-name="mbebe">
+<addon id="plugin.video.internetws" name="Internetowa.tv" version="1.6.12" provider-name="mbebe">
 	<requires>
-		<import addon="xbmc.python" version="2.25.0"/>
+		<!--<import addon="xbmc.python" version="2.1.0"/>-->
 		<import addon="script.module.requests" />
-		<import addon="script.module.parsedom" version="2.5.2"/>
-		<import addon="script.module.elementtree" version="1.2.7"/>
+		<!--<import addon="script.module.elementtree" version="1.2.7"/>-->
+
 	</requires>
 	<extension point="xbmc.python.pluginsource" library="main.py">
 		<provides>video</provides>

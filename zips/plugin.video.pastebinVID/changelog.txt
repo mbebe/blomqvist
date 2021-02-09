@@ -1,3 +1,9 @@
+1.9.13
+- lista z pliku
+
+1.9.12
+- derot47
+
 1.9.11
 - fix fweb
 
