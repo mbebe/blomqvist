@@ -1,3 +1,7 @@
+﻿1.7
+- poprawka wyswietlania
+- PY3 (kodi19)
+
 1.6
 - wyświetlanie ostatniego video w wierszu (pokazuje 32 zamiast 24 video)
 - dodanie możliwości wyboru stron również dla konkretnych bajek
