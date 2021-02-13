@@ -1,4 +1,8 @@
-﻿1.7
+﻿1.8
+- poprawka odtwarzania
+- dodane FILMY
+
+1.7
 - poprawka wyswietlania
 - PY3 (kodi19)
 
