@@ -1,3 +1,6 @@
+1.7
+- KODI 19
+
 1.6
 - fix napisow
 

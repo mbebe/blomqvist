@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<addon id="plugin.video.canalplusvod" version="1.7.1" name="CanalPLUS-VOD" provider-name="mbebe">
+<addon id="plugin.video.canalplusvod" version="1.7.2" name="CanalPLUS-VOD" provider-name="mbebe">
 <requires>
-  <import addon="xbmc.addon" version="17.9.910"/>
+<!-- <import addon="xbmc.addon" version="17.9.910"/>-->
   <import addon="script.module.requests" />
   <import addon="script.module.inputstreamhelper" />
+
 </requires>
 <extension point="xbmc.python.pluginsource" library="main.py">
   <provides>video</provides>

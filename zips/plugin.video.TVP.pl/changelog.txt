@@ -1,3 +1,9 @@
+2.2.46
+- KODI 19
+
+2.2.45
+- poprawka jakosci(?)
+
 2.2.44
 - poprawka vod - dzieci
 

@@ -1,3 +1,7 @@
+1.7.2
+- poprawka logowania
+- KODI 19
+
 1.7.1
 - poprawka ServerHTTP
 

@@ -216,11 +216,12 @@
     </extension>
 </addon>
 
-<addon id="plugin.video.canalplusvod" version="1.7.1" name="CanalPLUS-VOD" provider-name="mbebe">
+<addon id="plugin.video.canalplusvod" version="1.7.2" name="CanalPLUS-VOD" provider-name="mbebe">
 <requires>
-  <import addon="xbmc.addon" version="17.9.910"/>
+<!-- <import addon="xbmc.addon" version="17.9.910"/>-->
   <import addon="script.module.requests" />
   <import addon="script.module.inputstreamhelper" />
+
 </requires>
 <extension point="xbmc.python.pluginsource" library="main.py">
   <provides>video</provides>
@@ -1118,33 +1119,33 @@ Róbta co chceta! :)
     </extension>
 </addon>
 
-<addon id="plugin.video.playermb" version="1.6" name="PlayerPLmb" provider-name="mbebe">
+<addon id="plugin.video.playermb" version="1.7" name="PlayerPLmb" provider-name="mbebe">
 <requires>
-  <import addon="xbmc.python" version="2.24.0"/>
-  <import addon="script.module.requests" />
-  <import addon="script.module.inputstreamhelper" version="0.3.3"/>
+<!-- <import addon="xbmc.python" version="3.0.0" /> -->
+    <import addon="script.module.requests" />
+    <import addon="script.module.inputstreamhelper" version="0.3.3"/>
 </requires>
 <extension point="xbmc.python.pluginsource" library="main.py">
-  <provides>video</provides>
+    <provides>video</provides>
 </extension>
 <extension point="xbmc.addon.metadata">
-  <summary lang="en">http://www.player.pl</summary>
-  <description lang="en">http://www.player.pl</description>
-  <disclaimer lang="en">A private use only. For bugs, requests or ge</disclaimer>
-  <language></language>
-  <platform>all</platform>
-  <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-  <forum></forum>
-  <website></website>
-  <assets>
-    <icon>icon.png</icon>
-    <fanart>fanart.jpg</fanart>
-    <screenshot>resources/screenshot-01.jpg</screenshot>
-    <screenshot>resources/screenshot-02.jpg</screenshot>
-  </assets>
-  <news>1.5
-   - wybor napisow (wlaczenie w opcjach)
-  </news>
+    <summary lang="en">http://www.player.pl</summary>
+    <description lang="en">http://www.player.pl</description>
+    <disclaimer lang="en">A private use only. For bugs, requests or ge</disclaimer>
+    <language></language>
+    <platform>all</platform>
+    <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+    <forum></forum>
+    <website></website>
+    <assets>
+        <icon>icon.png</icon>
+        <fanart>fanart.jpg</fanart>
+        <screenshot>resources/screenshot-01.jpg</screenshot>
+        <screenshot>resources/screenshot-02.jpg</screenshot>
+    </assets>
+    <news>1.7
+   - KODI 19
+    </news>
 </extension>
 </addon>
 
@@ -1418,9 +1419,9 @@ Róbta co chceta! :)
 </extension>
 </addon>
 
-<addon id="plugin.video.TVP.pl" name="TVP.pl" version="2.2.44" provider-name="mbebe">
+<addon id="plugin.video.TVP.pl" name="TVP.pl" version="2.2.46" provider-name="mbebe">
   <requires>
-    <import addon="xbmc.python" version="2.1.0"/>
+    <!-- <import addon="xbmc.python" version="2.1.0"/> -->
     <import addon="script.module.inputstreamhelper" version="0.3.3"/>
     <import addon="script.module.requests" />
   </requires>
@@ -1444,7 +1445,7 @@ Róbta co chceta! :)
   </extension>
 </addon>
 
-<addon id="plugin.video.tvpABON" name="TVP strefa abo" version="1.7" provider-name="mbebe">
+<addon id="plugin.video.tvpABON" name="TVP strefa abo" version="1.8" provider-name="mbebe">
 	<requires>
 		<!-- <import addon="xbmc.python" version="3.0.0" /> -->
 		<import addon="script.module.six"/>
