@@ -1,3 +1,5 @@
+1.2
+- KODI 19
 1.1
 - poprawka FAKTY
 1.0
