@@ -1,3 +1,6 @@
+1.6.13
+- poprawka logowania KODI19
+
 1.6.12
 -PY3 (kodi19)
 

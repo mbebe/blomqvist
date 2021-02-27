@@ -923,7 +923,7 @@ Róbta co chceta! :)
 </extension>
 </addon>
 
-<addon id="plugin.video.internetws" name="Internetowa.tv" version="1.6.12" provider-name="mbebe">
+<addon id="plugin.video.internetws" name="Internetowa.tv" version="1.6.13" provider-name="mbebe">
 	<requires>
 		<!--<import addon="xbmc.python" version="2.1.0"/>-->
 		<import addon="script.module.requests" />
