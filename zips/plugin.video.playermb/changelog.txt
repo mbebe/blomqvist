@@ -1,3 +1,6 @@
+1.8
+- fix niezsynchronizowanych napisow
+- zapisywanie domyslnego jezyka napisow
 1.7
 - KODI 19
 
