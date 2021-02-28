@@ -1,3 +1,7 @@
+1.8
+- fix niezsynchronizowanych napisow
+- zapisywanie domyslnego jezyka napisow
+- poprawka z dzieleniem
 1.7
 - KODI 19
 
