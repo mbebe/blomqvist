@@ -1,3 +1,6 @@
+2.2.47
+- poprawka TVP live
+
 2.2.46
 - KODI 19
 
