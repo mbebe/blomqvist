@@ -1,3 +1,6 @@
+1.9
+- poprawka wyswietlania BRAK W PAKIECIE
+
 1.8
 - fix niezsynchronizowanych napisow
 - zapisywanie domyslnego jezyka napisow

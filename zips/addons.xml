@@ -216,7 +216,7 @@
     </extension>
 </addon>
 
-<addon id="plugin.video.canalplusvod" version="1.7.3" name="CanalPLUS-VOD" provider-name="mbebe">
+<addon id="plugin.video.canalplusvod" version="1.7.4" name="CanalPLUS-VOD" provider-name="mbebe">
 <requires>
 <!-- <import addon="xbmc.addon" version="17.9.910"/>-->
   <import addon="script.module.requests" />
@@ -1142,7 +1142,7 @@ Róbta co chceta! :)
     </extension>
 </addon>
 
-<addon id="plugin.video.playermb" version="1.8" name="PlayerPLmb" provider-name="mbebe">
+<addon id="plugin.video.playermb" version="1.9" name="PlayerPLmb" provider-name="mbebe">
 <requires>
 <!-- <import addon="xbmc.python" version="3.0.0" /> -->
     <import addon="script.module.requests" />
@@ -1445,7 +1445,7 @@ Róbta co chceta! :)
 </extension>
 </addon>
 
-<addon id="plugin.video.TVP.pl" name="TVP.pl" version="2.2.47" provider-name="mbebe">
+<addon id="plugin.video.TVP.pl" name="TVP.pl" version="2.2.48" provider-name="mbebe">
   <requires>
     <!-- <import addon="xbmc.python" version="2.1.0"/> -->
     <import addon="script.module.inputstreamhelper" version="0.3.3"/>
