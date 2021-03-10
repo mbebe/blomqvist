@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<addon id="plugin.video.HDseans" version="1.8" name="HDseans" provider-name="mbebe">
+<addon id="plugin.video.HDseans" version="1.9" name="HDseans" provider-name="mbebe">
 <requires>
-	<import addon="xbmc.python" version="2.1.0"/>
-	<import addon="script.common.plugin.cache" version="2.5.5"/> 
+	<import addon="script.module.six"/>
 	<import addon="script.module.resolveurl" version="5.0.12b"/>
 	<import addon="script.module.requests" /> 
-	<import addon="script.module.parsedom" version="2.5.2"/>  
+	<import addon="script.common.plugin.cache" version="2.5.5"/> 
 
 </requires>
 <extension point="xbmc.python.pluginsource" library="main.py">
