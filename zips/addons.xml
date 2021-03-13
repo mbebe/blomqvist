@@ -1337,20 +1337,19 @@ Róbta co chceta! :)
     </extension>
 </addon>
 
-<addon id="plugin.video.sportpremium" name="Sport Premium" version="1.2" provider-name="mbebe">
+<addon id="plugin.video.sportpremium" name="Sport Premium" version="1.4" provider-name="mbebe">
 	<requires>
-		<import addon="xbmc.python" version="2.25.0"/>
 		<import addon="script.module.requests" />
-		<import addon="script.module.parsedom" version="2.5.2"/>
+		<import addon="script.module.six"/>
 		<import addon="script.module.inputstreamhelper" version="0.3.3"/>
 	</requires>
 	<extension point="xbmc.python.pluginsource" library="main.py">
 		<provides>video</provides>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-		<description lang="pl">Canal Plus Sport, Eleven Sports</description>
+		<description lang="pl">Emocje.tv, Eleven Sports</description>
 		<disclaimer lang="pl">...</disclaimer>
-		<summary lang="pl">Canal Plus Sport, Eleven Sports</summary>
+		<summary lang="pl">Emocje.tv, Eleven Sports</summary>
 		<language>pl</language>
 		<platform>all</platform>
 		<license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
