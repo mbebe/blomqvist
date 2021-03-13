@@ -1003,6 +1003,29 @@ Róbta co chceta! :)
 </extension>
 </addon>
 
+<addon id="plugin.video.kimcartoon" name="KimCartoon" version="0.1" provider-name="mbebe">
+    <requires>
+        <import addon="script.module.requests" />
+        <import addon="script.module.six"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="main.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <description lang="en">kimcartoon</description>
+        <disclaimer lang="en">https://github.com/mbebe/blomqvist</disclaimer>
+        <summary lang="en">Watch cartoons</summary>
+        <language>en</language>
+        <platform>all</platform>
+        <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+        <website>https://github.com/mbebe/blomqvist</website>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
+    </extension>
+</addon>
+
 <addon id="plugin.video.kreskowkitv" name="Kreskówki.tv" version="1.5" provider-name="mbebe">
     <requires>
         <import addon="xbmc.python" version="2.25.0"/>
@@ -1175,7 +1198,7 @@ Róbta co chceta! :)
 </extension>
 </addon>
 
-<addon id="plugin.video.PLsportowo" name="Sportowa TV" version="2.0.8" provider-name="mbebe">
+<addon id="plugin.video.PLsportowo" name="Sportowa TV" version="2.0.9" provider-name="mbebe">
 	<requires>
 		<!-- <import addon="xbmc.python" version="3.0.0" /> -->
 		<import addon="script.module.six"/>
