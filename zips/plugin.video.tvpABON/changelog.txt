@@ -1,3 +1,6 @@
+1.9
+- stronicowanie
+
 1.8
 - KODI 19
 
