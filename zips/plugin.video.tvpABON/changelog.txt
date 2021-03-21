@@ -1,3 +1,6 @@
+1.11
+- fix stronicowanie
+
 1.10
 - fix updt
 
