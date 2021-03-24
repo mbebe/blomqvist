@@ -1,0 +1,15 @@
+Version 5.1.27 (March 14, 2021)
+- Code Base Changes:
+    - None
+
+- Resolvers Added:
+    - vidmojo
+ 
+- Resolvers Fixed/Updated:
+    - None
+
+- Resolvers Removed
+    - None
+
+- Languages Added/Updated
+    - None
