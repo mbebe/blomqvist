@@ -1,2 +1,5 @@
+0.2
+- poprawka szukania
+
 0.1
 - initial version 

@@ -47,7 +47,7 @@
 	</extension>
 </addon>
 
-<addon id="plugin.video.3ksodus" name="3ksodus.com" version="0.1" provider-name="mbebe">
+<addon id="plugin.video.3ksodus" name="3ksodus.com" version="0.2" provider-name="mbebe">
     <requires>
         <import addon="script.module.requests" />
         <import addon="script.module.six"/>
@@ -1100,7 +1100,7 @@ Róbta co chceta! :)
 	</extension>
 </addon>
 
-<addon id="plugin.video.ncplusgo" name="NC plus GO" version="1.2.13" provider-name="mbebe">
+<addon id="plugin.video.ncplusgo" name="NC plus GO" version="1.2.14" provider-name="mbebe">
     <requires>
         <import addon="xbmc.addon" version="17.9.910"/>
         <import addon="script.module.requests" />
@@ -1384,11 +1384,10 @@ Róbta co chceta! :)
 	</extension>
 </addon>
 
-<addon id="plugin.video.subsmovies" name="Subsmovies.club" version="0.5" provider-name="mbebe">
+<addon id="plugin.video.subsmovies" name="Subsmovies.club" version="0.6" provider-name="mbebe">
     <requires>
-        <import addon="xbmc.python" version="2.25.0"/>
         <import addon="script.module.requests" />
-        <import addon="script.module.parsedom" version="2.5.2"/>
+        <import addon="script.module.six"/>
         <import addon="script.module.resolveurl"/>
     </requires>
     <extension point="xbmc.python.pluginsource" library="main.py">
@@ -1435,11 +1434,11 @@ Róbta co chceta! :)
 </extension>
 </addon>
 
-<addon id="plugin.video.themoviebaynet" name="Themoviebay.net" version="0.1" provider-name="mbebe">
+<addon id="plugin.video.themoviebaynet" name="Themoviebay.net" version="0.2" provider-name="mbebe">
     <requires>
-        <import addon="xbmc.python" version="2.25.0"/>
         <import addon="script.module.requests" />
-		<import addon="script.module.resolveurl" version="5.0.00"/>
+        <import addon="script.module.resolveurl" version="5.0.00"/>
+        <import addon="script.module.six"/>
     </requires>
     <extension point="xbmc.python.pluginsource" library="main.py">
         <provides>video</provides>

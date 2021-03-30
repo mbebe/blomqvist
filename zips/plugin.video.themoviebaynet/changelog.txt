@@ -1,2 +1,5 @@
+0.2
+- PY3 (Kodi19)
+
 0.1
 - initial version 

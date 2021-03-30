@@ -1,3 +1,6 @@
+0.6
+- PY3 (Kodi19)
+
 0.5
 - new host
 - new name 
