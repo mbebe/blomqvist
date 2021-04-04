@@ -1,4 +1,7 @@
-﻿1.8
+﻿1.9
+- poprawka stronicowania
+
+1.8
 - poprawka odtwarzania
 - dodane FILMY
 
