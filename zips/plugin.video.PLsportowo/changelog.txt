@@ -1,3 +1,9 @@
+2.0.11
+- added rojadirect
+- added crackstreams
+- fix vipleague
+- fix mydecode
+
 2.0.10
 - fix mydecode
 

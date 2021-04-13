@@ -1,3 +1,22 @@
+1.7.4.6
+- dodane nowe kanaly do grupowania listy kanalow
+- poprawka konstrukcji linku przy eksporcie do m3u
+
+1.7.4.5
+- poprawka grupowania kanalow w m3u
+
+1.7.4.4
+- poprawka eksportu linkow, grupowanie kanalow w m3u
+
+1.7.4.3
+- eksport listy m3u do pliku
+
+1.7.4.2
+- poprawka kodu
+
+1.7.4.1
+- poprawka odtwarzania Live TV z m3u
+
 1.7.4
 - poprawka odtwarzania (esport4)
 
