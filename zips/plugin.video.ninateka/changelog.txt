@@ -1,3 +1,7 @@
+1.6
+- PY3 (Kodi19)
+- nowe API
+
 1.5
 - poprawione stronicowanie
 

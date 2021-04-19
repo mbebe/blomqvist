@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<addon id="plugin.video.ninateka" version="1.5" name="Ninateka" provider-name="mbebe">
+<addon id="plugin.video.ninateka" version="1.6" name="Ninateka" provider-name="mbebe">
 <requires>
-  <import addon="xbmc.python" version="2.1.0"/>
+  <import addon="script.module.inputstreamhelper" version="0.3.3"/>
+  <import addon="script.module.requests" />
 </requires>
 
 <extension point="xbmc.python.pluginsource" library="main.py">
