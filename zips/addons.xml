@@ -1459,7 +1459,7 @@ Róbta co chceta! :)
     </extension>
 </addon>
 
-<addon id="plugin.video.tvn24pl" version="1.4" name="TVN24.PL" provider-name="mbebe">
+<addon id="plugin.video.tvn24pl" version="1.5" name="TVN24.PL" provider-name="mbebe">
 <requires>
   <import addon="xbmc.addon" version="17.9.910"/>
   <import addon="script.module.requests" />
