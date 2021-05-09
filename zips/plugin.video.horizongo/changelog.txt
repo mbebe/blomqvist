@@ -1,3 +1,6 @@
+2.1
+- poprawka na zadanie, filmy
+
 2.0
 - zmiana na UPC TV GO
 
