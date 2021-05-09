@@ -1,3 +1,6 @@
+1.6
+- poprawka odtwarzania
+
 1.5
 - sortowanie odcinkow
 
