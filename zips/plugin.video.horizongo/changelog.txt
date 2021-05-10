@@ -1,3 +1,6 @@
+2.2
+- renewal_token fix
+
 2.1
 - poprawka na zadanie, filmy
 
