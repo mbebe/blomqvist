@@ -1,0 +1,1 @@
+# script.module.js2py

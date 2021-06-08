@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
-<addon id="plugin.video.themoviebaynet" name="Themoviebay.net" version="0.2" provider-name="mbebe">
+<addon id="plugin.video.themoviebaynet" name="Themoviebay.net" version="0.3" provider-name="mbebe">
     <requires>
         <import addon="script.module.requests" />
         <import addon="script.module.resolveurl" version="5.0.00"/>

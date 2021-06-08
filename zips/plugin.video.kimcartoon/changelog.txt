@@ -1,2 +1,5 @@
+0.2
+- fix playing 
+
 0.1
 - initial version 

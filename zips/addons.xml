@@ -1027,7 +1027,7 @@ Róbta co chceta! :)
 </extension>
 </addon>
 
-<addon id="plugin.video.kimcartoon" name="KimCartoon" version="0.1" provider-name="mbebe">
+<addon id="plugin.video.kimcartoon" name="KimCartoon" version="0.2" provider-name="mbebe">
     <requires>
         <import addon="script.module.requests" />
         <import addon="script.module.six"/>
@@ -1223,33 +1223,33 @@ Róbta co chceta! :)
 </extension>
 </addon>
 
-<addon id="plugin.video.PLsportowo" name="Sportowa TV" version="2.0.12" provider-name="mbebe">
-	<requires>
-		<!-- <import addon="xbmc.python" version="3.0.0" /> -->
-		<import addon="script.module.six"/>
-		<import addon="script.module.requests" />
-		<import addon="script.module.inputstreamhelper" version="0.3.3"/>
-		<import addon="script.module.resolveurl" version="5.0.00"/>
-		<import addon="script.module.pytz" version="2014.2"/>
-
-	</requires>
-	<extension point="xbmc.python.pluginsource" library="maintv.py">
-		<provides>video</provides>
-	</extension>
-	<extension point="xbmc.service" library="serverHTTP.py" />
-	<extension point="xbmc.addon.metadata">
-		<description>Wydarzenia sportowe</description>
-		<disclaimer>https://github.com/mbebe/blomqvist</disclaimer>
-		<summary>Relacje Live</summary>
-		<language></language>
-		<platform>all</platform>
-		<license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-		<website></website>
-		<assets>
-			<icon>icon.png</icon>
-			<fanart>fanart.jpg</fanart>
-		</assets>
-	</extension>
+<addon id="plugin.video.PLsportowo" name="Sportowa TV" version="2.0.13" provider-name="mbebe">
+    <requires>
+        <!-- <import addon="xbmc.python" version="3.0.0" /> -->
+        <import addon="script.module.six"/>
+        <import addon="script.module.requests" />
+        <import addon="script.module.inputstreamhelper" version="0.3.3"/>
+        <import addon="script.module.resolveurl" version="5.0.00"/>
+        <import addon="script.module.pytz" version="2014.2"/>
+        <import addon="script.module.js2py" version="3.0.0"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="maintv.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.service" library="serverHTTP.py" />
+    <extension point="xbmc.addon.metadata">
+        <description>Wydarzenia sportowe</description>
+        <disclaimer>https://github.com/mbebe/blomqvist</disclaimer>
+        <summary>Relacje Live</summary>
+        <language></language>
+        <platform>all</platform>
+        <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+        <website></website>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
+    </extension>
 </addon>
 
 <addon id="plugin.video.ramicpolsat" version="1.3" name="PolsatNews" provider-name="mbebe">
@@ -1436,7 +1436,7 @@ Róbta co chceta! :)
 </extension>
 </addon>
 
-<addon id="plugin.video.themoviebaynet" name="Themoviebay.net" version="0.2" provider-name="mbebe">
+<addon id="plugin.video.themoviebaynet" name="Themoviebay.net" version="0.3" provider-name="mbebe">
     <requires>
         <import addon="script.module.requests" />
         <import addon="script.module.resolveurl" version="5.0.00"/>
@@ -1681,7 +1681,45 @@ Róbta co chceta! :)
         </assets>
 </addon>
 
-<addon id="script.module.resolveurl" name="ResolveURL" version="5.1.27" provider-name="gujal">
+<addon id="script.module.js2py" name="js2py" version="3.0.0" provider-name="Addons4Kodi">
+  <requires>
+    <import addon="script.module.six" version="1.15.0"/>
+    <import addon="script.module.pyjsparser" version="3.0.0"/>
+    <import addon="script.module.tzlocal" version="2.0.0"/>
+  </requires>
+  <extension point="xbmc.python.module" library="lib" />
+  <extension point="xbmc.addon.metadata">
+    <summary>Pure Python JavaScript Translator/Interpreter</summary>
+    <description>Packed for Kodi from https://github.com/PiotrDabkowski/Js2Py</description>
+    <platform>all</platform>
+    <language></language>
+    <license>MIT</license>
+    <forum></forum>
+    <website>https://github.com/PiotrDabkowski/Js2Py</website>
+    <source>https://github.com/PiotrDabkowski/Js2Py</source>
+    <email></email>
+  </extension>
+</addon>
+
+<addon id="script.module.pyjsparser" name="pyjsparser" version="3.0.0" provider-name="Addons4Kodi">
+  <requires>
+    <!-- <import addon="xbmc.python" version="3.0.0" /> -->
+  </requires>
+  <extension point="xbmc.python.module" library="lib" />
+  <extension point="xbmc.addon.metadata">
+    <summary>Pure Python JavaScript Translator/Interpreter</summary>
+    <description>Packed for Kodi from https://github.com/PiotrDabkowski/pyjsparser</description>
+    <platform>all</platform>
+    <language></language>
+    <license>MIT</license>
+    <forum></forum>
+    <website>https://github.com/PiotrDabkowski/pyjsparser</website>
+    <source>https://github.com/PiotrDabkowski/pyjsparser</source>
+    <email></email>
+  </extension>
+</addon>
+
+<addon id="script.module.resolveurl" name="ResolveURL" version="5.1.34" provider-name="gujal">
     <requires>
         <!-- <import addon="xbmc.python" version="3.0.0" /> -->
         <import addon="script.module.six" />
