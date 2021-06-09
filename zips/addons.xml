@@ -618,6 +618,29 @@ Tabele, terminarze, listy strzelców
 	</extension>
 </addon>
 
+<addon id="plugin.video.fboxto" name="fbox.to" version="1.0" provider-name="mbebe">
+    <requires>
+        <import addon="script.module.requests" />
+        <import addon="script.module.resolveurl"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="main.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <description>fbox.to</description>
+        <disclaimer>https://github.com/mbebe/blomqvist</disclaimer>
+        <summary>fmovies.to</summary>
+        <language>pl</language>
+        <platform>all</platform>
+        <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+        <website>https://github.com/mbebe/blomqvist</website>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
+    </extension>
+</addon>
+
 <addon id="plugin.video.filmancc" version="2.7" name="filman.cc" provider-name="mbebe">
 <requires>
   <import addon="script.module.resolveurl" version="5.0.00"/>
@@ -779,6 +802,30 @@ Róbta co chceta! :)
   <news>
   </news>
 </extension>
+</addon>
+
+<addon id="plugin.video.gonettv" name="goNET.TV - LEPSI.TV" version="1.3" provider-name="mbebe">
+	<requires>
+
+		<import addon="script.module.requests" />
+
+	</requires>
+	<extension point="xbmc.python.pluginsource" library="main.py">
+		<provides>video</provides>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<description>GonetTV</description>
+		<disclaimer></disclaimer>
+		<summary>GonetTV</summary>
+		<language>pl</language>
+		<platform>all</platform>
+		<license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+		<website></website>
+		<assets>
+			<icon>icon.png</icon>
+			<fanart>fanart.jpg</fanart>
+		</assets>
+	</extension>
 </addon>
 
 <addon id="plugin.video.goojara" name="goojara.to" version="0.3" provider-name="mbebe">
