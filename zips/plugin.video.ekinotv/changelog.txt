@@ -1,3 +1,6 @@
+2.6.6
+- KODI 19
+
 2.6.5
 - stronicowanie seriali
 
