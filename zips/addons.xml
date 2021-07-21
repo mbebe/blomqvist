@@ -1274,7 +1274,7 @@ Róbta co chceta! :)
 </extension>
 </addon>
 
-<addon id="plugin.video.PLsportowo" name="Sportowa TV" version="2.0.14" provider-name="mbebe">
+<addon id="plugin.video.PLsportowo" name="Sportowa TV" version="2.0.15" provider-name="mbebe">
     <requires>
         <!-- <import addon="xbmc.python" version="3.0.0" /> -->
         <import addon="script.module.six"/>
@@ -1770,7 +1770,7 @@ Róbta co chceta! :)
   </extension>
 </addon>
 
-<addon id="script.module.resolveurl" name="ResolveURL" version="5.1.34" provider-name="gujal">
+<addon id="script.module.resolveurl" name="ResolveURL" version="5.1.36" provider-name="gujal">
     <requires>
         <!-- <import addon="xbmc.python" version="3.0.0" /> -->
         <import addon="script.module.six" />

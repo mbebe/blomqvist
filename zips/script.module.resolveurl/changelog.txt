@@ -1,12 +1,13 @@
-Version 5.1.34 (June 08, 2021)
+Version 5.1.36 (July 02, 2021)
 - Code Base Changes:
-    - Drop to TLS1.1 if necessary for cloudflaressl
+    - None
 
 - Resolvers Added:
-    - None
+    - UpVideo
+    - VUpload
  
 - Resolvers Fixed/Updated:
-    - None
+    - clicknupload
 
 - Resolvers Removed
     - None
