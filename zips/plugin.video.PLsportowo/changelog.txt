@@ -1,3 +1,6 @@
+2.0.16
+- fix mydecode
+
 2.0.15
 - fix vipleague
 
