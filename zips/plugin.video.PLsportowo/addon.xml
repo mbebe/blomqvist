@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
-<addon id="plugin.video.PLsportowo" name="Sportowa TV" version="2.0.16" provider-name="mbebe">
+<addon id="plugin.video.PLsportowo" name="Sportowa TV" version="2.0.17" provider-name="mbebe">
     <requires>
         <!-- <import addon="xbmc.python" version="3.0.0" /> -->
         <import addon="script.module.six"/>
         <import addon="script.module.requests" />
         <import addon="script.module.inputstreamhelper" version="0.3.3"/>
-        <import addon="script.module.resolveurl" version="5.0.00"/>
+        <import addon="script.module.resolveurl" version="5.1.30"/>
         <import addon="script.module.pytz" version="2014.2"/>
         <import addon="script.module.js2py" version="3.0.0"/>
     </requires>
