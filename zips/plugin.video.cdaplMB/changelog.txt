@@ -1,0 +1,6 @@
+1.1
+- dodane epg
+- zmiana fanarty i ikony (kashkash18)
+
+1.0
+- initial version
