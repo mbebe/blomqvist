@@ -1781,7 +1781,7 @@ Róbta co chceta! :)
 </extension>
 </addon>
 
-	<addon id="repository.mbebe" name="mbebe" version="0.6" provider-name="mbebe">
+	<addon id="repository.mbebe" name="mbebe" version="0.7" provider-name="mbebe">
 		<extension point="xbmc.addon.repository" name="mbebe">
 			<info compressed="false">https://raw.githubusercontent.com/mbebe/blomqvist/master/zips/addons.xml</info>
 			<checksum>https://raw.githubusercontent.com/mbebe/blomqvist/master/zips/addons.xml.md5</checksum>
