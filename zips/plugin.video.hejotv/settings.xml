@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+	<category label="hejo.tv">
+		<setting id="username"  type="text" label="Login" default="" />
+		<setting id="password"  type="text" label="Hasło" option="hidden"  default="" />
+		<setting id="logowanie" type="bool" label="Logowanie w serwisie" default="false" enable=/>
+	</category>	  
+</settings>

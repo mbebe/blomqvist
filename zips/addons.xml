@@ -605,7 +605,7 @@ Do not install this addon if you are using a build.
 	</extension>
 </addon>
 
-<addon id="plugin.video.ekstraklasa" name="Ekstraklasa" version="4.2.10" provider-name="mbebe">
+<addon id="plugin.video.ekstraklasa" name="Ekstraklasa" version="4.2.11" provider-name="mbebe">
 	<requires>
 		<!--<import addon="xbmc.python" version="2.1.0"/>-->
 		<import addon="script.module.resolveurl"/>
@@ -881,7 +881,7 @@ Róbta co chceta! :)
     </extension>
 </addon>
 
-<addon id="plugin.video.govodtv" name="govod.tv" version="1.6" provider-name="mbebe">
+<addon id="plugin.video.govodtv" name="govod.tv" version="1.7" provider-name="mbebe">
     <requires>
         <!-- <import addon="xbmc.python" version="3.0.0" /> -->
         <import addon="script.module.requests" />
@@ -935,7 +935,7 @@ Róbta co chceta! :)
 </extension>
 </addon>
 
-<addon id="plugin.video.hejotv" name="hejo.tv" version="2.2.88" provider-name="mbebe">
+<addon id="plugin.video.hejotv" name="hejo.tv" version="2.2.90" provider-name="mbebe">
 	<requires>
 
 		<import addon="script.module.requests" />
@@ -1266,7 +1266,7 @@ Róbta co chceta! :)
     </extension>
 </addon>
 
-<addon id="plugin.video.pgobox" version="1.5" name="PolsatBOX_GO" provider-name="mbebe">
+<addon id="plugin.video.pgobox" version="1.7" name="Polsat Box Go" provider-name="mbebe">
 <requires>
   <import addon="xbmc.addon" version="17.9.910"/>
   <import addon="script.module.requests" />
@@ -1290,8 +1290,9 @@ Róbta co chceta! :)
     <screenshot>resources/screenshot-01.jpg</screenshot>
     <screenshot>resources/screenshot-02.jpg</screenshot>
   </assets>
-  <news>ver. 1.5 09-09-21
-- POLSAT BOX GO</news>
+  <news>ver. 1.7 15-09-21
+- zmiana nazwy
+- sprawdzanie certyfikatu</news>
 </extension>
 </addon>
 
