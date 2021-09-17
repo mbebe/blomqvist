@@ -1,3 +1,6 @@
+1.11
+- fix cda (odtwarzanie max jakosci)
+
 1.10
 - fix cda
 

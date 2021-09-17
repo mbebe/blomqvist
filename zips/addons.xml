@@ -904,7 +904,7 @@ Róbta co chceta! :)
     </extension>
 </addon>
 
-<addon id="plugin.video.HDseans" version="1.10" name="HDseans" provider-name="mbebe">
+<addon id="plugin.video.HDseans" version="1.11" name="HDseans" provider-name="mbebe">
 <requires>
 	<import addon="script.module.six"/>
 	<import addon="script.module.resolveurl" version="5.0.12b"/>
