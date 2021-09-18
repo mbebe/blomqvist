@@ -1,3 +1,6 @@
+1.7.4.7
+- stronicowanie w vod
+
 1.7.4.6
 - dodane nowe kanaly do grupowania listy kanalow
 - poprawka konstrukcji linku przy eksporcie do m3u
