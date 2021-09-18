@@ -23,30 +23,6 @@
 	</extension>
 </addon>
 
-<addon id="plugin.video.3filmy" name="3filmy.com" version="1.7" provider-name="mbebe">
-	<requires>
-		<import addon="xbmc.python" version="2.25.0"/>
-		<import addon="script.module.requests" />
-		<import addon="script.module.parsedom" version="2.5.2"/>
-	</requires>
-	<extension point="xbmc.python.pluginsource" library="main.py">
-		<provides>video</provides>
-	</extension>
-	<extension point="xbmc.addon.metadata">
-		<description>3filmy.com</description>
-		<disclaimer>https://github.com/mbebe/blomqvist</disclaimer>
-		<summary>3filmy.com</summary>
-		<language>pl</language>
-		<platform>all</platform>
-		<license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-		<website>https://github.com/mbebe/blomqvist</website>
-		<assets>
-			<icon>icon.png</icon>
-			<fanart>fanart.jpg</fanart>
-		</assets>
-	</extension>
-</addon>
-
 <addon id="plugin.video.3ksodus" name="3ksodus.com" version="0.2" provider-name="mbebe">
     <requires>
         <import addon="script.module.requests" />
@@ -70,35 +46,6 @@
             <fanart>fanart.jpg</fanart>
         </assets>
     </extension>
-</addon>
-
-<addon id="plugin.video.alantvsport" name="HulkStream" version="2.2.1" provider-name="mbebe">
-	<requires>
-		<import addon="xbmc.python" version="2.25.0"/>
-		<import addon="script.module.requests" />
-		<import addon="script.module.parsedom" version="2.5.2"/>
-		<import addon="script.module.resolveurl" version="5.0.12b"/>
-	</requires>
-	<extension point="xbmc.python.pluginsource" library="main.py">
-		<provides>video</provides>
-	</extension>
-	<extension point="xbmc.addon.metadata">
-		<description lang="pl">HulkStream</description>
-		<disclaimer lang="pl">https://github.com/mbebe/blomqvist</disclaimer>
-		<summary lang="pl">HulkStream</summary>
-		<description lang="en">HulkStream</description>
-		<disclaimer lang="en">https://github.com/mbebe/blomqvist</disclaimer>
-		<summary lang="en">HulkStream</summary>
-		<language></language>
-		<platform>all</platform>
-		<license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-		<forum>https://github.com/mbebe/blomqvist/issues</forum>
-		<website>https://github.com/mbebe/blomqvist</website>
-		<assets>
-			<icon>icon.png</icon>
-			<fanart>fanart.jpg</fanart>
-		</assets>
-	</extension>
 </addon>
 
 <addon id="plugin.video.alltube.tv" version="2.6.8" name="Alltube.tv" provider-name="mbebe">
@@ -332,7 +279,7 @@
 </extension>
 </addon>
 
-<addon id="plugin.video.cdaplMB" version="1.1" name="cda.pl_v2" provider-name="mbebe">
+<addon id="plugin.video.cdaplMB" version="1.2" name="CDA.pl + CDA TV" provider-name="mbebe">
 <requires>
     <import addon="script.module.requests"/>
     <import addon="script.module.inputstreamhelper" version="0.3.3"/>
@@ -386,29 +333,6 @@
   <news>
   </news>
 </extension>
-</addon>
-
-<addon id="plugin.video.cpgo" name="Cyfrowy Polsat GO" version="1.5" provider-name="mbebe">
-	<requires>
-		<import addon="script.module.requests" />
-		<import addon="script.module.inputstreamhelper" version="0.3.3"/>
-	</requires>
-	<extension point="xbmc.python.pluginsource" library="main.py">
-		<provides>video</provides>
-	</extension>
-	<extension point="xbmc.addon.metadata">
-		<description lang="pl">Cyfrowy Polsat GO</description>
-		<disclaimer lang="pl">...</disclaimer>
-		<summary lang="pl">Cyfrowy Polsat GO</summary>
-		<language>pl</language>
-		<platform>all</platform>
-		<license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-		<website>...</website>
-		<assets>
-			<icon>icon.png</icon>
-			<fanart></fanart>
-		</assets>
-	</extension>
 </addon>
 
 <addon id="plugin.video.darmowatv" name="darmowaTV" version="1.8.9" provider-name="mbebe">
@@ -1073,36 +997,6 @@ Róbta co chceta! :)
 	</extension>
 </addon>
 
-<addon id="plugin.video.iplatvmb" version="1.7.9" name="IplaTVmb" provider-name="mbebe">
-<requires>
-  <import addon="xbmc.addon" version="17.9.910"/>
-  <import addon="script.module.requests" />
-  <import addon="script.module.inputstreamhelper" />
-</requires>
-<extension point="xbmc.python.pluginsource" library="main.py">
-  <provides>video</provides>
-</extension>
-<extension point="xbmc.addon.metadata">
-  <summary lang="en">http://www.ipla.pl</summary>
-  <description lang="en">http://www.ipla.pl</description>
-  <disclaimer lang="en">A private use only. For bugs, requests or ge</disclaimer>
-  <language></language>
-  <platform>all</platform>
-  <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-  <forum></forum>
-  <website></website>
-  <assets>
-    <icon>icon.png</icon>
-    <fanart>fanart.jpg</fanart>
-    <screenshot>resources/screenshot-01.jpg</screenshot>
-    <screenshot>resources/screenshot-02.jpg</screenshot>
-  </assets>
-  <news>
- ...
-  </news>
-</extension>
-</addon>
-
 <addon id="plugin.video.kimcartoon" name="KimCartoon" version="0.2" provider-name="mbebe">
     <requires>
         <import addon="script.module.requests" />
@@ -1266,7 +1160,7 @@ Róbta co chceta! :)
     </extension>
 </addon>
 
-<addon id="plugin.video.pgobox" version="1.7" name="Polsat Box Go" provider-name="mbebe">
+<addon id="plugin.video.pgobox" version="1.8" name="Polsat Box Go" provider-name="mbebe">
 <requires>
   <import addon="xbmc.addon" version="17.9.910"/>
   <import addon="script.module.requests" />
@@ -1358,7 +1252,7 @@ Róbta co chceta! :)
     </extension>
 </addon>
 
-<addon id="plugin.video.polsatgo" name="Polsat GO" version="1.5" provider-name="mbebe">
+<addon id="plugin.video.polsatgo" name="Polsat GO" version="1.7" provider-name="mbebe">
 	<requires>
 		<import addon="script.module.requests" />
 		<import addon="script.module.inputstreamhelper" version="0.3.3"/>

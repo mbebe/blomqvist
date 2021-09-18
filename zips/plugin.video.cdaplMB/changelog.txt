@@ -1,3 +1,8 @@
+1.2
+- poprawka szukania
+- poprawka dla fanarta
+- zmiana nazwy
+
 1.1
 - dodane epg
 - zmiana fanarty i ikony (kashkash18)
