@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.video.cdaplMB" version="1.2" name="CDA.pl + CDA TV" provider-name="mbebe">
+<addon id="plugin.video.cdaplMB" version="1.3" name="CDA.pl + CDA TV" provider-name="mbebe">
 <requires>
     <import addon="script.module.requests"/>
     <import addon="script.module.inputstreamhelper" version="0.3.3"/>
