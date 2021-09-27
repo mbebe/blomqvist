@@ -1,0 +1,65 @@
+1.7.4.7
+- stronicowanie w vod
+
+1.7.4.6
+- dodane nowe kanaly do grupowania listy kanalow
+- poprawka konstrukcji linku przy eksporcie do m3u
+
+1.7.4.5
+- poprawka grupowania kanalow w m3u
+
+1.7.4.4
+- poprawka eksportu linkow, grupowanie kanalow w m3u
+
+1.7.4.3
+- eksport listy m3u do pliku
+
+1.7.4.2
+- poprawka kodu
+
+1.7.4.1
+- poprawka odtwarzania Live TV z m3u
+
+1.7.4
+- poprawka odtwarzania (esport4)
+
+1.7.3
+- poprawka logowania
+
+1.7.2
+- poprawka logowania
+- KODI 19
+
+1.7.1
+- poprawka ServerHTTP
+
+1.6.3
+- update version
+
+1.6.2
+- poprawka logowania
+
+1.6.1
+- poprawka logowania
+
+1.6
+- poprawka szukania
+
+1.5
+- poprawka KANALY na zadanie
+
+1.4
+- dodane kateogorie
+- poprawka odtwarzania
+
+1.3 
+- poprawka menu
+
+1.2
+- poprawka wyswietlania
+
+1.1
+- poprawka wyswietlania
+
+1.0
+- initial version

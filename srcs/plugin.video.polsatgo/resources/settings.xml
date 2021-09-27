@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+	<category label="Polsat Go">
+		<setting type="lsep" label="Logowanie" />
+		<setting id="usernameCP"  type="text" label="Login" default="" />
+		<setting id="passwordCP"  type="text" label="Hasło" option="hidden"  />
+		<setting id="logowanie4" type="bool" label="Logowanie w serwisie" default="false" enable=/>
+	</category>	
+
+</settings>

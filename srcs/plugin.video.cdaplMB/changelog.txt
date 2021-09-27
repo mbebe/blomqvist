@@ -1,0 +1,17 @@
+1.4
+- PY3 poprawka
+
+1.3
+- poprawka - foldery (ulubione)
+
+1.2
+- poprawka szukania
+- poprawka dla fanarta
+- zmiana nazwy
+
+1.1
+- dodane epg
+- zmiana fanarty i ikony (kashkash18)
+
+1.0
+- initial version

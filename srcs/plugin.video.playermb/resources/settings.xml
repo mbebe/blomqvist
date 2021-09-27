@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+    <category label="Napisy" >
+        <setting id="subtitles" type="bool" label="Wybór napisów" default="false" enable="true"/>
+        <setting id="subtitles_lang_default" type="text" label="Domyślny język napisów" default="" enable="true"/>
+    </category>  
+    <category label="AutoView" >
+        <setting id="auto-view" type="bool" label="Widok" default="false" enable="true"/>
+    </category>  
+</settings>
+
+

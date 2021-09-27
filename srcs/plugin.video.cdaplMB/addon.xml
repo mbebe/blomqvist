@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.cdaplMB" version="1.4" name="CDA.pl + CDA TV" provider-name="mbebe">
+<requires>
+    <import addon="script.module.requests"/>
+    <import addon="script.module.inputstreamhelper" version="0.3.3"/>
+</requires>
+<extension point="xbmc.python.pluginsource" library="main.py">
+  <provides>video</provides>
+</extension>
+<extension point="xbmc.addon.metadata">
+  <summary lang="pl">Zasoby serwisu [B]cda.pl[/B]</summary>
+  <description lang="pl">Wtyczka umożliwia dostęp do bazy cda.pl</description>
+  <disclaimer lang="en">A private use only. https://github.com/mbebe/blomqvist</disclaimer>
+  <language></language>
+  <platform>all</platform>
+  <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+  <forum>hhttps://github.com/mbebe/blomqvist</forum>
+  <website>https://github.com/mbebe/blomqvist</website>
+  <assets>
+    <icon>icon.png</icon>
+    <fanart>fanart.jpg</fanart>
+  </assets>
+
+</extension>
+</addon>

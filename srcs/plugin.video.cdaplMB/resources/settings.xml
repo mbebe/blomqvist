@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+	<category label="Logowanie CDA">
+		<setting id="username"  type="text" label="Login" default="" />
+		<setting id="password"  type="text" label="Hasło" option="hidden"  default="" />
+		<setting id="logowanie" type="bool" label="Logowanie w serwisie" default="false" enable=/>
+	</category>
+	<category label="Video">
+		<setting id="wybormax" type="enum" label="    Jakość"      values="maksymalna|wybór ręczny" default="0"/>
+	</category>
+	
+
+    <setting id="acc_token" value="" default=""/>  
+    <setting id="refr_token" value="" default=""/>  
+	<setting id="fdata" value="" default="&sort=views30"/>
+	<setting id="sdata" value="" default="&sort=views30"/>
+	<setting id="ddata" value="" default="&sort=views30"/>
+	
+
+	
+    <setting id="fsortV" value="" default="&sort=views30"/>   
+    <setting id="fsortN" value="" default="popularne w ciągu ostatnich 30 dni"/>
+    <setting id="ssortV" value="" default="&sort=views30"/>   
+    <setting id="ssortN" value="" default="popularne w ciągu ostatnich 30 dni"/>
+    <setting id="dsortV" value="" default="&sort=views30"/>   
+    <setting id="dsortN" value="" default="popularne w ciągu ostatnich 30 dni"/>
+	
+
+</settings>
