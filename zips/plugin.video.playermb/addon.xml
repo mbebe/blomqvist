@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<addon id="plugin.video.playermb" version="1.9" name="PlayerPLmb" provider-name="mbebe">
+<addon id="plugin.video.playermb" version="1.9.5" name="PlayerPLmb" provider-name="mbebe, kszaq, rysson">
 <requires>
-<!-- <import addon="xbmc.python" version="3.0.0" /> -->
+    <!-- <import addon="xbmc.python" version="3.0.0" /> -->
+    <import addon="script.module.six" />
     <import addon="script.module.requests" />
+    <import addon="script.module.urllib3" />
     <import addon="script.module.inputstreamhelper" version="0.3.3"/>
 </requires>
 <extension point="xbmc.python.pluginsource" library="main.py">
@@ -23,11 +25,15 @@
         <screenshot>resources/screenshot-01.jpg</screenshot>
         <screenshot>resources/screenshot-02.jpg</screenshot>
     </assets>
-<news>1.8
+    <news>1.9.x
+- time shift w TV
+- historia wyszukiwania
+- tylko do Ciebie
+1.9
+1.8
  - fix niezsynchronizowanych napisow
  - zapisywanie domyslnego jezyka napisow
 1.7
- - KODI 19
-</news>
+ - KODI 19</news>
 </extension>
 </addon>
