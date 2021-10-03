@@ -1,3 +1,11 @@
+1.8
+- dodane sortowanie do wyboru
+- poprawiony sposób pobierania licencji - działają najnowsze sporty i filmy
+- działa historia obejrzanych (VOD,szukanie,moja lista)- przydatne na niektórych skórach, np Eminence
+- materiały na "mojej liście", podzielone na sezony
+- poprawione wyszukiwanie
+- wszystkie (astar0th)
+
 1.7
 - szukanie (sezony - mariusz)
 - LIVE

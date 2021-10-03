@@ -1258,7 +1258,7 @@ Róbta co chceta! :)
     </extension>
 </addon>
 
-<addon id="plugin.video.polsatgo" name="Polsat GO" version="1.7" provider-name="mbebe">
+<addon id="plugin.video.polsatgo" name="Polsat GO" version="1.8" provider-name="mbebe">
 	<requires>
 		<import addon="script.module.requests" />
 		<import addon="script.module.inputstreamhelper" version="0.3.3"/>
