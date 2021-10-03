@@ -1,3 +1,6 @@
+1.9.5
+- poprawka wyswietlania katalogow
+
 1.9.4
 - PY3 - KODI19
 
