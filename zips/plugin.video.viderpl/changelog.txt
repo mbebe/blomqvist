@@ -1,3 +1,6 @@
+1.9.6
+- fix update
+
 1.9.5
 - poprawka wyswietlania katalogow
 

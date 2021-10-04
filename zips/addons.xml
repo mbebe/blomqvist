@@ -1573,7 +1573,7 @@ Róbta co chceta! :)
 	</extension>
 </addon>
 
-<addon id="plugin.video.viderpl" version="1.9.5" name="Vider" provider-name="mbebe">
+<addon id="plugin.video.viderpl" version="1.9.6" name="Vider" provider-name="mbebe">
 <requires>
   <import addon="script.common.plugin.cache" version="2.5.5"/>
   <import addon="script.module.requests" version="2.19.1"/>
