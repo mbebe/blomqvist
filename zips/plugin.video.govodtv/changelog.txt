@@ -1,3 +1,6 @@
+1.8
+- poprawka odtwarzania
+
 1.7
 - poprawka seriale
 

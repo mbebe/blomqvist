@@ -1,3 +1,8 @@
+1.4
+- poprawka odtwarzania
+- poprawka seriali (stronicowanie)
+- poprawka szukania
+
 1.3
 - py3 (kodi19)
 

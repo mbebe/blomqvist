@@ -1,3 +1,6 @@
+1.7
+- fix tv series
+
 1.6
 - fix search
 

@@ -1,3 +1,6 @@
+2.2.91
+- poprawka odtwarzania
+
 2.2.90
 - poprawka wyswietlania okladek
 

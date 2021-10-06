@@ -1,3 +1,6 @@
+1.6.14
+- poprawka odtwarzania
+
 1.6.13
 - poprawka logowania KODI19
 
