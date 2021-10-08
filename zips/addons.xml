@@ -1213,7 +1213,7 @@ Róbta co chceta! :)
 </extension>
 </addon>
 
-<addon id="plugin.video.playermb" version="1.9.5" name="PlayerPLmb" provider-name="mbebe, kszaq, rysson">
+<addon id="plugin.video.playermb" version="1.10" name="PlayerPLmb" provider-name="mbebe, kszaq, rysson">
 <requires>
     <!-- <import addon="xbmc.python" version="3.0.0" /> -->
     <import addon="script.module.six" />
@@ -1239,7 +1239,9 @@ Róbta co chceta! :)
         <screenshot>resources/screenshot-01.jpg</screenshot>
         <screenshot>resources/screenshot-02.jpg</screenshot>
     </assets>
-    <news>1.9.x
+    <news>1.10
+- szybsze połączenia i obsługa błędów SSL
+- obrazki
 - time shift w TV
 - historia wyszukiwania
 - tylko do Ciebie
