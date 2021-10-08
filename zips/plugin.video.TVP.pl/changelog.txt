@@ -1,3 +1,6 @@
+2.2.49
+- poprawka seriale
+
 2.2.48
 - poprawka api (kszaq)
 

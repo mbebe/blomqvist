@@ -1,3 +1,6 @@
+1.12
+- fix seriale
+
 1.11
 - fix stronicowanie
 
