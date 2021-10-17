@@ -1,3 +1,6 @@
+1.13
+- fix dzieci (@hevet)
+
 1.12
 - fix seriale
 

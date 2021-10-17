@@ -1,20 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
-<addon id="plugin.video.fmoviesto" name="fmovies.to" version="1.8" provider-name="mbebe">
+<addon id="plugin.video.orangetvgo" name="Orange TV Go" version="0.1" provider-name="mbebe">
     <requires>
         <import addon="script.module.requests" />
-        <import addon="script.module.resolveurl"/>
+        <import addon="script.module.iso8601" version="0.1.11" />
+        <import addon="script.module.inputstreamhelper" version="0.3.3"/>
     </requires>
     <extension point="xbmc.python.pluginsource" library="main.py">
         <provides>video</provides>
     </extension>
     <extension point="xbmc.addon.metadata">
-        <description>fmovies.to</description>
-        <disclaimer>https://github.com/mbebe/blomqvist</disclaimer>
-        <summary>fmovies.to</summary>
+        <description>Orange TV</description>
+        <disclaimer></disclaimer>
+        <summary>Orange TV</summary>
         <language>pl</language>
         <platform>all</platform>
         <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-        <website>https://github.com/mbebe/blomqvist</website>
+        <website></website>
         <assets>
             <icon>icon.png</icon>
             <fanart>fanart.jpg</fanart>

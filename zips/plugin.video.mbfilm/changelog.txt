@@ -1,3 +1,6 @@
+1.3.35
+- fix zalukaj.vip
+
 1.3.34
 - napisy zalukaj.vip
 

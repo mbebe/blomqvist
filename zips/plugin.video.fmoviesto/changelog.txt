@@ -1,3 +1,6 @@
+1.8
+- fix tv series
+
 1.7
 - fix tv series
 
