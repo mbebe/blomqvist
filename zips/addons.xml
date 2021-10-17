@@ -729,7 +729,7 @@ Róbta co chceta! :)
 	</extension>
 </addon>
 
-<addon id="plugin.video.fmoviesto" name="fmovies.to" version="1.7" provider-name="mbebe">
+<addon id="plugin.video.fmoviesto" name="fmovies.to" version="1.8" provider-name="mbebe">
     <requires>
         <import addon="script.module.requests" />
         <import addon="script.module.resolveurl"/>
@@ -1068,7 +1068,7 @@ Róbta co chceta! :)
     </extension>
 </addon>
 
-<addon id="plugin.video.mbfilm" name="MB filmy" version="1.3.34" provider-name="mbebe">
+<addon id="plugin.video.mbfilm" name="MB filmy" version="1.3.35" provider-name="mbebe">
 	<requires>
 		<import addon="xbmc.addon" version="17.9.910"/>
 		<import addon="script.module.requests" />
@@ -1150,6 +1150,30 @@ Róbta co chceta! :)
   <news>
   </news>
 </extension>
+</addon>
+
+<addon id="plugin.video.orangetvgo" name="Orange TV Go" version="0.1" provider-name="mbebe">
+    <requires>
+        <import addon="script.module.requests" />
+        <import addon="script.module.iso8601" version="0.1.11" />
+        <import addon="script.module.inputstreamhelper" version="0.3.3"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="main.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <description>Orange TV</description>
+        <disclaimer></disclaimer>
+        <summary>Orange TV</summary>
+        <language>pl</language>
+        <platform>all</platform>
+        <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+        <website></website>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
+    </extension>
 </addon>
 
 <addon id="plugin.video.pastebinVID" name="PASTEBIN PlayVid" version="1.9.18" provider-name="mbebe">
@@ -1490,6 +1514,30 @@ Róbta co chceta! :)
 </extension>
 </addon>
 
+<addon id="plugin.video.televiopl" name="Televio PL" version="0.1" provider-name="mbebe">
+    <requires>
+        <import addon="script.module.requests" />
+        <import addon="script.module.iso8601" version="0.1.11" />
+        <import addon="script.module.inputstreamhelper" version="0.3.3"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="main.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <description>Televio.pl</description>
+        <disclaimer></disclaimer>
+        <summary>Televio.pl</summary>
+        <language>pl</language>
+        <platform>all</platform>
+        <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+        <website></website>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
+    </extension>
+</addon>
+
 <addon id="plugin.video.themoviebaynet" name="Themoviebay.net" version="0.3" provider-name="mbebe">
     <requires>
         <import addon="script.module.requests" />
@@ -1572,7 +1620,7 @@ Róbta co chceta! :)
   </extension>
 </addon>
 
-<addon id="plugin.video.tvpABON" name="TVP strefa abo" version="1.12" provider-name="mbebe">
+<addon id="plugin.video.tvpABON" name="TVP strefa abo" version="1.13" provider-name="mbebe">
 	<requires>
 		<!-- <import addon="xbmc.python" version="3.0.0" /> -->
 		<import addon="script.module.six"/>
@@ -1596,6 +1644,30 @@ Róbta co chceta! :)
 			<fanart>fanart.jpg</fanart>
 		</assets>
 	</extension>
+</addon>
+
+<addon id="plugin.video.vectrapl" name="VECTRA PL" version="0.3" provider-name="mbebe">
+    <requires>
+        <import addon="script.module.requests" />
+        <import addon="script.module.iso8601" version="0.1.11" />
+        <import addon="script.module.inputstreamhelper" version="0.3.3"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="main.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <description>VECTRA</description>
+        <disclaimer></disclaimer>
+        <summary>VECTRA</summary>
+        <language>pl</language>
+        <platform>all</platform>
+        <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+        <website></website>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
+    </extension>
 </addon>
 
 <addon id="plugin.video.viderpl" version="1.9.6" name="Vider" provider-name="mbebe">
