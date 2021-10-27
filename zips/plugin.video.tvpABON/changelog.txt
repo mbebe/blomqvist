@@ -1,3 +1,6 @@
+1.15
+- fix odtwarzania
+
 1.14
 - fix transmisje
 
