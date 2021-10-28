@@ -1,3 +1,6 @@
+1.7.4.8
+- poprawka odtwarzania LIVE
+
 1.7.4.7
 - stronicowanie w vod
 
