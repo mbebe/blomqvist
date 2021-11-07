@@ -159,7 +159,7 @@
     </extension>
 </addon>
 
-<addon id="plugin.video.bajeczkiorg" name="Bajeczki.org" version="1.9" provider-name="mbebe">
+<addon id="plugin.video.bajeczkiorg" name="Bajeczki.org" version="1.10" provider-name="mbebe">
     <requires>
 
         <import addon="script.module.requests" />
@@ -1646,7 +1646,7 @@ Róbta co chceta! :)
 	</extension>
 </addon>
 
-<addon id="plugin.video.vectrapl" name="VECTRA PL" version="0.3" provider-name="mbebe">
+<addon id="plugin.video.vectrapl" name="VECTRA PL" version="0.4" provider-name="mbebe">
     <requires>
         <import addon="script.module.requests" />
         <import addon="script.module.iso8601" version="0.1.11" />

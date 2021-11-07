@@ -1,4 +1,7 @@
-﻿1.9
+﻿1.10
+- poprawka vkprime
+
+1.9
 - poprawka stronicowania
 
 1.8
