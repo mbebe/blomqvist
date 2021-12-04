@@ -1,3 +1,5 @@
+1.9
+- fix update
 1.8
 - dodane sortowanie do wyboru
 - poprawiony sposób pobierania licencji - działają najnowsze sporty i filmy
