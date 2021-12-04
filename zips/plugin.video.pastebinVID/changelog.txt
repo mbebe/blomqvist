@@ -1,3 +1,6 @@
+1.9.19
+- fix cda
+
 1.9.13
 - lista z pliku
 
