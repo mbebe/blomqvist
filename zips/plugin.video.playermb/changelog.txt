@@ -1,3 +1,5 @@
+1.12
+- dodany kreator listy m3u
 1.9
 - poprawka wyswietlania BRAK W PAKIECIE
 
