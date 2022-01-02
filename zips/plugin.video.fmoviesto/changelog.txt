@@ -1,3 +1,6 @@
+1.10
+- fix tv series
+
 1.9
 - fix tv series
 - fix movies

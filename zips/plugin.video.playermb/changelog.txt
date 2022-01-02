@@ -1,3 +1,20 @@
+1.12
+- dynamiczna lista kategorii
+- obsługa Eurosport (m1992)
+- generowanie listy m3u TV (m1992, artubieski)
+
+1.11
+- forsowanie seriali nawet gdy nie są w liście dozwolonych
+- usuwanie duplikatów
+- poprawa dostępnych materiałów
+
+1.10
+- szybsze połączenia i obsługa błędów SSL
+- obrazki
+- time shift w TV
+- historia wyszukiwania
+- tylko do Ciebie
+
 1.9
 - poprawka wyswietlania BRAK W PAKIECIE
 
@@ -5,6 +22,7 @@
 - fix niezsynchronizowanych napisow
 - zapisywanie domyslnego jezyka napisow
 - poprawka z dzieleniem
+
 1.7
 - KODI 19
 

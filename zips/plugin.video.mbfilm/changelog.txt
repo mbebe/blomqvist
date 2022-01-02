@@ -1,3 +1,6 @@
+1.3.36
+- fix vizjer.pl
+
 1.3.35
 - fix zalukaj.vip
 
