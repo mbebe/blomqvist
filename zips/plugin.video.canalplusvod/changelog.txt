@@ -1,3 +1,6 @@
+1.7.4.9
+- poprawka kategorii LIVE
+
 1.7.4.8
 - poprawka odtwarzania LIVE
 
