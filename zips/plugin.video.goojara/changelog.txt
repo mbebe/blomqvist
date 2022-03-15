@@ -1,3 +1,9 @@
+0.4
+- fix host
+- fix search
+- fix images
+- fix series
+
 0.3
 - PY3 (kodi19)
 

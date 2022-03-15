@@ -804,7 +804,7 @@ Róbta co chceta! :)
 	</extension>
 </addon>
 
-<addon id="plugin.video.goojara" name="goojara.to" version="0.3" provider-name="mbebe">
+<addon id="plugin.video.goojara" name="goojara.to" version="0.4" provider-name="mbebe">
     <requires>
         <import addon="script.module.requests" />
         <import addon="script.module.six"/>
