@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<addon id="plugin.video.ramicpolsat" version="1.4" name="PolsatNews" provider-name="mbebe">
+<addon id="plugin.video.ramicpolsat" version="1.5" name="PolsatNews" provider-name="mbebe">
 <requires>
-
+  <import addon="script.module.requests" />
   <import addon="script.module.six"/>
-
 </requires>
 <extension point="xbmc.python.pluginsource" library="main.py">
   <provides>video</provides>

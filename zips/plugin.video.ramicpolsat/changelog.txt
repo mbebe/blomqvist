@@ -1,3 +1,6 @@
+1.5
+- dodane LIVE
+
 1.4
 - PY3 - kodi 19
 

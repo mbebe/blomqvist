@@ -1337,11 +1337,10 @@ Róbta co chceta! :)
 	</extension>
 </addon>
 
-<addon id="plugin.video.ramicpolsat" version="1.4" name="PolsatNews" provider-name="mbebe">
+<addon id="plugin.video.ramicpolsat" version="1.5" name="PolsatNews" provider-name="mbebe">
 <requires>
-
+  <import addon="script.module.requests" />
   <import addon="script.module.six"/>
-
 </requires>
 <extension point="xbmc.python.pluginsource" library="main.py">
   <provides>video</provides>
@@ -1570,7 +1569,7 @@ Róbta co chceta! :)
     </extension>
 </addon>
 
-<addon id="plugin.video.tvn24pl" version="1.6" name="TVN24.PL" provider-name="mbebe">
+<addon id="plugin.video.tvn24pl" version="1.7" name="TVN24.PL" provider-name="mbebe">
 <requires>
   <import addon="xbmc.addon" version="17.9.910"/>
   <import addon="script.module.requests" />
