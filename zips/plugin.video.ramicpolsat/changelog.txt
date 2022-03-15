@@ -1,3 +1,7 @@
+1.6
+- poprawka stronicowania
+- dodane MOTO
+
 1.5
 - dodane LIVE
 
