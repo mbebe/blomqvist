@@ -1,2 +1,5 @@
+0.2
+- added watchprowrestling.live
+
 0.1
 - initial version 
