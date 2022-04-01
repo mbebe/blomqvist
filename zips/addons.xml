@@ -1121,35 +1121,30 @@ Róbta co chceta! :)
     </extension>
 </addon>
 
-<addon id="plugin.video.ninateka" version="1.6" name="Ninateka" provider-name="mbebe">
-<requires>
-  <import addon="script.module.inputstreamhelper" version="0.3.3"/>
-  <import addon="script.module.requests" />
-</requires>
-
-<extension point="xbmc.python.pluginsource" library="main.py">
-  <provides>video</provides>
-</extension>
-
-<extension point="xbmc.addon.metadata">
-  <summary lang="en">ninateka</summary>
-  <description lang="en">ninateka</description>
-  <disclaimer lang="en">A private use only. </disclaimer>
-  <language></language>
-  <platform>all</platform>
-  <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-  <forum></forum>
-  <website></website>
-  <email></email>
-  <assets>
-    <icon>icon.png</icon>
-    <fanart>fanart.jpg</fanart>
-    <screenshot>resources/screenshot-01.jpg</screenshot>
-    <screenshot>resources/screenshot-02.jpg</screenshot>
-  </assets>
-  <news>
-  </news>
-</extension>
+<addon id="plugin.video.ninateka" version="1.7.1" name="Ninateka" provider-name="mbebe, heppen-dev, zuzia-dev">
+    <requires>
+        <import addon="script.module.inputstreamhelper" version="0.3.3"/>
+        <import addon="script.module.requests"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="main.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary lang="en">Ninateka video add-on for Kodi</summary>
+        <description lang="en">This plugin allows you to play content from the ninateka.pl website</description>
+        <disclaimer lang="en">A private use only.</disclaimer>
+        <language>pl</language>
+        <platform>all</platform>
+        <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+        <forum/>
+        <website>https://github.com/zuzia-dev/plugin.video.ninateka</website>
+        <email/>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
+        <news>1.7.1[CR]Added notification dialog for empty subcategory[CR]1.7[CR]Fixed API Changes[CR]Changed icon and fanart</news>
+    </extension>
 </addon>
 
 <addon id="plugin.video.orangetvgo" name="Orange TV Go" version="0.2" provider-name="mbebe">
@@ -1207,7 +1202,7 @@ Róbta co chceta! :)
     </extension>
 </addon>
 
-<addon id="plugin.video.pgobox" version="1.96" name="Polsat Box Go" provider-name="mbebe, mariusz89b">
+<addon id="plugin.video.pgobox" version="1.97" name="Polsat Box Go" provider-name="mbebe, mariusz89b">
 <requires>
   <import addon="xbmc.addon" version="17.9.910"/>
   <import addon="script.module.requests" />
@@ -1653,7 +1648,7 @@ Róbta co chceta! :)
 	</extension>
 </addon>
 
-<addon id="plugin.video.vectrapl" name="VECTRA PL" version="0.4" provider-name="mbebe">
+<addon id="plugin.video.vectrapl" name="VECTRA PL" version="0.6" provider-name="mbebe">
     <requires>
         <import addon="script.module.requests" />
         <import addon="script.module.iso8601" version="0.1.11" />
@@ -1751,6 +1746,30 @@ Róbta co chceta! :)
         <platform>all</platform>
         <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
         <website>https://github.com/mbebe/blomqvist</website>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
+    </extension>
+</addon>
+
+<addon id="plugin.video.wfdifonline" name="WFDIF.online" version="0.1" provider-name="mbebe">
+    <requires>
+        <import addon="script.module.requests" />
+        <import addon="script.module.iso8601" version="0.1.11" />
+        <import addon="script.module.inputstreamhelper" version="0.3.3"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="main.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <description>WFDIF.online</description>
+        <disclaimer></disclaimer>
+        <summary>WFDIF.online</summary>
+        <language>pl</language>
+        <platform>all</platform>
+        <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+        <website></website>
         <assets>
             <icon>icon.png</icon>
             <fanart>fanart.jpg</fanart>

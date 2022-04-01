@@ -1,3 +1,10 @@
+1.7.1
+- Added notification dialog for empty subcategory
+
+1.7
+- Fixed API Changes
+- Changed icon and fanart
+
 1.6
 - PY3 (Kodi19)
 - nowe API
