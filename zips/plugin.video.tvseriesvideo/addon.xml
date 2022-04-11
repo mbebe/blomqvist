@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
-<addon id="plugin.video.kimcartoon" name="KimCartoon" version="0.3" provider-name="mbebe">
+<addon id="plugin.video.tvseriesvideo" name="TVseries.video" version="0.1" provider-name="mbebe">
     <requires>
         <import addon="script.module.requests" />
+        <import addon="script.module.resolveurl" version="5.0.00"/>
         <import addon="script.module.six"/>
     </requires>
     <extension point="xbmc.python.pluginsource" library="main.py">
         <provides>video</provides>
     </extension>
     <extension point="xbmc.addon.metadata">
-        <description lang="en">kimcartoon</description>
-        <disclaimer lang="en">https://github.com/mbebe/blomqvist</disclaimer>	
-        <summary lang="en">Watch cartoons</summary>
+        <description lang="en">TVseries.video</description>
+        <disclaimer lang="en">https://github.com/mbebe/blomqvist</disclaimer>    
+        <summary lang="en">Watch tv shows</summary>
         <language>en</language>
         <platform>all</platform>
         <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
