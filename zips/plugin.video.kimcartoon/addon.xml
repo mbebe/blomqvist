@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
-<addon id="plugin.video.kimcartoon" name="KimCartoon" version="0.3" provider-name="mbebe">
+<addon id="plugin.video.kimcartoon" name="KimCartoon" version="0.4" provider-name="mbebe">
     <requires>
         <import addon="script.module.requests" />
         <import addon="script.module.six"/>
+        <import addon="script.module.pycryptodome"/>
     </requires>
     <extension point="xbmc.python.pluginsource" library="main.py">
         <provides>video</provides>
     </extension>
     <extension point="xbmc.addon.metadata">
         <description lang="en">kimcartoon</description>
-        <disclaimer lang="en">https://github.com/mbebe/blomqvist</disclaimer>	
+        <disclaimer lang="en">https://github.com/mbebe/blomqvist</disclaimer>    
         <summary lang="en">Watch cartoons</summary>
         <language>en</language>
         <platform>all</platform>
