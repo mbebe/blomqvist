@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
-<addon id="plugin.video.darmowatv" name="darmowaTV" version="1.8.10" provider-name="mbebe">
+<addon id="plugin.video.darmowatv" name="darmowaTV" version="1.8.11" provider-name="mbebe">
     <requires>
         <import addon="script.module.requests" />
         <import addon="script.module.six"/>

@@ -1,3 +1,6 @@
+1.8.11
+- dodane VOD (beta tv)
+
 1.8.10
 - PY3 - kodi 19
 - usuniete niedzialajace
