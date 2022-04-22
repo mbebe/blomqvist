@@ -1,8 +1,0 @@
-1.2
-- nast strona fix
-
-1.1
-- fix
-
-1.0
-- initial version 

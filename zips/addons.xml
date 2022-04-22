@@ -46,61 +46,6 @@
     </extension>
 </addon>
 
-<addon id="plugin.video.3ksodus" name="3ksodus.com" version="0.2" provider-name="mbebe">
-    <requires>
-        <import addon="script.module.requests" />
-        <import addon="script.module.six"/>
-        <import addon="script.module.resolveurl" version="5.0.00"/>
-        <import addon="script.common.plugin.cache" version="2.5.5"/>
-    </requires>
-    <extension point="xbmc.python.pluginsource" library="main.py">
-        <provides>video</provides>
-    </extension>
-    <extension point="xbmc.addon.metadata">
-        <description lang="en">3ksodus.com</description>
-        <disclaimer lang="en">https://github.com/mbebe/blomqvist</disclaimer>
-        <summary lang="en">Watch movies</summary>
-        <language>en</language>
-        <platform>all</platform>
-        <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-        <website>https://github.com/mbebe/blomqvist</website>
-        <assets>
-            <icon>icon.png</icon>
-            <fanart>fanart.jpg</fanart>
-        </assets>
-    </extension>
-</addon>
-
-<addon id="plugin.video.alltube.tv" version="2.6.8" name="Alltube.tv" provider-name="mbebe">
-<requires>
-  <import addon="xbmc.python" version="2.24.0"/>
-  <import addon="script.module.resolveurl" version="5.0.00"/>
-  <import addon="script.common.plugin.cache" version="2.5.5"/>
-  <import addon="script.module.requests" version="2.18.4"/>
-</requires>
-<extension point="xbmc.python.pluginsource" library="main.py">
-  <provides>video</provides>
-</extension>
-<extension point="xbmc.addon.metadata">
-  <summary lang="en">alltube.tv</summary>
-  <description lang="en">Zasoby serwisu alltube.tv</description>
-  <disclaimer lang="en">A private use only. For bugs, requests or general questions visit my repository https://github.com/mbebe/blomqvist</disclaimer>
-  <language></language>
-  <platform>all</platform>
-  <license></license>
-  <forum>https://github.com/mbebe/blomqvist/issues</forum>
-  <website>https://github.com/mbebe/blomqvist</website>
-  <email></email>
-  <source></source>
-  <assets>
-    <icon>icon.png</icon>
-    <fanart>fanart.jpg</fanart>
-  </assets>
-  <news>
-  </news>
-</extension>
-</addon>
-
 <addon id="plugin.video.arenaparty" version="1.0" name="ArenaParty" provider-name="mbebe">
 <requires>
   <import addon="xbmc.python" version="2.24.0"/>
@@ -464,37 +409,6 @@
 </extension>
 </addon>
 
-<addon id="plugin.video.ekinomaniaktv" version="1.9" name="ekinomaniak" provider-name="mbebe">
-<requires>
-  <import addon="xbmc.python" version="2.1.0"/>
-  <import addon="script.module.resolveurl" version="5.0.12b"/>
-  <import addon="script.module.requests" version="2.18.4"/>
-  <import addon="script.common.plugin.cache" version="2.5.5"/>
-</requires>
-<extension point="xbmc.python.pluginsource" library="main.py">
-  <provides>video</provides>
-</extension>
-<extension point="xbmc.addon.metadata">
-  <summary lang="en">http://ekinomaniak.tv/</summary>
-  <description lang="en">http://ekinomaniak.tv/</description>
-  <disclaimer lang="en">A private use only.</disclaimer>
-  <language></language>
-  <platform>all</platform>
-  <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-  <forum></forum>
-  <website></website>
-  <assets>
-    <icon>icon.png</icon>
-    <fanart>fanart.jpg</fanart>
-    <screenshot>resources/screenshot-01.jpg</screenshot>
-    <screenshot>resources/screenshot-02.jpg</screenshot>
-  </assets>
-  <news>
-Do not install this addon if you are using a build.
-  </news>
-</extension>
-</addon>
-
 <addon id="plugin.video.ekinotv" name="ekino-tv" version="2.6.6" provider-name="mbebe">
   <requires>
     <!-- <import addon="xbmc.python" version="3.0.0"/> -->
@@ -728,31 +642,6 @@ Róbta co chceta! :)
 
   </news>
 </extension>
-</addon>
-
-<addon id="plugin.video.filmdomfun" name="Filmdom.fun" version="1.2" provider-name="mbebe">
-	<requires>
-		<import addon="xbmc.python" version="2.25.0"/>
-		<import addon="script.module.requests" />
-		<import addon="script.module.parsedom" version="2.5.2"/>
-		<import addon="script.module.resolveurl" version="5.0.00"/>
-	</requires>
-	<extension point="xbmc.python.pluginsource" library="main.py">
-		<provides>video</provides>
-	</extension>
-	<extension point="xbmc.addon.metadata">
-		<description>Filmdom.fun</description>
-		<disclaimer>https://github.com/mbebe/blomqvist</disclaimer>
-		<summary>Filmdom.fun</summary>
-		<language>pl</language>
-		<platform>all</platform>
-		<license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-		<website>https://github.com/mbebe/blomqvist</website>
-		<assets>
-			<icon>icon.png</icon>
-			<fanart>fanart.jpg</fanart>
-		</assets>
-	</extension>
 </addon>
 
 <addon id="plugin.video.filmowoclub" name="Filmowo.club" version="0.1" provider-name="mbebe">
@@ -1008,38 +897,6 @@ Róbta co chceta! :)
     </extension>
 </addon>
 
-<addon id="plugin.video.horrortube" version="1.5" name="HorrortubePL" provider-name="mbebe">
-<requires>
-  <import addon="xbmc.python" version="2.1.0"/>
-  <import addon="script.module.resolveurl" version="5.0.00"/>
-  <import addon="script.common.plugin.cache" version="2.5.5"/>
-  <import addon="script.module.requests" version="2.18.4"/>
-  <import addon="script.module.parsedom" version="2.5.2"/>
-</requires>
-<extension point="xbmc.python.pluginsource" library="main.py">
-  <provides>video</provides>
-</extension>
-<extension point="xbmc.addon.metadata">
-  <summary lang="en">horrortube.pl</summary>
-  <description lang="en">horrortube.pl</description>
-  <disclaimer lang="en">A private use only. </disclaimer>
-  <language></language>
-  <platform>all</platform>
-  <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-  <forum></forum>
-  <website></website>
-  <email></email>
-  <source></source>
-  <assets>
-    <icon>icon.png</icon>
-    <fanart>fanart.jpg</fanart>
-  </assets>
-  <news>
-Róbta co chceta! :)
-  </news>
-</extension>
-</addon>
-
 <addon id="plugin.video.iitv" name="iitv-seriale" version="2.8" provider-name="mbebe">
   <requires>
     <import addon="xbmc.python" version="2.25.0"/>
@@ -1169,33 +1026,6 @@ Róbta co chceta! :)
 			<fanart>fanart.jpg</fanart>
 		</assets>
 	</extension>
-</addon>
-
-<addon id="plugin.video.ncplusgo" name="NC plus GO" version="1.2.14" provider-name="mbebe">
-    <requires>
-        <import addon="xbmc.addon" version="17.9.910"/>
-        <import addon="script.module.requests" />
-        <import addon="script.module.inputstreamhelper" version="0.3.3"/>
-    </requires>
-    <extension point="xbmc.python.pluginsource" library="main.py">
-        <provides>video</provides>
-    </extension>
-    <extension point="xbmc.addon.metadata">
-        <description>NC plus GO</description>
-        <disclaimer>https://github.com/mbebe/blomqvist</disclaimer>
-        <summary>NC plus GO</summary>
-        <language>pl</language>
-        <platform>all</platform>
-        <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-        <website>https://github.com/mbebe/blomqvist</website>
-        <news>v1.2.12
-        - poprawka czasu
-        </news>
-        <assets>
-            <icon>icon.png</icon>
-            <fanart>fanart.jpg</fanart>
-        </assets>
-    </extension>
 </addon>
 
 <addon id="plugin.video.ninateka" version="1.7.1" name="Ninateka" provider-name="mbebe, heppen-dev, zuzia-dev">
@@ -1461,40 +1291,6 @@ Róbta co chceta! :)
 	</extension>
 </addon>
 
-<addon id="plugin.video.segos" version="4.1.6" name="segos" provider-name="mbebe">
-<requires>
-	<import addon="xbmc.python" version="2.1.0"/>
-	<import addon="script.common.plugin.cache" version="2.5.5"/>
-	<import addon="script.module.resolveurl" version="5.0.12b"/>
-	<import addon="script.module.requests" />
-	<import addon="script.module.parsedom" version="2.5.2"/>
-
-</requires>
-<extension point="xbmc.python.pluginsource" library="main.py">
-  <provides>video</provides>
-</extension>
-<extension point="xbmc.addon.metadata">
-  <summary lang="en">segos</summary>
-  <description lang="en">Zasoby segos.es</description>
-  <disclaimer lang="en">private use</disclaimer>
-  <language></language>
-  <platform>all</platform>
-  <license></license>
-  <forum></forum>
-  <website></website>
-  <email></email>
-  <source></source>
-  <assets>
-    <icon>icon.png</icon>
-    <fanart>fanart.jpg</fanart>
-    <screenshot>resources/screenshot-01.jpg</screenshot>
-    <screenshot>resources/screenshot-02.jpg</screenshot>
-  </assets>
-  <news>
-</news>
-</extension>
-</addon>
-
 <addon id="plugin.video.serialnet" name="serialnet.pl" version="1.1" provider-name="xxxxxx">
     <requires>
         <import addon="xbmc.python" version="2.25.0"/>
@@ -1565,32 +1361,6 @@ Róbta co chceta! :)
             <fanart>fanart.jpg</fanart>
         </assets>
     </extension>
-</addon>
-
-<addon id="plugin.video.szukajkatv" version="1.4.3" name="Szukajka.tv" provider-name="mbebe">
-<requires>
-    <import addon="xbmc.python" version="2.1.0"/>
-    <import addon="script.common.plugin.cache" version="2.5.5"/>
-    <import addon="script.module.resolveurl" version="5.0.00"/>
-</requires>
-
-<extension point="xbmc.python.pluginsource" library="main.py">
-  <provides>video</provides>
-</extension>
-
-<extension point="xbmc.addon.metadata">
-		<description lang="pl">http://szukajka.tv/</description>
-		<disclaimer lang="pl">https://github.com/mbebe/blomqvist</disclaimer>
-		<summary lang="pl">http://szukajka.tv/</summary>
-		<language>pl</language>
-		<platform>all</platform>
-		<license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-		<website>https://github.com/mbebe/blomqvist</website>
-		<assets>
-			<icon>icon.png</icon>
-			<fanart>fanart.jpg</fanart>
-  </assets>
-</extension>
 </addon>
 
 <addon id="plugin.video.televiopl" name="Televio PL" version="0.3" provider-name="mbebe">
@@ -1801,35 +1571,6 @@ Róbta co chceta! :)
 </extension>
 </addon>
 
-<addon id="plugin.video.virpecom" name="virpeCOM" version="1.9.2" provider-name="mbebe">
-	<requires>
-		<import addon="xbmc.python" version="2.25.0"/>
-		<import addon="script.module.requests" />
-		<import addon="script.module.parsedom" version="2.5.2"/>
-		<import addon="script.module.resolveurl"/>
-		<import addon="script.common.plugin.cache" version="2.5.5"/>
-	</requires>
-	<extension point="xbmc.python.pluginsource" library="main.py">
-		<provides>video</provides>
-	</extension>
-	<extension point="xbmc.addon.metadata">
-		<description lang="pl">virpe.com</description>
-		<disclaimer lang="pl"></disclaimer>
-		<summary lang="pl">virpe.com</summary>
-		<description lang="en">virpe.com</description>
-		<disclaimer lang="en"></disclaimer>
-		<summary lang="en">virpe.com</summary>
-		<language>pl</language>
-		<platform>all</platform>
-		<license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-		<website></website>
-		<assets>
-			<icon>icon.png</icon>
-			<fanart>fanart.jpg</fanart>
-		</assets>
-	</extension>
-</addon>
-
 <addon id="plugin.video.watchserieshdtv" name="WatchSeries_HD" version="0.1" provider-name="mbebe">
     <requires>
         <import addon="xbmc.python" version="2.25.0"/>
@@ -1900,34 +1641,6 @@ Róbta co chceta! :)
             <fanart>fanart.jpg</fanart>
         </assets>
     </extension>
-</addon>
-
-<addon id="plugin.video.zalukajcom" version="2.3.2" name="Zalukaj" provider-name="mbebe">
-<requires>
-	<import addon="xbmc.python" version="2.25.0"/>
-	<import addon="script.module.parsedom" version="2.5.2"/>
-	<import addon="script.module.requests"/>
-	<import addon="script.module.resolveurl"/>
-</requires>
-<extension point="xbmc.python.pluginsource" library="main.py">
-  <provides>video</provides>
-</extension>
-<extension point="xbmc.addon.metadata">
-  <summary lang="en">zalukaj.com</summary>
-  <description lang="en">zalukaj.com</description>
-  <disclaimer lang="en">A private use only. </disclaimer>
-  <language></language>
-  <platform>all</platform>
-  <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-  <forum></forum>
-  <website></website>
-  <email></email>
-  <assets>
-    <icon>icon.png</icon>
-    <fanart>fanart.jpg</fanart>
-  </assets>
-  <news>fix konta premium i konta darmowe</news>
-</extension>
 </addon>
 
 	<addon id="repository.mbebe" name="mbebe" version="0.7" provider-name="mbebe">
