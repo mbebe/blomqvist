@@ -1,2 +1,5 @@
+0.3
+- added MOVIES
+
 0.1
 - initial version 

@@ -1495,7 +1495,7 @@ Róbta co chceta! :)
 	</extension>
 </addon>
 
-<addon id="plugin.video.tvseriesvideo" name="TVseries.video" version="0.2" provider-name="mbebe">
+<addon id="plugin.video.tvseriesvideo" name="TVseries.video" version="0.3" provider-name="mbebe">
     <requires>
         <import addon="script.module.requests" />
         <import addon="script.module.resolveurl" version="5.0.00"/>
@@ -1619,7 +1619,7 @@ Róbta co chceta! :)
     </extension>
 </addon>
 
-<addon id="plugin.video.wrestlingwatch" name="Wrestlingwatch_cam" version="0.2" provider-name="mbebe">
+<addon id="plugin.video.wrestlingwatch" name="Wrestlingwatch_cam" version="0.3" provider-name="mbebe">
     <requires>
         <import addon="script.module.requests" />
         <import addon="script.module.six"/>
