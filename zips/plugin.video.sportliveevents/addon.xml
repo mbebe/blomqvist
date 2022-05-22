@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<addon id="plugin.video.sportliveevents" name="Sport LIVE" version="1.4" provider-name="mbebe">
+    <requires>
+        <import addon="script.module.requests" />
+        <import addon="script.module.six"/>
+        <import addon="script.module.inputstreamhelper" />
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="main.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.service" library="service_entry.py"/>
+    <extension point="xbmc.addon.metadata">
+        <description lang="en">Live Sports</description>
+        <disclaimer lang="en">https://github.com/mbebe/blomqvist</disclaimer>    
+        <summary lang="en">Live Sports</summary>
+        <description lang="pl">Live Sports</description>
+        <disclaimer lang="pl">https://github.com/mbebe/blomqvist</disclaimer>    
+        <summary lang="pl">Live Sports</summary>
+        <language>en pl</language>
+        <platform>all</platform>
+        <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+        <website>https://github.com/mbebe/blomqvist</website>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
+    </extension>
+</addon>
