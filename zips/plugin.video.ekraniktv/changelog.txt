@@ -1,3 +1,6 @@
+1.5
+- poprawka odtwarzania
+
 1.4
 - poprawka odtwarzania
 - poprawka seriali (stronicowanie)
