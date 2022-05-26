@@ -1137,7 +1137,7 @@ Róbta co chceta! :)
 </extension>
 </addon>
 
-<addon id="plugin.video.playermb" version="1.12" name="PlayerPLmb" provider-name="mbebe, m1992, rysson">
+<addon id="plugin.video.playermb" version="1.12.2" name="PlayerPLmb" provider-name="mbebe, m1992, rysson">
 <requires>
     <!-- <import addon="xbmc.python" version="3.0.0" /> -->
     <import addon="script.module.six" />
@@ -1163,7 +1163,10 @@ Róbta co chceta! :)
         <screenshot>resources/screenshot-01.jpg</screenshot>
         <screenshot>resources/screenshot-02.jpg</screenshot>
     </assets>
-    <news>1.12
+    <news>1.12.2
+- transmisja do doby wstecz
+- usunięcie syjątku w IS
+1.12
 - dynamiczna lista kategorii
 - obsługa Eurosport (m1992)
 - generowanie listy m3u TV (m1992, artubieski)
