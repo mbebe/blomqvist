@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-	<addon id="repository.mbebe" name="mbebe" version="0.8" provider-name="mbebe">
+	<addon id="repository.mbebe" name="mbebe" version="0.9" provider-name="mbebe">
 		<extension point="xbmc.addon.repository" name="mbebe">
 			<info compressed="false">https://raw.githubusercontent.com/mbebe/blomqvist/master/zips/addons.xml</info>
 			<checksum>https://raw.githubusercontent.com/mbebe/blomqvist/master/zips/addons.xml.md5</checksum>
@@ -7,7 +7,7 @@
 			<dir>
 				<info compressed="false">https://raw.githubusercontent.com/Proximus20001/mb-support/master/zips/addons.xml</info>
 				<checksum>https://raw.githubusercontent.com/Proximus20001/mb-support/master/zips/addons.xml.md5</checksum>
-				<datadir zip="true">https://github.com/Proximus20001/mb-support/raw/master/zips</datadir>
+				<datadir zip="true">https://raw.githubusercontent.com/Proximus20001/mb-support/master/zips</datadir>
 			</dir>
 			<dir>
 				<info compressed="false">https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml</info>
