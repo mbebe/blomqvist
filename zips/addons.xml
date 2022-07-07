@@ -1674,15 +1674,15 @@ Róbta co chceta! :)
     </extension>
 </addon>
 
-	<addon id="repository.mbebe" name="mbebe" version="0.7" provider-name="mbebe">
+	<addon id="repository.mbebe" name="mbebe" version="0.8" provider-name="mbebe">
 		<extension point="xbmc.addon.repository" name="mbebe">
 			<info compressed="false">https://raw.githubusercontent.com/mbebe/blomqvist/master/zips/addons.xml</info>
 			<checksum>https://raw.githubusercontent.com/mbebe/blomqvist/master/zips/addons.xml.md5</checksum>
 			<datadir zip="true">https://github.com/mbebe/blomqvist/raw/master/zips</datadir>
 			<dir>
-				<info compressed="false">https://raw.githubusercontent.com/Proximus2000/mb-support/master/zips/addons.xml</info>
-				<checksum>https://raw.githubusercontent.com/Proximus2000/mb-support/master/zips/addons.xml.md5</checksum>
-				<datadir zip="true">https://github.com/Proximus2000/mb-support/raw/master/zips</datadir>
+				<info compressed="false">https://raw.githubusercontent.com/Proximus20001/mb-support/master/zips/addons.xml</info>
+				<checksum>https://raw.githubusercontent.com/Proximus20001/mb-support/master/zips/addons.xml.md5</checksum>
+				<datadir zip="true">https://github.com/Proximus20001/mb-support/raw/master/zips</datadir>
 			</dir>
 			<dir>
 				<info compressed="false">https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml</info>
