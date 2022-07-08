@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<addon id="plugin.video.pgobox" version="1.97" name="Polsat Box Go" provider-name="mbebe, mariusz89b">
+<addon id="plugin.video.pgobox" version="1.98" name="Polsat Box Go" provider-name="mbebe, mariusz89b">
 <requires>
   <import addon="xbmc.addon" version="17.9.910"/>
   <import addon="script.module.requests" />
