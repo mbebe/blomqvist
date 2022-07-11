@@ -1,27 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
-	<addon id="repository.mbebe" name="mbebe" version="0.9" provider-name="mbebe">
-		<extension point="xbmc.addon.repository" name="mbebe">
-			<info compressed="false">https://raw.githubusercontent.com/mbebe/blomqvist/master/zips/addons.xml</info>
-			<checksum>https://raw.githubusercontent.com/mbebe/blomqvist/master/zips/addons.xml.md5</checksum>
-			<datadir zip="true">https://github.com/mbebe/blomqvist/raw/master/zips</datadir>
-			<dir>
-				<info compressed="false">https://raw.githubusercontent.com/Proximus20001/mb-support/master/zips/addons.xml</info>
-				<checksum>https://raw.githubusercontent.com/Proximus20001/mb-support/master/zips/addons.xml.md5</checksum>
-				<datadir zip="true">https://raw.githubusercontent.com/Proximus20001/mb-support/master/zips</datadir>
-			</dir>
-			<dir>
-				<info compressed="false">https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml</info>
-				<checksum>https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml.md5</checksum>
-				<datadir zip="true">https://raw.githubusercontent.com/Gujal00/smrzips/master/zips/</datadir>
-			</dir>
-		</extension>
-		<extension point="xbmc.addon.metadata">
-			<summary>...</summary>
-			<description>...</description>
-			<platform>all</platform>
-		</extension>
-        <assets>
-            <icon>icon.png</icon>
-            <fanart>fanart.jpg</fanart>			
-        </assets>			
+    <addon id="repository.mbebe" name="mbebe" version="0.10" provider-name="mbebe">
+        <extension point="xbmc.addon.repository" name="mbebe">
+            <dir>
+                <info compressed="false">https://raw.githubusercontent.com/mbebe/blomqvist/master/zips/addons.xml</info>
+                <checksum>https://raw.githubusercontent.com/mbebe/blomqvist/master/zips/addons.xml.md5</checksum>
+                <datadir zip="true">https://raw.githubusercontent.com/mbebe/blomqvist/master/zips/</datadir>
+            </dir>
+            <dir>
+                <info compressed="false">https://raw.githubusercontent.com/Proximus20001/mb-support/master/zips/addons.xml</info>
+                <checksum>https://raw.githubusercontent.com/Proximus20001/mb-support/master/zips/addons.xml.md5</checksum>
+                <datadir zip="true">https://raw.githubusercontent.com/Proximus20001/mb-support/master/zips</datadir>
+            </dir>
+            <dir>
+                <info compressed="false">https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml</info>
+                <checksum>https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml.md5</checksum>
+                <datadir zip="true">https://raw.githubusercontent.com/Gujal00/smrzips/master/zips/</datadir>
+            </dir>
+        </extension>
+        <extension point="xbmc.addon.metadata">
+            <summary>...</summary>
+            <description>...</description>
+            <platform>all</platform>
+            <assets>
+                <icon>icon.png</icon>
+                <fanart>fanart.jpg</fanart>            
+            </assets>
+        </extension>
+            
 </addon>
