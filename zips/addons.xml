@@ -1321,7 +1321,7 @@ Róbta co chceta! :)
     </extension>
 </addon>
 
-<addon id="plugin.video.sportliveevents" name="Sport LIVE" version="1.7" provider-name="mbebe">
+<addon id="plugin.video.sportliveevents" name="Sport LIVE" version="1.9" provider-name="mbebe">
     <requires>
         <import addon="script.module.requests" />
         <import addon="script.module.six"/>
@@ -1347,8 +1347,8 @@ Róbta co chceta! :)
             <icon>icon.png</icon>
             <fanart>fanart.jpg</fanart>
         </assets>
-        <news>1.7 12-07-2022
-        - Added vipleague</news>
+        <news>1.9 14-07-2022
+        - fixed vipleague</news>
     </extension>
 </addon>
 
