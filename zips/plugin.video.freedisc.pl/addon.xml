@@ -1,28 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<addon id="plugin.video.freedisc.pl" version="1.5" name="freedisc" provider-name="xxxxxx">
+<addon id="plugin.video.freedisc.pl" version="1.6" name="freedisc" provider-name="mbebe">
 <requires>
-  <import addon="xbmc.python" version="2.1.0"/>
-  <import addon="script.common.plugin.cache" version="2.5.5"/> 
-  <import addon="script.module.requests" version="2.18.4"/>
+    <import addon="xbmc.python" version="3.0.0"/>
+    <import addon="script.module.routing" />
+    <import addon="script.common.plugin.cache" version="2.5.5"/> 
+    <import addon="script.module.requests" version="2.18.4"/>
+    <import addon="script.module.inputstreamhelper" version="0.3.3"/>
 </requires>
 <extension point="xbmc.python.pluginsource" library="main.py">
-  <provides>video</provides>
+    <provides>video</provides>
 </extension>
 <extension point="xbmc.addon.metadata">
-  <summary lang="en">Freedisc</summary>
-  <description lang="en">Freedisc</description>
-  <disclaimer lang="en">A private use only. </disclaimer>
-  <language></language>
-  <platform>all</platform>
-  <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-  <forum></forum>
-  <website></website>
-  <email></email>
-  <assets>
-    <icon>icon.png</icon>
-    <fanart>fanart.jpg</fanart>
-  </assets>
-  <news>
-  </news>
+    <summary lang="en">Freedisc</summary>
+    <description lang="en">Freedisc</description>
+    <disclaimer lang="en">A private use only. </disclaimer>
+    <language></language>
+    <platform>all</platform>
+    <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+    <forum></forum>
+    <website></website>
+    <email></email>
+    <assets>
+        <icon>icon.png</icon>
+        <fanart>fanart.jpg</fanart>
+    </assets>
+    <news>
+    </news>
 </extension>
 </addon>
