@@ -1,3 +1,6 @@
+1.18
+- fix movcloud, vidzcloud
+
 1.16
 - fix search
 
