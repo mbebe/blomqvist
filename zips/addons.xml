@@ -442,30 +442,6 @@
   </extension>
 </addon>
 
-<addon id="plugin.video.ekraniktv" name="Ekranik.tv" version="1.5" provider-name="mbebe">
-	<requires>
-		<!--<import addon="xbmc.python" version="2.1.0"/>-->
-		<import addon="script.module.requests" />
-
-	</requires>
-	<extension point="xbmc.python.pluginsource" library="main.py">
-		<provides>video</provides>
-	</extension>
-	<extension point="xbmc.addon.metadata">
-		<description lang="pl">Ekranik.tv</description>
-		<disclaimer lang="pl">https://github.com/mbebe/blomqvist</disclaimer>
-		<summary lang="pl">Ekranik.tv</summary>
-		<language>pl</language>
-		<platform>all</platform>
-		<license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-		<website>https://github.com/mbebe/blomqvist</website>
-		<assets>
-			<icon>icon.png</icon>
-			<fanart>fanart.jpg</fanart>
-		</assets>
-	</extension>
-</addon>
-
 <addon id="plugin.video.ekstraklasa" name="Ekstraklasa" version="4.2.12" provider-name="mbebe">
 	<requires>
 		<!--<import addon="xbmc.python" version="2.1.0"/>-->
@@ -849,30 +825,6 @@ Róbta co chceta! :)
 </extension>
 </addon>
 
-<addon id="plugin.video.hejotv" name="hejo.tv" version="2.2.92" provider-name="mbebe">
-	<requires>
-
-		<import addon="script.module.requests" />
-
-	</requires>
-	<extension point="xbmc.python.pluginsource" library="main.py">
-		<provides>video</provides>
-	</extension>
-	<extension point="xbmc.addon.metadata">
-		<description lang="pl">hejo.tv</description>
-		<disclaimer lang="pl">https://github.com/mbebe/blomqvist</disclaimer>
-		<summary lang="pl">hejo.tv</summary>
-		<language>pl</language>
-		<platform>all</platform>
-		<license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-		<website>https://github.com/mbebe/blomqvist</website>
-		<assets>
-			<icon>icon.png</icon>
-			<fanart>fanart.jpg</fanart>
-		</assets>
-	</extension>
-</addon>
-
 <addon id="plugin.video.horizongo" name="UPC TV GO (Horizon GO)" version="2.5" provider-name="mbebe">
     <requires>
         <!-- <import addon="xbmc.python" version="3.0.0" /> -->
@@ -924,35 +876,6 @@ Róbta co chceta! :)
 	<news>
 	</news>
 </extension>
-</addon>
-
-<addon id="plugin.video.internetws" name="Internetowa.tv" version="1.6.14" provider-name="mbebe">
-	<requires>
-		<!--<import addon="xbmc.python" version="2.1.0"/>-->
-		<import addon="script.module.requests" />
-		<!--<import addon="script.module.elementtree" version="1.2.7"/>-->
-
-	</requires>
-	<extension point="xbmc.python.pluginsource" library="main.py">
-		<provides>video</provides>
-	</extension>
-	<extension point="xbmc.addon.metadata">
-		<description lang="pl">internetowa.ws (premium)</description>
-		<disclaimer lang="pl">https://github.com/mbebe/blomqvist</disclaimer>
-		<summary lang="pl">internetowa.ws (premium)</summary>
-		<description lang="en">internetowa.ws (premium)</description>
-		<disclaimer lang="en">https://github.com/mbebe/blomqvist</disclaimer>
-		<summary lang="en">internetowa.ws (premium)</summary>
-		<language></language>
-		<platform>all</platform>
-		<license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-		<forum>https://github.com/mbebe/blomqvist/issues</forum>
-		<website>https://github.com/mbebe/blomqvist</website>
-		<assets>
-			<icon>icon.png</icon>
-			<fanart>fanart.jpg</fanart>
-		</assets>
-	</extension>
 </addon>
 
 <addon id="plugin.video.kimcartoon" name="KimCartoon" version="0.5" provider-name="mbebe">
