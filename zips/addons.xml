@@ -670,7 +670,7 @@ Róbta co chceta! :)
     </extension>
 </addon>
 
-<addon id="plugin.video.fmoviesto" name="fmovies.to" version="1.19" provider-name="mbebe">
+<addon id="plugin.video.fmoviesto" name="fmovies.to" version="1.20" provider-name="mbebe">
     <requires>
         <import addon="script.module.requests" />
         <import addon="script.module.resolveurl"/>
@@ -693,7 +693,7 @@ Róbta co chceta! :)
     </extension>
 </addon>
 
-<addon id="plugin.video.freedisc.pl" version="1.6" name="freedisc" provider-name="mbebe">
+<addon id="plugin.video.freedisc.pl" version="1.7" name="freedisc" provider-name="mbebe">
 <requires>
     <import addon="xbmc.python" version="3.0.0"/>
     <import addon="script.module.routing" />
@@ -761,29 +761,6 @@ Róbta co chceta! :)
         <disclaimer lang="en">https://github.com/mbebe/blomqvist</disclaimer>
         <summary lang="en">Watch movies</summary>
         <language>en</language>
-        <platform>all</platform>
-        <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-        <website>https://github.com/mbebe/blomqvist</website>
-        <assets>
-            <icon>icon.png</icon>
-            <fanart>fanart.jpg</fanart>
-        </assets>
-    </extension>
-</addon>
-
-<addon id="plugin.video.govodtv" name="govod.tv" version="1.9" provider-name="mbebe">
-    <requires>
-        <!-- <import addon="xbmc.python" version="3.0.0" /> -->
-        <import addon="script.module.requests" />
-    </requires>
-    <extension point="xbmc.python.pluginsource" library="main.py">
-        <provides>video</provides>
-    </extension>
-    <extension point="xbmc.addon.metadata">
-        <description lang="pl">govod.tv</description>
-        <disclaimer lang="pl">https://github.com/mbebe/blomqvist</disclaimer>
-        <summary lang="pl">govod.tv</summary>
-        <language>pl</language>
         <platform>all</platform>
         <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
         <website>https://github.com/mbebe/blomqvist</website>
@@ -1431,7 +1408,7 @@ Róbta co chceta! :)
   </extension>
 </addon>
 
-<addon id="plugin.video.tvpABON" name="TVP strefa abo" version="1.15" provider-name="mbebe">
+<addon id="plugin.video.tvpABON" name="TVP strefa abo" version="1.16" provider-name="mbebe">
 	<requires>
 		<!-- <import addon="xbmc.python" version="3.0.0" /> -->
 		<import addon="script.module.six"/>
