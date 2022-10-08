@@ -723,7 +723,7 @@ Róbta co chceta! :)
 </extension>
 </addon>
 
-<addon id="plugin.video.gonettv" name="goNET.TV - LEPSI.TV" version="1.3" provider-name="mbebe">
+<addon id="plugin.video.gonettv" name="goNET.TV - LEPSI.TV" version="1.4" provider-name="mbebe">
 	<requires>
 
 		<import addon="script.module.requests" />
@@ -1458,7 +1458,7 @@ Róbta co chceta! :)
     </extension>
 </addon>
 
-<addon id="plugin.video.vectrapl" name="VECTRA PL" version="0.6" provider-name="mbebe">
+<addon id="plugin.video.vectrapl" name="VECTRA PL" version="0.7" provider-name="mbebe">
     <requires>
         <import addon="script.module.requests" />
         <import addon="script.module.iso8601" version="0.1.11" />
@@ -1558,7 +1558,7 @@ Róbta co chceta! :)
     </extension>
 </addon>
 
-<addon id="plugin.video.wrestlingwatch" name="Wrestlingwatch_cam" version="0.3" provider-name="mbebe">
+<addon id="plugin.video.wrestlingwatch" name="Wrestlingwatch_cam" version="0.4" provider-name="mbebe">
     <requires>
         <import addon="script.module.requests" />
         <import addon="script.module.six"/>
