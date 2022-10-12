@@ -156,7 +156,7 @@
     </extension>
 </addon>
 
-<addon id="plugin.video.canalplusvod" version="1.7.5.4" name="CanalPLUS-VOD" provider-name="mbebe, mariusz89b">
+<addon id="plugin.video.canalplusvod" version="1.7.5.5" name="CanalPLUS-VOD" provider-name="mbebe, mariusz89b">
 <requires>
 <!-- <import addon="xbmc.addon" version="17.9.910"/>-->
   <import addon="script.module.requests" />

@@ -1,3 +1,6 @@
+﻿1.7.5.5
+- fix update
+
 1.7.5.4
 - dodatnie strony głównej w menu
 - dodanie kanałów w VOD
