@@ -1,3 +1,6 @@
+0.4
+- fix logowanie gdy profil
+
 0.3
 - fix logowanie (rysson)
 

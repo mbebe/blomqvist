@@ -247,7 +247,7 @@
 </extension>
 </addon>
 
-<addon id="plugin.video.cdaplMB" version="1.8" name="CDA.pl + CDA TV" provider-name="mbebe">
+<addon id="plugin.video.cdaplMB" version="1.9" name="CDA.pl + CDA TV" provider-name="mbebe">
 <requires>
     <import addon="script.module.requests"/>
     <import addon="script.module.inputstreamhelper" version="0.3.3"/>
@@ -1249,7 +1249,7 @@ Róbta co chceta! :)
     </extension>
 </addon>
 
-<addon id="plugin.video.sportliveevents" name="Sport LIVE" version="1.9" provider-name="mbebe">
+<addon id="plugin.video.sportliveevents" name="Sport LIVE" version="1.10" provider-name="mbebe">
     <requires>
         <import addon="script.module.requests" />
         <import addon="script.module.six"/>
@@ -1280,7 +1280,7 @@ Róbta co chceta! :)
     </extension>
 </addon>
 
-<addon id="plugin.video.sportpremium" name="Sport Premium" version="1.5" provider-name="mbebe">
+<addon id="plugin.video.sportpremium" name="Sport Premium" version="1.6" provider-name="mbebe">
 	<requires>
 		<import addon="script.module.requests" />
 		<import addon="script.module.six"/>
@@ -1328,7 +1328,7 @@ Róbta co chceta! :)
     </extension>
 </addon>
 
-<addon id="plugin.video.televiopl" name="Televio PL" version="0.3" provider-name="mbebe">
+<addon id="plugin.video.televiopl" name="Televio PL" version="0.4" provider-name="mbebe">
     <requires>
         <import addon="script.module.requests" />
         <import addon="script.module.iso8601" version="0.1.11" />

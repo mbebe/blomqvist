@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
-<addon id="plugin.video.sportpremium" name="Sport Premium" version="1.5" provider-name="mbebe">
+<addon id="plugin.video.sportpremium" name="Sport Premium" version="1.6" provider-name="mbebe">
 	<requires>
 		<import addon="script.module.requests" />
 		<import addon="script.module.six"/>

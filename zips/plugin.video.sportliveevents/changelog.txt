@@ -1,3 +1,6 @@
+1.10
+- dodane sport365, methstreams
+
 1.6
 - stronicowanie TVP SPORT
 
