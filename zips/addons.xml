@@ -442,14 +442,11 @@
   </extension>
 </addon>
 
-<addon id="plugin.video.ekstraklasa" name="Ekstraklasa" version="4.2.12" provider-name="mbebe">
+<addon id="plugin.video.ekstraklasa" name="Ekstraklasa" version="4.2.13" provider-name="mbebe">
 	<requires>
-		<!--<import addon="xbmc.python" version="2.1.0"/>-->
 		<import addon="script.module.resolveurl"/>
 		<import addon="script.module.six"/>
-		<!--<import addon="script.module.parsedom" version="2.5.2"/>-->
 		<import addon="script.module.requests" />
-		<!--<import addon="script.module.streamlink.base" />-->
 		<import addon="script.module.inputstreamhelper" version="0.3.3"/>
 	</requires>
 	<extension point="xbmc.python.pluginsource" library="main.py">
@@ -956,6 +953,34 @@ Róbta co chceta! :)
 	</extension>
 </addon>
 
+<addon id="plugin.video.netiago" version="1.0" name="Netia Go" provider-name="mbebe">
+<requires>
+  <import addon="xbmc.addon" version="17.9.910"/>
+  <import addon="script.module.requests" />
+  <import addon="script.module.inputstreamhelper" />
+</requires>
+<extension point="xbmc.python.pluginsource" library="main.py">
+  <provides>video</provides>
+</extension>
+<extension point="xbmc.addon.metadata">
+  <summary lang="en">https://go.netia.pl/</summary>
+  <description lang="en">https://go.netia.pl/</description>
+  <disclaimer lang="en">A private use only. For bugs, requests or ge</disclaimer>
+  <language></language>
+  <platform>all</platform>
+  <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+  <forum></forum>
+  <website></website>
+  <assets>
+    <icon>icon.png</icon>
+    <fanart>fanart.jpg</fanart>
+    <screenshot>resources/screenshot-01.jpg</screenshot>
+    <screenshot>resources/screenshot-02.jpg</screenshot>
+  </assets>
+  <news></news>
+</extension>
+</addon>
+
 <addon id="plugin.video.ninateka" version="1.7.1" name="Ninateka" provider-name="mbebe, heppen-dev, zuzia-dev">
     <requires>
         <import addon="script.module.inputstreamhelper" version="0.3.3"/>
@@ -1321,6 +1346,31 @@ Róbta co chceta! :)
         <platform>all</platform>
         <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
         <website>https://github.com/mbebe/blomqvist</website>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
+    </extension>
+</addon>
+
+<addon id="plugin.video.sweettvpl" name="Sweet TV" version="0.1" provider-name="mbebe">
+    <requires>
+        <import addon="script.module.routing" />
+        <import addon="script.module.requests" />
+        <import addon="script.module.iso8601" version="0.1.11" />
+        <import addon="script.module.inputstreamhelper" version="0.3.3"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="main.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <description>Sweet TV</description>
+        <disclaimer></disclaimer>
+        <summary>Sweet TV</summary>
+        <language>pl</language>
+        <platform>all</platform>
+        <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+        <website></website>
         <assets>
             <icon>icon.png</icon>
             <fanart>fanart.jpg</fanart>
