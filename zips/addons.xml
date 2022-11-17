@@ -953,7 +953,7 @@ Róbta co chceta! :)
 	</extension>
 </addon>
 
-<addon id="plugin.video.netiago" version="1.0" name="Netia Go" provider-name="mbebe">
+<addon id="plugin.video.netiago" version="1.1" name="Netia Go" provider-name="mbebe">
 <requires>
   <import addon="xbmc.addon" version="17.9.910"/>
   <import addon="script.module.requests" />
