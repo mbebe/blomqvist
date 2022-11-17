@@ -1,5 +1,5 @@
-﻿1.7.5.7
-- fix BBC player i Premiery C&I
+﻿1.7.5.8
+- fix kanaly na zyczenie
 
 1.7.5.5
 - fix update
