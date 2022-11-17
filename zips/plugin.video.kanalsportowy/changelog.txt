@@ -1,4 +1,8 @@
+1.2
+- dodane szukanie
+
 1.1
 - poprawa transmisje na zywo
+
 1.0
 - initial version 
