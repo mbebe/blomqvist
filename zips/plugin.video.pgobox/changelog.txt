@@ -1,0 +1,5 @@
+1.99
+- przywrócenie EPG
+- komunikat i blokada odtwarzania po wyborze TV spoza pakietu
+- naprawa sekcji HBO
+- poprawki w prezentacji czasu
