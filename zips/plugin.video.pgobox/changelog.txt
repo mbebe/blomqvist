@@ -1,5 +1,6 @@
-1.99
+1.100
 - przywrócenie EPG
 - komunikat i blokada odtwarzania po wyborze TV spoza pakietu
 - naprawa sekcji HBO
 - poprawki w prezentacji czasu
+- transmisje LIVE niedostępne w pakiecie z cechą isPlayable=false
