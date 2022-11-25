@@ -768,6 +768,34 @@ Róbta co chceta! :)
     </extension>
 </addon>
 
+<addon id="plugin.video.grupamirai" name="Grupa Mirai (anime)" version="0.1" provider-name="mbebe">
+    <requires>
+        <import addon="xbmc.python" version="3.0.0"/>
+        <import addon="script.module.requests" />
+        <import addon="script.module.six"/>
+        <import addon="script.module.resolveurl" version="5.0.00"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="main.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <description lang="en">https://www.grupa-mirai.pl/</description>
+        <disclaimer lang="en">https://github.com/mbebe/blomqvist</disclaimer>
+        <summary lang="en">https://www.grupa-mirai.pl/</summary>
+        <description lang="pl">https://www.grupa-mirai.pl/</description>
+        <disclaimer lang="pl">https://github.com/mbebe/blomqvist</disclaimer>
+        <summary lang="pl">https://www.grupa-mirai.pl/</summary>
+        <language>pl</language>
+        <platform>all</platform>
+        <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+        <website>https://github.com/mbebe/blomqvist</website>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
+    </extension>
+</addon>
+
 <addon id="plugin.video.HDseans" version="1.13" name="HDseans" provider-name="mbebe">
 <requires>
 	<import addon="script.module.six"/>
@@ -928,7 +956,7 @@ Róbta co chceta! :)
     </extension>
 </addon>
 
-<addon id="plugin.video.mbfilm" name="MB filmy" version="1.3.40" provider-name="mbebe">
+<addon id="plugin.video.mbfilm" name="MB filmy" version="1.3.41" provider-name="mbebe">
 	<requires>
 		<import addon="xbmc.addon" version="17.9.910"/>
 		<import addon="script.module.requests" />
@@ -1065,7 +1093,7 @@ Róbta co chceta! :)
     </extension>
 </addon>
 
-<addon id="plugin.video.pgobox" version="1.99" name="Polsat Box Go" provider-name="mbebe, mariusz89b">
+<addon id="plugin.video.pgobox" version="1.100" name="Polsat Box Go" provider-name="mbebe, mariusz89b, mtr81">
 <requires>
   <import addon="xbmc.addon" version="17.9.910"/>
   <import addon="script.module.requests" />
