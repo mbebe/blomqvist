@@ -1,4 +1,7 @@
-﻿1.7.5.8
+﻿1.7.5.9
+- fix logowania (hevet)
+
+1.7.5.8
 - fix kanaly na zyczenie
 
 1.7.5.5
