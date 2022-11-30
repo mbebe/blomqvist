@@ -1409,7 +1409,7 @@ Róbta co chceta! :)
     </extension>
 </addon>
 
-<addon id="plugin.video.televiopl" name="Televio PL" version="0.5" provider-name="mbebe">
+<addon id="plugin.video.televiopl" name="Televio PL" version="0.7" provider-name="mbebe">
     <requires>
         <import addon="script.module.requests" />
         <import addon="script.module.iso8601" version="0.1.11" />
