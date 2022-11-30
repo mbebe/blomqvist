@@ -1,3 +1,6 @@
+1.10
+- fix logowania (yeebuttny)
+
 1.5
 - poprawka tv
 

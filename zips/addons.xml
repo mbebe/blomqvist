@@ -247,7 +247,7 @@
 </extension>
 </addon>
 
-<addon id="plugin.video.cdaplMB" version="1.9" name="CDA.pl + CDA TV" provider-name="mbebe">
+<addon id="plugin.video.cdaplMB" version="1.10" name="CDA.pl + CDA TV" provider-name="mbebe">
 <requires>
     <import addon="script.module.requests"/>
     <import addon="script.module.inputstreamhelper" version="0.3.3"/>
