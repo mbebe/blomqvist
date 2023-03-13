@@ -104,7 +104,7 @@
     </extension>
 </addon>
 
-<addon id="plugin.video.bajeczkiorg" name="Bajeczki.org" version="1.10" provider-name="mbebe">
+<addon id="plugin.video.bajeczkiorg" name="Bajeczki.org" version="1.11" provider-name="mbebe">
     <requires>
 
         <import addon="script.module.requests" />

@@ -1,4 +1,7 @@
-﻿1.10
+﻿1.11
+- poprawka zrodel
+
+1.10
 - poprawka vkprime
 
 1.9
