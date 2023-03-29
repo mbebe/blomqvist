@@ -931,11 +931,13 @@ Róbta co chceta! :)
     </extension>
 </addon>
 
-<addon id="plugin.video.kimcartoon" name="KimCartoon" version="0.5" provider-name="mbebe">
+<addon id="plugin.video.kimcartoon" name="KimCartoon" version="0.6" provider-name="mbebe">
     <requires>
         <import addon="script.module.requests" />
         <import addon="script.module.six"/>
         <import addon="script.module.pycryptodome"/>
+        <import addon="script.module.pyjsparser" version="3.0.0"/>
+        <import addon="script.module.js2py" version="3.0.0"/>
     </requires>
     <extension point="xbmc.python.pluginsource" library="main.py">
         <provides>video</provides>
