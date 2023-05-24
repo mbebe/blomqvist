@@ -466,7 +466,7 @@
   </extension>
 </addon>
 
-<addon id="plugin.video.ekstraklasa" name="Ekstraklasa" version="4.2.18" provider-name="mbebe">
+<addon id="plugin.video.ekstraklasa" name="Ekstraklasa" version="4.2.19" provider-name="mbebe">
 	<requires>
 		<import addon="script.module.resolveurl"/>
 		<import addon="script.module.six"/>
