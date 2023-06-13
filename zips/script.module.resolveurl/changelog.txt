@@ -1,15 +1,18 @@
-Version 5.1.39 (Aug 19, 2021)
+Version 5.1.100 (Jun 11, 2023)
 - Code Base Changes:
     - None
 
 - Resolvers Added:
-    - VideoVard
- 
+    - None
+
 - Resolvers Fixed/Updated:
-    - Streamsb
-    - streamtape
-    - Vupload
-    - youdbox
+    - clicknupload
+    - desiupload
+    - filelions
+    - gofile
+    - streamhide
+    - streamsb
+
 
 - Resolvers Removed
     - None

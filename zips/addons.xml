@@ -466,7 +466,7 @@
   </extension>
 </addon>
 
-<addon id="plugin.video.ekstraklasa" name="Ekstraklasa" version="4.2.19" provider-name="mbebe">
+<addon id="plugin.video.ekstraklasa" name="Ekstraklasa" version="4.2.20" provider-name="mbebe">
 	<requires>
 		<import addon="script.module.resolveurl"/>
 		<import addon="script.module.six"/>
@@ -1987,12 +1987,11 @@ Róbta co chceta! :)
   </extension>
 </addon>
 
-<addon id="script.module.resolveurl" name="ResolveURL" version="5.1.62" provider-name="gujal">
+<addon id="script.module.resolveurl" name="ResolveURL" version="5.1.100" provider-name="gujal">
     <requires>
         <!-- <import addon="xbmc.python" version="3.0.0" /> -->
         <import addon="script.module.six" />
         <import addon="script.module.kodi-six" />
-        <import addon="script.module.certifi" />
         <import addon="plugin.video.youtube" optional="true" />
         <import addon="script.module.python.twitch" optional="true" />
         <import addon="plugin.googledrive" optional="true" />
