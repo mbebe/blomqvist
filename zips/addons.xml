@@ -1008,7 +1008,7 @@ Róbta co chceta! :)
     </extension>
 </addon>
 
-<addon id="plugin.video.latinohd" name="Tele Latino HD" version="0.5" provider-name="mbebe">
+<addon id="plugin.video.latinohd" name="Tele Latino HD" version="0.6" provider-name="mbebe">
     <requires>
         <import addon="script.module.requests" />
         <import addon="script.module.six"/>
@@ -2013,7 +2013,7 @@ Róbta co chceta! :)
   </extension>
 </addon>
 
-<addon id="script.module.resolveurl" name="ResolveURL" version="5.1.100" provider-name="gujal">
+<addon id="script.module.resolveurl" name="ResolveURL" version="5.1.102" provider-name="gujal">
     <requires>
         <!-- <import addon="xbmc.python" version="3.0.0" /> -->
         <import addon="script.module.six" />

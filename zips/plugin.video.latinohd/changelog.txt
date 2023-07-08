@@ -1,2 +1,4 @@
+0.6
+- fix new website
 0.1
 - initial version 
