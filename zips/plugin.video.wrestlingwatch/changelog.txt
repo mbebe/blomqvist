@@ -1,5 +1,10 @@
+0.7
+- Watchwrestling.cam fix
+- watchprowrestling deleted
+
 0.6
 - Watchwrestling.cam fix
+
 
 0.5
 - watchprowrestling.live fix
