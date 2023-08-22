@@ -1,3 +1,9 @@
+1.8.12
+- usuniete strony offline
+- dodane telewizjastreamer
+- dodane rozne
+- dodane IA
+
 1.8.11
 - dodane VOD (beta tv)
 
