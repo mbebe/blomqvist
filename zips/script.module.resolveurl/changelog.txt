@@ -1,16 +1,25 @@
-Version 5.1.102 (Jul 08, 2023)
+Version 5.1.108 (Sep 3, 2023)
 - Code Base Changes:
-    - None
+    - Update User-Agents
 
 - Resolvers Added:
-    - None
+    - updown
+    - vidtube
 
 - Resolvers Fixed/Updated:
-    - neohd
-    - vembx
+    - dembed
+    - goload
+    - hdvid
+    - lulustream
+    - reviewrate
+    - speedostream
+    - vidguard
+    - vimoly
+    - voesx
+    - vtube
 
 - Resolvers Removed
     - None
 
 - Languages Added/Updated
-    - None
+    - All
