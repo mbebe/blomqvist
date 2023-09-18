@@ -1,2 +1,4 @@
+0.2
+- added playing via proxy
 0.1
 - initial version 
