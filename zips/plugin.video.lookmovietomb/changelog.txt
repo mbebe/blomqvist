@@ -1,2 +1,4 @@
+0.2
+- filters added
 0.1
 - initial version 

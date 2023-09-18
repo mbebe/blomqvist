@@ -1032,7 +1032,7 @@ Róbta co chceta! :)
     </extension>
 </addon>
 
-<addon id="plugin.video.lookmovietomb" name="LookMovie" version="0.1" provider-name="mbebe">
+<addon id="plugin.video.lookmovietomb" name="LookMovie" version="0.2" provider-name="mbebe">
     <requires>
         <import addon="xbmc.python" version="3.0.0" />
         <import addon="script.module.inputstreamhelper" version="0.3.3"/>
@@ -1139,7 +1139,7 @@ Róbta co chceta! :)
 </extension>
 </addon>
 
-<addon id="plugin.video.nfmirror" name="Netflix Mirror" version="0.2" provider-name="mbebe">
+<addon id="plugin.video.nfmirror" name="Netflix Mirror" version="0.3" provider-name="mbebe">
     <requires>
         <import addon="xbmc.python" version="3.0.0" />
         <import addon="script.module.inputstreamhelper" version="0.3.3"/>
