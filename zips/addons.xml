@@ -718,7 +718,7 @@ Róbta co chceta! :)
     </extension>
 </addon>
 
-<addon id="plugin.video.fmoviesto" name="fmovies.to" version="1.23" provider-name="mbebe">
+<addon id="plugin.video.fmoviesto" name="fmovies.to" version="1.24" provider-name="mbebe">
     <requires>
         <import addon="script.module.requests" />
         <import addon="script.module.resolveurl"/>
@@ -727,9 +727,9 @@ Róbta co chceta! :)
         <provides>video</provides>
     </extension>
     <extension point="xbmc.addon.metadata">
-        <description>fmovies.to</description>
+        <description>fmoviesz.to</description>
         <disclaimer>https://github.com/mbebe/blomqvist</disclaimer>
-        <summary>fmovies.to</summary>
+        <summary>fmoviesz.to</summary>
         <language>pl</language>
         <platform>all</platform>
         <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
