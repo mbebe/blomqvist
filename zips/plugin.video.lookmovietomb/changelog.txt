@@ -1,4 +1,8 @@
+0.3
+- fix captcha
+
 0.2
 - filters added
+
 0.1
 - initial version 

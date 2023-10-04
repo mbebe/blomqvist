@@ -1,5 +1,9 @@
+1.25
+- fix subtitles
+
 1.24
 - fix new domain
+
 1.23
 - fix vrf decode - 20.07.23
 - vidstream, mycloud fix
