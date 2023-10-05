@@ -1,3 +1,6 @@
+0.5
+- fix categories
+
 0.4
 - fix tvshows
 
