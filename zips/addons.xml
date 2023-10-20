@@ -2148,4 +2148,22 @@ Róbta co chceta! :)
         </assets>
     </extension>
 </addon>
+
+<addon id="script.module.tls_client" name="tls_client" version="1.0" provider-name="tls_client">
+  <requires>
+    <import addon="xbmc.python" version="3.0.0"/>
+  </requires>
+  <extension point="xbmc.python.module" library="lib" />
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en_GB">Tls-Client is a powerful, user-friendly HTTP client for Python</summary>
+    <description lang="en_GB">Tls-Clien is a powerful, user-friendly HTTP client for Python.</description>
+    <license>MIT</license>
+    <platform>all</platform>
+    <website>https://github.com/FlorianREGAZ/Python-Tls-Client</website>
+    <source>https://github.com/FlorianREGAZ/Python-Tls-Client</source>
+    <assets>
+      <icon>resources/icon.png</icon>
+    </assets>
+  </extension>
+</addon>
 </addons>
