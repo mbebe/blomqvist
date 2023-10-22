@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<addon id="plugin.video.filmancc" version="2.7" name="filman.cc" provider-name="mbebe">
+<addon id="plugin.video.filmancc" version="2.11" name="filman.cc" provider-name="mbebe">
 <requires>
   <import addon="script.module.resolveurl" version="5.0.00"/>
   <import addon="script.common.plugin.cache" version="2.5.5"/>

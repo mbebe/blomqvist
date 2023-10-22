@@ -1,3 +1,13 @@
+2.11
+- poprawka szukania
+- poprawka filtrow
+
+2.9
+- poprawka paginacji: seriale(lista)
+
+2.8
+- poprawka wyszukiwarki
+
 2.7
 - PY3 (KODI19)
 
