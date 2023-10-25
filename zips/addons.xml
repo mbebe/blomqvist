@@ -771,7 +771,7 @@ Róbta co chceta! :)
 </extension>
 </addon>
 
-<addon id="plugin.video.gomoviesmb" name="GOmovies.sx" version="0.1" provider-name="mbebe">
+<addon id="plugin.video.gomoviesmb" name="GOmovies.sx" version="0.2" provider-name="mbebe">
 	<requires>
 		<import addon="xbmc.python" version="3.0.0" />
 		<import addon="script.module.requests" />
