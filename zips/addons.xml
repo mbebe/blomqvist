@@ -771,6 +771,31 @@ Róbta co chceta! :)
 </extension>
 </addon>
 
+<addon id="plugin.video.gomoviesmb" name="GOmovies.sx" version="0.1" provider-name="mbebe">
+	<requires>
+		<import addon="xbmc.python" version="3.0.0" />
+		<import addon="script.module.requests" />
+		<import addon="script.module.six"/>
+		<import addon="script.module.resolveurl" version="5.0.00"/>
+	</requires>
+	<extension point="xbmc.python.pluginsource" library="main.py">
+		<provides>video</provides>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<description lang="en">GOmovies.sx</description>
+		<disclaimer lang="en">https://github.com/mbebe/blomqvist</disclaimer>
+		<summary lang="en">GOmovies.sx</summary>
+		<language>en</language>
+		<platform>all</platform>
+		<license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+		<website>https://github.com/mbebe/blomqvist</website>
+		<assets>
+			<icon>icon.png</icon>
+			<fanart>fanart.jpg</fanart>
+		</assets>
+	</extension>
+</addon>
+
 <addon id="plugin.video.gonettv" name="goNET.TV - LEPSI.TV" version="1.5" provider-name="mbebe, marcin-szczepanski">
 	<requires>
 
