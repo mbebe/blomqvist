@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
-<addon id="plugin.video.flixclassic" name="Flixclassic.pl" version="0.1" provider-name="mbebe">
+<addon id="plugin.video.flixclassic" name="Flixclassic.pl" version="0.3" provider-name="mbebe">
     <requires>
         <import addon="script.module.routing" />
         <import addon="script.module.requests" />
