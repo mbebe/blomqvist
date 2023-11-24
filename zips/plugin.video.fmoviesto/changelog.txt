@@ -1,3 +1,6 @@
+1.26
+- vidstream, mycloud fix
+
 1.25
 - fix subtitles
 
