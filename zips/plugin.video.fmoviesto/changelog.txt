@@ -1,3 +1,6 @@
+1.27
+- fix PY2 (kodi18)
+
 1.26
 - vidstream, mycloud fix
 

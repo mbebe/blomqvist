@@ -1,3 +1,6 @@
+1.4
+- fix PY2 (kodi18)
+
 1.3
 - fix hosts
 
