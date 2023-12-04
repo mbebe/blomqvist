@@ -1,5 +1,9 @@
+0.3
+- fix urlib3 error
+
 0.2
 - fix image
 - subtitle support
+
 0.1
 - initial version 

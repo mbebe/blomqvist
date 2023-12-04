@@ -207,7 +207,7 @@
     </extension>
 </addon>
 
-<addon id="plugin.video.canalplusvod" version="1.7.5.9" name="CanalPLUS-VOD" provider-name="mbebe, mariusz89b, hevet">
+<addon id="plugin.video.canalplusvod" version="1.7.5.10" name="CanalPLUS-VOD" provider-name="mbebe, mariusz89b, hevet">
 <requires>
 <!-- <import addon="xbmc.addon" version="17.9.910"/>-->
   <import addon="script.module.requests" />
@@ -322,7 +322,7 @@
 </extension>
 </addon>
 
-<addon id="plugin.video.cdaplMB" version="1.10" name="CDA.pl + CDA TV" provider-name="mbebe">
+<addon id="plugin.video.cdaplMB" version="1.11" name="CDA.pl + CDA TV" provider-name="mbebe">
 <requires>
     <import addon="script.module.requests"/>
     <import addon="script.module.inputstreamhelper" version="0.3.3"/>
@@ -379,7 +379,7 @@
 </extension>
 </addon>
 
-<addon id="plugin.video.darmowatv" name="darmowaTV" version="1.8.12" provider-name="mbebe">
+<addon id="plugin.video.darmowatv" name="darmowaTV" version="1.8.13" provider-name="mbebe">
 	<requires>
 		<import addon="script.module.requests" />
 		<import addon="script.module.six"/>
@@ -580,7 +580,7 @@ Tabele, terminarze, listy strzelców
     </extension>
 </addon>
 
-<addon id="plugin.video.fifaplusbeta" name="FIFA plus (beta)" version="0.4" provider-name="mbebe">
+<addon id="plugin.video.fifaplusbeta" name="FIFA plus (beta)" version="0.5" provider-name="mbebe">
     <requires>
         <import addon="script.module.routing" />
         <import addon="script.module.requests" />
@@ -1107,7 +1107,7 @@ Róbta co chceta! :)
     </extension>
 </addon>
 
-<addon id="plugin.video.lookmovietomb" name="LookMovie" version="0.5" provider-name="mbebe">
+<addon id="plugin.video.lookmovietomb" name="LookMovie" version="0.6" provider-name="mbebe">
     <requires>
         <import addon="xbmc.python" version="3.0.0" />
         <import addon="script.module.inputstreamhelper" version="0.3.3"/>
@@ -1619,7 +1619,7 @@ Róbta co chceta! :)
     </extension>
 </addon>
 
-<addon id="plugin.video.sportpremium" name="Sport Premium" version="1.7" provider-name="mbebe">
+<addon id="plugin.video.sportpremium" name="Sport Premium" version="1.8" provider-name="mbebe">
     <requires>
         <import addon="xbmc.python" version="3.0.0" />
         <import addon="script.module.requests" />
@@ -1742,7 +1742,7 @@ Róbta co chceta! :)
     </extension>
 </addon>
 
-<addon id="plugin.video.tugaflixmb" name="Tugaflix.best" version="0.2" provider-name="mbebe">
+<addon id="plugin.video.tugaflixmb" name="Tugaflix.best" version="0.3" provider-name="mbebe">
     <requires>
         <import addon="xbmc.python" version="3.0.0" />
         <import addon="script.module.inputstreamhelper" version="0.3.3"/>
@@ -1853,7 +1853,7 @@ Róbta co chceta! :)
 	</extension>
 </addon>
 
-<addon id="plugin.video.tvparapobres" name="Tvparapobres" version="0.2" provider-name="mbebe">
+<addon id="plugin.video.tvparapobres" name="Tvparapobres" version="0.3" provider-name="mbebe">
     <requires>
         <import addon="xbmc.python" version="3.0.0" />
         <import addon="script.module.inputstreamhelper" version="0.3.3"/>

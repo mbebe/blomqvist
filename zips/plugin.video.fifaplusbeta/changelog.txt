@@ -1,3 +1,6 @@
+0.5
+- fix urllib3 DEFAULT_CIPHER error
+
 0.3
 - fix playing
 

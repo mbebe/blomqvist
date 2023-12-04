@@ -1,4 +1,7 @@
-﻿1.7.5.9
+﻿1,7.5.10
+- fix urllib3
+
+1.7.5.9
 - fix logowania (hevet)
 
 1.7.5.8
