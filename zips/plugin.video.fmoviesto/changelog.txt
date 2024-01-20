@@ -1,3 +1,6 @@
+1.29
+- fix vidplay host
+
 1.28
 - fix vidplay host
 - fix getkey url

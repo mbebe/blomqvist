@@ -743,7 +743,7 @@ Róbta co chceta! :)
     </extension>
 </addon>
 
-<addon id="plugin.video.fmoviesto" name="fmovies.to" version="1.28" provider-name="mbebe">
+<addon id="plugin.video.fmoviesto" name="fmovies.to" version="1.29" provider-name="mbebe">
     <requires>
         <import addon="script.module.requests" />
         <import addon="script.module.resolveurl"/>
@@ -845,7 +845,7 @@ Róbta co chceta! :)
 	</extension>
 </addon>
 
-<addon id="plugin.video.goojara" name="goojara.to" version="0.4" provider-name="mbebe">
+<addon id="plugin.video.goojara" name="goojara.to" version="0.5" provider-name="mbebe">
     <requires>
         <import addon="script.module.requests" />
         <import addon="script.module.six"/>
@@ -1084,7 +1084,7 @@ Róbta co chceta! :)
     </extension>
 </addon>
 
-<addon id="plugin.video.latinohd" name="Tele Latino HD" version="0.7" provider-name="mbebe">
+<addon id="plugin.video.latinohd" name="Tele Latino HD" version="0.8" provider-name="mbebe">
     <requires>
         <import addon="script.module.requests" />
         <import addon="script.module.six"/>
@@ -2195,7 +2195,7 @@ Róbta co chceta! :)
   </extension>
 </addon>
 
-<addon id="script.module.resolveurl" name="ResolveURL" version="5.1.108" provider-name="gujal">
+<addon id="script.module.resolveurl" name="ResolveURL" version="5.1.124" provider-name="gujal">
     <requires>
         <!-- <import addon="xbmc.python" version="3.0.0" /> -->
         <import addon="script.module.six" />
