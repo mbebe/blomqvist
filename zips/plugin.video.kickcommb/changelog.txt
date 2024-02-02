@@ -1,2 +1,4 @@
+1.1
+- select streams language
 1.0
 - initial version 
