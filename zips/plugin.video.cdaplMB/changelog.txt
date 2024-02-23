@@ -1,6 +1,9 @@
+1.13
+- fix logowanie/odświeżanie tokena
+1.12
+- dostosowanie do aktualizacji urllib3
 1.11
-- fix urllib3 error
-
+- export listy M3U live tv
 1.10
 - fix logowania (yeebuttny)
 
