@@ -743,7 +743,7 @@ Róbta co chceta! :)
     </extension>
 </addon>
 
-<addon id="plugin.video.fmoviesto" name="fmovies.to" version="1.29" provider-name="mbebe">
+<addon id="plugin.video.fmoviesto" name="fmovies.to" version="1.30" provider-name="mbebe">
     <requires>
         <import addon="script.module.requests" />
         <import addon="script.module.resolveurl"/>
