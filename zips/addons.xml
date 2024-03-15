@@ -743,7 +743,7 @@ Róbta co chceta! :)
     </extension>
 </addon>
 
-<addon id="plugin.video.fmoviesto" name="fmovies.to" version="1.30" provider-name="mbebe">
+<addon id="plugin.video.fmoviesto" name="fmovies.to" version="1.31" provider-name="mbebe">
     <requires>
         <import addon="script.module.requests" />
         <import addon="script.module.resolveurl"/>
@@ -2195,7 +2195,7 @@ Róbta co chceta! :)
   </extension>
 </addon>
 
-<addon id="script.module.resolveurl" name="ResolveURL" version="5.1.124" provider-name="gujal">
+<addon id="script.module.resolveurl" name="ResolveURL" version="5.1.128" provider-name="gujal">
     <requires>
         <!-- <import addon="xbmc.python" version="3.0.0" /> -->
         <import addon="script.module.six" />
