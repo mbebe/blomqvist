@@ -1,3 +1,8 @@
+2.7
+- zmiany postaci graficznej EPG (rezygnacja z prezentacji czasu zakończenia programu)
+- odświeżenie wygasającego refreshTokena
+- identyfikacja przypadku braku usługi UPC TV GO w umowie
+
 2.6
 - update mtr81
 
